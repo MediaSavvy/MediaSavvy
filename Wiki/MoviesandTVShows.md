@@ -83,7 +83,7 @@ Make sure to use a VPN!
 
 ### Best Movie Apps For Android:
 
-**1. ⭐ [Stremio](https://stremio.com):** Supports downloading / 4K and lower /[Guide](https://rentry.co/a-guide-to-stremio)
+**1. ⭐ [Stremio](https://stremio.com):** Supports downloading / 4K and lower / [Guide](https://rentry.co/a-guide-to-stremio)
 
 **2. ⭐ [NovaTV](https://www.novatv.app) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=novatv&sf=titleonly)**
 
