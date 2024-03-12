@@ -18,7 +18,6 @@
 **1. ⭐ [SlavArt](https://slavart.gamesdrive.net/tracks):** [Discord](https://discord.gg/nTUd5cCf) | FLAC, 320kbps & lower (Only FLAC is available on the website).
 
 **2. ⭐ [DoubleDouble](https://doubledouble.top/):** FLAC, 320kbps & lower.
-:::
 
 ***
 
