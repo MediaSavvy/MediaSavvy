@@ -15,11 +15,9 @@
 
 ### Browser Music Downloaders:
 
-**1. ⭐ [Free MP3 Downloader](https://free-mp3-download.net/):** FLAC, 320kbps & lower.
+**1. ⭐ [SlavArt](https://slavart.gamesdrive.net/tracks):** [Discord](https://discord.gg/nTUd5cCf) | FLAC, 320kbps & lower (Only FLAC is available on the website).
 
-**2. ⭐ [SlavArt](https://slavart.gamesdrive.net/tracks):** [Discord](https://discord.gg/nTUd5cCf) | FLAC, 320kbps & lower (Only FLAC is available on the website).
-
-**3. ⭐ [DoubleDouble](https://doubledouble.top/):** FLAC, 320kbps & lower.
+**2. ⭐ [DoubleDouble](https://doubledouble.top/):** FLAC, 320kbps & lower.
 :::
 
 ***
