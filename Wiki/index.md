@@ -17,7 +17,6 @@ Welcome to my wiki, a trusted source for carefully curated piracy and other info
 - Any program/website marked with a ⭐ means that they are good quality, reliable and recommended by me.
 - To see what websites and programs to avoid, [go here](https://mediasavvy.pages.dev/Wiki/UnsafeSites).
 - Always scan the files you download using [Virustotal](https://www.virustotal.com) to make sure it's safe.
-- **If you love the work of the developers consider supporting them!**
 :::
 
 ***
