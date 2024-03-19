@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "MediaSavvy!"
-  text: "A free piracy and all purpose wiki"
+  text: "An all purpose wiki"
   tagline: Only the best options are listed.
   image:
     src: https://take-me-to.space/KyF6pJLr.png
