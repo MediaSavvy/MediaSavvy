@@ -63,7 +63,7 @@
 **1. ⭐ [IPALibrary](https://www.ipalibrary.me)**
 
 
-**2. ⭐ [EonHub](https://apps.eonhubapp.com):** Able to install apps anf games without needing a PC.
+**2. ⭐ [EonHub](https://apps.eonhubapp.com):** Able to install apps and games without needing a PC.
 
 
 **3. [iOSHaven](https://ioshaven.com/apps)**
