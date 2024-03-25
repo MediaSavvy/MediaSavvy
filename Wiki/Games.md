@@ -62,17 +62,13 @@
 
 **1. ⭐ [IPALibrary](https://www.ipalibrary.me)**
 
-
-**2. ⭐ [EonHub](https://apps.eonhubapp.com):** Able to install apps anf games without needing a PC.
-
-
-**3. [iOSHaven](https://ioshaven.com/apps)**
+**2. [iOSHaven](https://ioshaven.com/apps)**
 
 
-**4. [iOSGods](https://app.iosgods.com/)**
+**3. [iOSGods](https://app.iosgods.com/)**
 
 
-**5. [AppCake](https://www.iphonecake.com/):** Has little games and apps for iPads.
+**4. [AppCake](https://www.iphonecake.com/):** Has little games and apps for iPads.
 
 
 ***
