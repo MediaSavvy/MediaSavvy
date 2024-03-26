@@ -7,19 +7,21 @@
 
 **1. ⭐ [SteamRIP](https://steamrip.com/)**
 
-**2. ⭐ [GOG-Games](https://github.com/ezerear/gog-games.to_backup)** / [Note](https://a.imagem.app/opdEX8.png)
+**2. ⭐ [Online-fix](https://online-fix.me/)**
 
-**5. ⭐ [Online-fix](https://online-fix.me/)**
+**3. ⭐ [GamesDrive](https://gamesdrive.net/)**
 
-**6. ⭐ [GamesDrive](https://gamesdrive.net/)**
+**4. ⭐ [Ova Games](https://www.ovagames.com/)**
 
-**7. ⭐ [Ova Games](https://www.ovagames.com/)**
+**5. ⭐ [CS.RIN.RU](https://cs.rin.ru/)**
 
-**8. ⭐ [CS.RIN.RU](https://cs.rin.ru/)**
+**6. ⭐ [Worldofpcgames](https://worldof-pcgames.net/)**
 
-**9. [Game Bounty](https://gamebounty.world/)**
+**6. [Game Bounty](https://gamebounty.world/)**
 
-**10. [Torrminatorr](https://forum.torrminatorr.com/)**
+**7. [GOG-Games](https://github.com/ezerear/gog-games.to_backup)** / [Note](https://a.imagem.app/opdEX8.png)
+
+**8. [Torrminatorr](https://forum.torrminatorr.com/)**
 
 ### Game Repacks 
 
@@ -29,9 +31,9 @@
 
 **3. ⭐ [KaosKrew](https://www.kaoskrew.org/)**
 
-**4. ⭐ [Gnarly Repacks](https://rentry.org/gnarly_repacks)**
+**4. [Gnarly Repacks](https://rentry.org/gnarly_repacks)**
 
-**5. ⭐ [M4CKD0GE](https://m4ckd0ge-repacks.site/)**
+**5. [M4CKD0GE](https://m4ckd0ge-repacks.site/)**
 
 **6. [Tiny Repacks](https://www.tiny-repacks.win/)**
 
@@ -39,7 +41,7 @@
 
 ### Games for Android:
 
-**1. ⭐[ Moddroid](https://www.moddroid.co):** Avoid the Moddroid app
+**1. ⭐ [Moddroid](https://www.moddroid.co):** Avoid the Moddroid app
 
 **2. ⭐ [Modyolo](https://modyolo.com)**
 
