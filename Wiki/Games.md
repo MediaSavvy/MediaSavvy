@@ -15,13 +15,11 @@
 
 **7. ⭐ [Ova Games](https://www.ovagames.com/)**
 
-**8. ⭐ [Torrminatorr](https://forum.torrminatorr.com/)**
+**8. ⭐ [CS.RIN.RU](https://cs.rin.ru/)**
 
-**9. ⭐ [CS.RIN.RU](https://cs.rin.ru/)**
+**9. [Game Bounty](https://gamebounty.world/)**
 
-**10. [Game Bounty](https://gamebounty.world/)**
-
-**11. [Torrminatorr](https://forum.torrminatorr.com/)**
+**10. [Torrminatorr](https://forum.torrminatorr.com/)**
 
 ### Game Repacks 
 
