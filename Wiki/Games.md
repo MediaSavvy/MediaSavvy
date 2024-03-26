@@ -17,11 +17,11 @@
 
 **6. ⭐ [Worldofpcgames](https://worldof-pcgames.net/)**
 
-**6. [Game Bounty](https://gamebounty.world/)**
+**7. [Game Bounty](https://gamebounty.world/)**
 
-**7. [GOG-Games](https://github.com/ezerear/gog-games.to_backup)** / [Note](https://a.imagem.app/opdEX8.png)
+**8. [GOG-Games](https://github.com/ezerear/gog-games.to_backup)** / [Note](https://a.imagem.app/opdEX8.png)
 
-**8. [Torrminatorr](https://forum.torrminatorr.com/)**
+**9. [Torrminatorr](https://forum.torrminatorr.com/)**
 
 ### Game Repacks 
 
