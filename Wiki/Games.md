@@ -7,7 +7,7 @@
 
 **1. ⭐ [SteamRIP](https://steamrip.com/)**
 
-**2. ⭐ [GOG-Games](gog-games.to):** GOG games only
+**2. ⭐ [GOG-Games](https://github.com/ezerear/gog-games.to_backup)** / [Note](https://a.imagem.app/opdEX8.png)
 
 **5. ⭐ [Online-fix](https://online-fix.me/)**
 
