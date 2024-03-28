@@ -8,8 +8,6 @@
 
 - **TheRarBG:** Fake clone of RarBG.
 
-- **RSload:** Caught using the same Malwarebytes version as FileCR (Which is malware). I'll remove RSload from this list once they have removed that version of Malwarebytes.
-
 - **RarBG Dump Index:** Fake clone of RarBG.
 
 - **SadeemPC / SadeemAPK:**   Caught with malware multiple times.
@@ -64,7 +62,7 @@
 
 - **Softonic:**  Has been caught installing adware and malware onto users computers and phones.
 
-- **1337x:**  Caught having a crypto-miner in one of the software, and apparently has something to do with the 1337x staff. Hosts and supporting uploaders who upload malware to the site, and not banning them when they get caught. If you ***have*** to download from 1337x then ***ONLY*** get the games from the following uploaders: 0xEMPRESS, anadius, DODI, FitGirl, JohnCena141 (For Linux), KaOsKrew, s7on3r and TinyRepacks. Do ***NOT** download any software on 1337x.
+- **1337x:** Caught with malware.
    
 - **FileCR:**  Added FileCR (To learn more on why I put FileCR here, [go here](https://rentry.co/filecr_malware) 
  
@@ -112,7 +110,7 @@
 
 - **AllPCWorld:** Uploaded KMS Matrix which is known malware.
  
-- **RSLOAD:** Uploaded the same version of malwarebytes that got FileCR in trouble.
+- **RSLOAD:** Uploaded the same version of malwarebytes that got FileCR in trouble. Caught using the same Malwarebytes version as FileCR (Which is malware).
 
 - **CoolROM:** Caught with malware.
 
