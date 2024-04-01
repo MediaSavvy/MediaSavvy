@@ -5,25 +5,17 @@
 
 **1. ⭐ [ChatGPT](https://chat.openai.com):** A very popular AI chatbot that answers all your questions and more.
 
+**2. ⭐ [Wrtn](https://wrtn.ai/):** Free GPT 4.
 
 **2. ⭐ [Phind](https://www.phind.com/):** A very good AI chatbot that can answer all your questions and is a very good programming assistant.
 
+**5. ⭐ [Perplexity](https://www.perplexity.ai/):** An amazing GPT-3.5 chatbot. Great for research.
 
-**3. ⭐ [Bard](https://bard.google.com/):** Google's chatbot.
-
-**6. ⭐ [Perplexity](https://www.perplexity.ai/):** An amazing GPT-3.5 chatbot. Great for research.
-
-
-**7. ⭐ [Poe](https://www.poe.com):** Multiple chatbots in one app (Claude, ChatGPT, GPT-4, Claude-2 etc) all for free, but some paid chatbots like GPT-4 have limited the amount of times you can chat with them for the day.
-
-
-**8. ⭐ [Claude](https://www.anthropic.com/product):** Anthropic's AI chatbot.
-
+**7. ⭐ [Claude](https://www.anthropic.com/product):** Anthropic's AI chatbot.
 
 **9. ⭐ [LMSYS](https://chat.lmsys.org/):** Free GPT-4 and other chatbots.
 
-
-**10. ⭐ [Microsoft Copilot](https://copilot.microsoft.com/):** Free GPT-4 & 3 powered search, image analysis, image generation powered by DALL-E 3 | [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+**10. ⭐ [Microsoft Copilot](https://copilot.microsoft.com/):** Free GPT-4 & 3.5 powered search, image analysis, image generation powered by DALL-E 3 | [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 
 
 **9. [Replika](https://www.replika.ai):** AI Companion.
@@ -34,9 +26,16 @@
 
 **11. [Character.AI](https://beta.character.ai/):** Roleplaying chatbots
 
+
 **12. [Call Annie](https://callannie.ai/):** GPT-3.5 powered chatbot with real-time voice and video calls.
 
+
 **13. [Ora](https://ora.ai/start):** GPT-3.5 Chatbots.
+
+
+**14. [Bard](https://bard.google.com/):** Google's chatbot.
+
+**15 [Poe](https://www.poe.com):** Multiple chatbots in one app (Claude, ChatGPT, GPT-4, Claude-2 etc) all for free, but some paid chatbots like GPT-4 have limited the amount of times you can chat with them for the day.
 
 
 ## Learning:
@@ -57,9 +56,9 @@
 
 **3. ⭐ [Fusion Brain](https://fusionbrain.ai/diffusion)**
 
-**4. [Craiyon](https://www.craiyon.com/)**
+**4. ⭐ [GetIMG.ai](https://getimg.ai/):** 100 images monthly / Uncensored.
 
-**5. [GetIMG.ai](https://getimg.ai/):** 100 messages monthly / Uncensored
+**5. [Craiyon](https://www.craiyon.com/)**
 
 **6. [Meta AI](https://imagine.meta.com/)**
 
@@ -91,7 +90,8 @@
 
 1. ⭐ [Uber Duck](https://uberduck.ai/)
 
-2. [Bark](https://huggingface.co/spaces/suno/bark)
+2. ⭐ [ElevenLabs](https://beta.elevenlabs.io/)
 
-3. [ElevenLabs](https://beta.elevenlabs.io/)
+3. [Bark](https://huggingface.co/spaces/suno/bark)
+
 
