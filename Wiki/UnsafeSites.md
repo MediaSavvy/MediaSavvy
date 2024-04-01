@@ -54,7 +54,7 @@
 
 - **GameFabrique:**  IGG uploads and [adware installers.](https://rentry.co/GameFabrique_Adware/)
 
-- **Untrusted Uploaders**
+- **Untrusted Uploaders on Torrenting Sites**
 
 - **[Fake FitGirl Sites](https://rentry.co/FakeFitgirlwebsites):**  The real fitGirl repack site is www.fitgirl-repacks.site
 
@@ -110,9 +110,11 @@
 
 - **AllPCWorld:** Uploaded KMS Matrix which is known malware.
  
-- **RSLOAD:** Uploaded the same version of malwarebytes that got FileCR in trouble. Caught using the same Malwarebytes version as FileCR (Which is malware).
+- **RSLOAD:** Uploaded the same version of malwarebytes that got FileCR in trouble, also uploaded KMS Matrix, which is known malware.
 
 - **CoolROM:** Caught with malware.
+
+- **Moopa (moopa-live):** Fake clone.
 
 :::
 
@@ -121,9 +123,13 @@
 
 - **Downloadly (video downloader):**  Crypto miner / Note that downloadly.ir is unrelated.
 
-- **Opera Browser:**  Poor privacy practices  / Predatory Loan Apps.
+- **Opera Browser / OperaGX:**  Poor privacy practices  / Predatory Loan Apps.
 
 - **McaFee:**  Preinstalled Bloatware.
+
+- **Gen Digital / Norton** - Owned by Avast
+
+- **Avira** - Owned by Gen Digital
 
 - **Avast:**  Known for selling user data.
 
@@ -133,7 +139,7 @@
 
 - **Private Internet Access:**  Owned by malware distributor Kape.
 
-- **ExpressVPN / ZenMate / CyberGhost:**  Owned by Kape.
+- **Private Internet Access / ExpressVPN / ZenMate / CyberGhost:**  Owned by Kape.
 
 - **Acord (Discord Mod):**  Has remote eval backdoor.
 
@@ -141,9 +147,9 @@
 
 - **Kik (Messaging App):**  App used by mostly predators/scammers.
 
-- **TLauncher (Minecraft Launcher):**  Shady business practices, spyware. / Note that TLauncher Legacy is unrelated and safe.
+- **TLauncher (Minecraft Launcher):**  Shady business practices, possibly spyware. Note that TLauncher Legacy is unrelated and safe.
 
-- **PolyMC (Minecraft Launcher):**  Owner kicked all members from repo/discord.
+- **PolyMC (Minecraft Launcher):**  Owner kicked all members from repo/discord. Note: PollyMC is unrelated and safe.
 
 - **GShade (ReShade mod):**  Dev added code that can trigger unwanted reboots.
 
@@ -168,5 +174,7 @@
 - Any website you find on Google by searching for "free game downloads", "cracked games" etc. Google removes piracy websites from its search results, which means that fake and malware-spreading sites will float to the top of the search results. This also applies to searches on YouTube as well.
 
 - Any website with a scene group name in their URL are UNSAFE - SCENE GROUPS DON'T HAVE SITES! (Examples such as CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SiMPLEX, DARKSiDERS, PLAZA etc. They do not have websites. Websites with a combination of these names aren't safe either.
+
+- Torrent aggregators pull results from multiple sites, so it's recommended to avoid using them for software and games. 
 :::
 
