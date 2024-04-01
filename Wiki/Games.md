@@ -19,7 +19,7 @@
 
 **7. [Game Bounty](https://gamebounty.world/)**
 
-**8. [GOG-Games](https://github.com/ezerear/gog-games.to_backup)** / [Note](https://a.imagem.app/opdEX8.png)
+**8. [GOG-Games](https://gog-games.to)** / [Note](https://a.imagem.app/opdEX8.png) / [Backup](https://github.com/ezerear/gog-games.to_backup)
 
 **9. [Torrminatorr](https://forum.torrminatorr.com/)**
 
