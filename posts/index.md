@@ -2,7 +2,7 @@
 
 ## 2024
 
-- **[Monthly Updates](march-monthly-updates-2024) - March**
+- **[Monthly Updates](https://mediasavvy.pages.dev/posts/march-monthly-updates-2024) - March**
 
 - **[Monthly Updates](https://mediasavvy.pages.dev/posts/february-updates-2024) - February**
 
