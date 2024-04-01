@@ -31,7 +31,7 @@
 :::
 
 ::: details I don't know what *insert word* means?
-Check out my [my piracy glossary](https://mediasavvy.pages.dev/Wiki/PiracyGlossary).
+Check out FMHY's [piracy glossary](https://mediasavvy.pages.dev/Wiki/PiracyGlossary).
 :::
 
 ::: details How can I download Adobe products?
