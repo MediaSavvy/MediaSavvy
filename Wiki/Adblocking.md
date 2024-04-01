@@ -92,7 +92,7 @@ Chrome is getting a new update that can possibly put an end to adblockers, or re
 
 ***
 
-#### OperaGX / Opera: (If you are using Opera or OperaGX uninstall, and use a different browser such as Firefox. [See why here in the programs section](https://mediasavvy.pages.dev/Wiki/UnsafeSites.html).
+#### OperaGX / Opera: (If you are using Opera or OperaGX uninstall, and use a different browser such as Firefox. [See why here in the programs section](https://mediasavvy.pages.dev/Wiki/UnsafeSites.html).)
 
 - Go to addons.opera.com
 - Search uBlock origin and install the extension
