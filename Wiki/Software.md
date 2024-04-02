@@ -66,16 +66,13 @@
 **1. ⭐ [IPAlibrary](https://www.ipalibrary.me)**
 
 
-**2. ⭐ [EonHub](https://apps.eonhubapp.com):** Allows you to install apps without needing a PC.
+**2. [iOSHaven](https://ioshaven.com/apps)**
 
 
-**3. [iOSHaven](https://ioshaven.com/apps)**
+**3. [iOSGods](https://app.iosgods.com/)**
 
 
-**4. [iOSGods](https://app.iosgods.com/)**
-
-
-**5. [AppCake](https://www.iphonecake.com/):** Does not have a lot of apps for iPads.
+**4. [AppCake](https://www.iphonecake.com/):** Does not have a lot of apps for iPads.
 
 ***
 
