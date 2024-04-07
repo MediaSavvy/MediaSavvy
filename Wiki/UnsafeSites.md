@@ -123,7 +123,7 @@
 
 - **Downloadly (video downloader):**  Crypto miner / Note that downloadly.ir is unrelated.
 
-- **Opera Browser / OperaGX:**  Poor privacy practices  / Predatory Loan Apps.
+- **Opera Browser / OperaGX:**  [Poor privacy practices / Predatory Loan Apps](https://rentry.co/operagx).
 
 - **McaFee:**  Preinstalled Bloatware.
 
