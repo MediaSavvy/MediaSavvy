@@ -1,5 +1,5 @@
 # 🎮 Games
-### This page shows you how to get paid games and DLCs for free. 
+### This page shows you how to get paid games and DLCs for free 
 
 ***
 
