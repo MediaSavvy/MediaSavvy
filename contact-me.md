@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Contact Me"
-  text: ""
+  text: "Ask me a question, request a change to the wiki etc."
   tagline:  
   actions:
     - theme: brand
