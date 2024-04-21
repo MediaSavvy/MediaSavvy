@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "MediaSavvy!"
+  name: "MediaSavvy Piracy Wiki"
   text: "An all purpose wiki"
   tagline: Only the best options are listed.
   image:
