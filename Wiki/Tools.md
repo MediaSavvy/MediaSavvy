@@ -34,7 +34,7 @@ You need to install [Violentmonkey](https://violentmonkey.github.io/) to be able
 
 **1. [JDownloader2](http://jdownloader.org/jdownloader2):** Download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites.
 
-**1. [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com/download.html):** Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Activate it for free [here](https://massgrave.dev/idm-activation-script.html).
+**1. [XDM](https://xtremedownloadmanager.com/):** Download manager.
 
 ### Video Download Tools:
 
