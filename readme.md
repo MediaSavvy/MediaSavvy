@@ -1,4 +1,2 @@
 # MediaSavvy!
-## NEW MEGA PIRACY / ALL PURPOSE WIKI!
-
-***
+## A piracy and all purpose wiki that foucus on quality over quantity.
