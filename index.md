@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "MediaSavvy Piracy Wiki"
-  text: "An all purpose wiki"
+  name: "MediaSavvy Wiki"
+  text: "A piracy and all purpose wiki"
   tagline: Only the best options are listed.
   image:
     src: https://take-me-to.space/KyF6pJLr.png
