@@ -33,21 +33,19 @@
 
 **6. [FileBot](https://www.filebot.net/):** The ultimate tool for renaming and organizing your movies, TV shows and Anime. Match and rename media files against online databases, download artwork and cover images, fetch subtitles, write metadata, and more, all at once in matter of seconds. | [Cracked](https://www.mediafire.com/file/d7e9ctdnzc971pb/FileBot_4.9.6-portable.rar/file).
 
-**7. [IDM](https://www.internetdownloadmanager.com/download.html):** A tool that increases your download speed by 5 times.
+**7. [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html):** is a freeware that gathers information on some of the main devices of your system: Processor name and number, codename, process, package, cache levels. Mainboard and chipset. Memory type, size, timings, and module specifications (SPD). Real time measurement of each core's internal frequency, memory frequency.
 
-**8. [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html):** is a freeware that gathers information on some of the main devices of your system: Processor name and number, codename, process, package, cache levels. Mainboard and chipset. Memory type, size, timings, and module specifications (SPD). Real time measurement of each core's internal frequency, memory frequency.
+**8. [Sandboxie+](https://github.com/sandboxie-plus/Sandboxie):** A sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems. It creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying local & mapped drives or the windows registry.
 
-**9. [Sandboxie+](https://github.com/sandboxie-plus/Sandboxie):** A sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems. It creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying local & mapped drives or the windows registry.
+**9. [Bulk Crap Uninstaller](https://www.bcuninstaller.com/):** Bulk Crap Uninstaller (in short BCUninstaller or BCU) is a free bulk program uninstaller with advanced automation. It excels at removing large amounts of applications with minimal to no user input, while requiring next to no technical knowledge.
 
-**10. [Bulk Crap Uninstaller](https://www.bcuninstaller.com/):** Bulk Crap Uninstaller (in short BCUninstaller or BCU) is a free bulk program uninstaller with advanced automation. It excels at removing large amounts of applications with minimal to no user input, while requiring next to no technical knowledge.
+**10. [Calibre](https://calibre-ebook.com/):** A powerful and easy to use e-book manager. It’ll allow you to do nearly everything and it takes things a step beyond normal e-book software.
 
-**11. [Calibre](https://calibre-ebook.com/):** A powerful and easy to use e-book manager. It’ll allow you to do nearly everything and it takes things a step beyond normal e-book software.
+**11. [7zip](http://www.7-zip.org/download.html):** A free and open-source file archiver.
 
-**12. [7zip](http://www.7-zip.org/download.html):** A free and open-source file archiver.
+**12. [OP Auto Clicker](https://autoclicker.en.uptodown.com/windows):** Automate mouse clicks on your computer.
 
-**13. [OP Auto Clicker](https://autoclicker.en.uptodown.com/windows):** Automate mouse clicks on your computer.
-
-**14. [Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/:)** Run Android apps on Windows.
+**13. [Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/:)** Run Android apps on Windows.
 
 ***
 
