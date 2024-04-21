@@ -39,7 +39,7 @@
 
 ### Games for Android:
 
-**1. ⭐ [Moddroid](https://www.moddroid.co):** Avoid the Moddroid app
+**1. ⭐ [Moddroid](https://www.moddroid.com):** Avoid the Moddroid app
 
 **2. ⭐ [Modyolo](https://modyolo.com)**
 
