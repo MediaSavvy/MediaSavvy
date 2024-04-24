@@ -15,11 +15,13 @@
 
 **5. ⭐ [CS.RIN.RU](https://cs.rin.ru/)**
 
-**6. ⭐ [Game Bounty](https://gamebounty.world/)**
+**6. ⭐ [Worldofpcgames](https://worldof-pcgames.net/)**
 
-**7. [GOG-Games](https://gog-games.to)** / [Note](https://a.imagem.app/opdEX8.png) / [Backup](https://github.com/ezerear/gog-games.to_backup)
+**7. [Game Bounty](https://gamebounty.world/)**
 
-**8. [Torrminatorr](https://forum.torrminatorr.com/)**
+**8. [GOG-Games](https://gog-games.to)** / [Note](https://a.imagem.app/opdEX8.png) / [Backup](https://github.com/ezerear/gog-games.to_backup)
+
+**9. [Torrminatorr](https://forum.torrminatorr.com/)**
 
 ### Game Repacks 
 
