@@ -1,7 +1,10 @@
 import { defineConfig } from 'vitepress'
 
-type HeadConfig =
-<meta>name="google-site-verification" content="DCRexKyddux1ICFC-vTdfXUY7H8JbSPpU1DM9I35NgE"<meta/>
+type HeadConfig = {
+  tag: 'meta';
+  name: 'google-site-verification';
+  content: 'DCRexKyddux1ICFC-vTdfXUY7H8JbSPpU1DM9I35NgE';
+}
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
