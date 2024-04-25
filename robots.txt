@@ -1,35 +1,35 @@
 User-agent: Googlebot
-Disallow: 
+Disallow: /Wiki
 User-agent: googlebot-image
-Disallow: 
+Disallow: /Wiki
 User-agent: googlebot-mobile
-Disallow: 
+Disallow: /Wiki
 User-agent: MSNBot
-Disallow: 
+Disallow: /Wiki
 User-agent: Slurp
-Disallow: 
+Disallow: /Wiki
 User-agent: Teoma
-Disallow: 
+Disallow: /Wiki
 User-agent: Gigabot
-Disallow: 
+Disallow: /Wiki
 User-agent: Robozilla
-Disallow: 
+Disallow: /Wiki
 User-agent: Nutch
-Disallow: 
+Disallow: /Wiki
 User-agent: ia_archiver
-Disallow: 
+Disallow: /Wiki
 User-agent: baiduspider
-Disallow: 
+Disallow: /Wiki
 User-agent: naverbot
-Disallow: 
+Disallow: /Wiki
 User-agent: yeti
-Disallow: 
+Disallow: /Wiki
 User-agent: yahoo-mmcrawler
-Disallow: 
+Disallow: /Wiki
 User-agent: psbot
-Disallow: 
+Disallow: /Wiki
 User-agent: yahoo-blogs/v3.9
-Disallow: 
+Disallow: /Wiki
 User-agent: *
 Disallow: 
 
