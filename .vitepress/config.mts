@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 type HeadConfig =
-| [['link', { rel: 'icon', href: '/.vitepress/favicon.ico' }]]
+| [['link', { rel: 'icon', href: '/favicon.ico' }]]
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
