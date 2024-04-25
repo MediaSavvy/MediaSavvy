@@ -1,11 +1,12 @@
 import { defineConfig } from 'vitepress'
 
-head: [['link', { rel: 'icon', href: '/.vitepress/favicon.ico' }]]
+type HeadConfig =
+| [['link', { rel: 'icon', href: '/.vitepress/favicon.ico' }]]
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
- title: 'MediaSavvy Wiki',
- titleTemplate: 'A Piracy Wiki',
+ title: 'MediaSavvy',
+ titleTemplate: 'Piracy Wiki',
  description: "A piracy and all purpose wiki",
  themeConfig: {
    // https://vitepress.dev/reference/default-theme-config
