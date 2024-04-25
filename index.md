@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "MediaSavvy Wiki"
   text: "A piracy and all purpose wiki"
-  tagline: Only the best options are listed.
+  tagline: With a focus on quality over quantity
   image:
     src: https://take-me-to.space/KyF6pJLr.png
     alt: Logo
