@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 type HeadConfig =
 | [['link', { rel: 'icon', href: '/favicon.ico' }]]
+| <meta name="google-site-verification" content="DCRexKyddux1ICFC-vTdfXUY7H8JbSPpU1DM9I35NgE" />
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
