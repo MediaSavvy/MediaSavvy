@@ -1,7 +1,7 @@
 # 📰 Wiki Updates, Changes and News
 
 ## 2024
-- **[A new Discord server for MediaSavvy 🎉](https://mediasavvy.pages.dev/posts/new-discord-server) - March 30th**
+- **[A new Discord server for MediaSavvy 🎉](https://mediasavvy.pages.dev/posts/newdiscordserver) - March 30th**
 
 - **[Monthly Updates](https://mediasavvy.pages.dev/posts/march-updates-2024) - March 31**
 
