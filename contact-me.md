@@ -17,5 +17,5 @@ features:
   - title: Email
     details: You can contact me by emailing mediasavvvy@outlook.com. I'll try to respond in about 2-3 days or earlier.
   - title: Discord Server
-    details: Talk to me on MediaSavvy's Discord server: discord.gg/JwYq3q84XU
+    details: Talk to me on MediaSavvy's Discord server (https://discord.gg/JwYq3q84XU)
 ---
