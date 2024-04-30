@@ -8,7 +8,7 @@ type HeadConfig = {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
- title: 'MediaSavvy',
+ title: '📃MediaSavvy',
  titleTemplate: 'Piracy Wiki',
  description: "A piracy and all purpose wiki",
  themeConfig: {
@@ -25,7 +25,7 @@ export default defineConfig({
    nav: [
      { text: 'Home', link: '/' },
      { text: 'Posts', link: 'https://mediasavvy.pages.dev/posts/' },
-     { text: 'WhatsApp Channel', link: 'https://mediasavvy.pages.dev/whatsapp-channel' },
+     { text: 'Discord Server', link: 'https://discord.gg/JwYq3q84XU' },
      { text: 'Guides', link: 'https://rentry.org/mediasavvy-guides'} 
    ],
    sidebar: [
