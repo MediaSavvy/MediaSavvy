@@ -21,7 +21,7 @@ hero:
       link: /contact-me
    - theme: alt
       text: Discord Server
-      link: /posts/new-discord-server/
+      link: /posts/newdiscordserver/
 
 features:
   - icon: 📅   
