@@ -19,9 +19,9 @@ hero:
     - theme: alt
       text: Contact me
       link: /contact-me
-  #  - theme: alt
-   #   text: All features
-   #   link: /features
+   - theme: alt
+      text: Discord Server
+      link: https://discord.gg/JwYq3q84XU
 
 features:
   - icon: 📅   
