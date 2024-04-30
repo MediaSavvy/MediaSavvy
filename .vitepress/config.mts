@@ -8,7 +8,7 @@ type HeadConfig = {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
- title: '📃MediaSavvy',
+ title: '📃 MediaSavvy',
  titleTemplate: 'Piracy Wiki',
  description: "A piracy and all purpose wiki",
  themeConfig: {
