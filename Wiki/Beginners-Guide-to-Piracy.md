@@ -14,7 +14,7 @@
 
 - SCAN ALL EXECUTABLE FILES WITH VIRUSTOTAL to scan for malware. Only use trusted websites from this wiki. Also make sure to check this wiki often to make sure that a site you use hasn't been caught with malware.
 
-- If you have any questions I'll gladly answer them, just post your question or ask for help on r/AskAboutPiracy on Reddit.
+- If you are streaming movies/tv shows and it's buffering, you can try [FastStream](https://FastStream.online). FastStream downloads video fragments in parallel. Up to 6x faster download speeds for videos, ensuring smooth playback with no interruptions. 
 
 ## 🗣️ Frequently Asked Questions about piracy:
 
