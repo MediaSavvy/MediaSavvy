@@ -13,34 +13,31 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 **1. ⭐ [watch.lonelil](https://watch.lonelil.com/):** Movies & TV Shows & Anime & Live TV/ 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add movie-web extension for better streams](https://watch.lonelil.com/onboarding)
 
 
-**2. ⭐ [FMovies](https://www.fmoviesz.to):** Movies & TV Shows & Anime / 1080p & lower / Slow loading speeds / Good design / Multi Server / Use Filemoon server to be able to download movies
+**2. ⭐ [FMovies](https://www.fmoviesz.to):** Movies & TV Shows & Anime / 1080p & lower / Slow loading speeds / Good design / Multi Server / Use Filemoon server to be able to download movies.
 
 
-**3. ⭐ [The Movie Archive](https://themoviearchive.site/):** Movies & TV Shows & Anime / 4K & Lower / Fast / Good Design / Multi Server
+**3. ⭐ [FlixHQ](https://flixhq.click/):** Movies & TV Shows & Anime / 1080p & lower / Fast loading speeds / Good design / Multi Server
+
+**4. ⭐ [SFlix](https://sflix.to/):** Movies & TV Shows & Anime / 1080p & Lower / Slow loading speeds / Ok design / Multi Server
 
 
-**4. ⭐ [FlixHQ](https://flixhq.click/):** Movies & TV Shows & Anime / 1080p & lower / Fast loading speeds / Good design / Multi Server
-
-**5. ⭐ [SFlix](https://sflix.to/):** Movies & TV Shows & Anime / 1080p & Lower / Slow loading speeds / Ok design / Multi Server
+**5. ⭐ [Braflix](https://www.braflix.app/):** Movies & TV Shows & Anime & Live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server
 
 
-**6. ⭐ [Braflix](https://www.braflix.app/):** Movies & TV Shows & Anime & Live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server
+**6. ⭐ [RidoMovies](https://ridomovies.tv/):** Movies & TV Shows & Anime / 1080p & Lower / Fast loading speeds / Good design / Single Server
 
 
-**7. ⭐ [RidoMovies](https://ridomovies.tv/):** Movies & TV Shows & Anime / 1080p & Lower / Fast loading speeds / Good design / Single Server
+**7. ⭐ [UpMovies](https://upmovies.to/):** Movies & TV Shows & Anime / 1080p & Lower / Ok loading speeds / Ok design / Multi Server
 
 
-**8. ⭐ [UpMovies](https://upmovies.to/):** Movies & TV Shows & Anime / 1080p & Lower / Ok loading speeds / Ok design / Multi Server
+**8. ⭐ [Streamflix](https://watch.streamflix.one/):** Movies & TV Shows & Anime & Live TV / 1080p & Lower / Ok loading speeds / Good Design / Multi Server
 
 
-**9. ⭐ [Streamflix](https://watch.streamflix.one/):** Movies & TV Shows & Anime & Live TV / 1080p & Lower / Ok loading speeds / Good Design / Multi Server
+**9. ⭐ [PrimeFlix](https://primeflix-web.vercel.app/):** Movies & TV Shows / 1080p & Lower / Fast loading speeds / Good Design / Multi Server
 
+**10. ⭐ [Ask4Movies](https://ask4movie.li/):**  Movies & TV / 1080p & Lower / Multi Server / Fast loading speeds / Good Design
 
-**10. ⭐ [PrimeFlix](https://primeflix-web.vercel.app/):** Movies & TV Shows / 1080p & Lower / Fast loading speeds / Good Design / Multi Server
-
-**11. ⭐ [Ask4Movies](https://ask4movie.li/):**  Movies & TV / 1080p & Lower / Multi Server / Fast loading speeds / Good Design
-
-**12. ⭐ [Binged](https://binged.live/):** Movies & TV / 1080p & Lower / Multi Server / Fast loading speeds / Good Design
+**11. ⭐ [Binged](https://binged.live/):** Movies & TV / 1080p & Lower / Multi Server / Fast loading speeds / Good Design
 
 
 **12. [Smashystream](https://embed.smashystream.com/):** Movies & TV Shows & Anime / 1080p & lower / Ok loading speeds / Good design / Multi Server
