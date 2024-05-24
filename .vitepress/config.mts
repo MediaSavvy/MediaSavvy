@@ -24,7 +24,6 @@ export default defineConfig({
    logo: "/logo.ico",
    nav: [
      { text: 'Home', link: '/' },
-     { text: 'Posts', link: 'https://mediasavvy.pages.dev/posts/' },
      { text: 'Discord Server', link: 'https://discord.gg/JwYq3q84XU' },
      { text: 'Guides', link: 'https://rentry.org/mediasavvy-guides'} 
    ],
