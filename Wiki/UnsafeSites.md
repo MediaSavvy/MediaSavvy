@@ -83,8 +83,6 @@
 - **Steam-Repacks:**  Caught with malware multiple times.
  
 - **SteamUnlocked:**  Caught with malware multiple times.
- 
-- **WorldOfPCGames:**  Caught with malware.
 
 - **ROMs Unlocked:**  Slow downloads, malicious link redirects and uploads stolen from IGG Games and nosTEAM.
 
