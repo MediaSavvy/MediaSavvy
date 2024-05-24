@@ -14,9 +14,6 @@ hero:
       text: Explore Wiki
       link: /Wiki/
     - theme: alt
-      text: Wiki Updates/News
-      link: /posts/
-    - theme: alt
       text: Contact me
       link: /contact-me
     - theme: alt
