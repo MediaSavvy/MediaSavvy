@@ -37,8 +37,7 @@
 
 **14. [Bard](https://bard.google.com/):** Google's chatbot.
 
-**15 [Poe](https://www.poe.com):** Multiple chatbots in one app (Claude, ChatGPT, GPT-4, Claude-2 etc) all for free, but some paid chatbots like GPT-4 have limited the amount of times you can chat with them for the day.
-
+**15 [Poe](https://www.poe.com):** Multiple chatbots in one app, multiple image generation models for free (e.g stable diffusion)
 
 ## Learning:
 
