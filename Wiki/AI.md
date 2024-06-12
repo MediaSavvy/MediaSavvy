@@ -19,25 +19,27 @@
 
 **11. ⭐ [AI Uncensored](https://www.aiuncensored.info/):** Uncensored AI, no limits, option to run models locally, 3 different personas (psychologist, creative writer and advisor).
 
-
-**9. [Replika](https://www.replika.ai):** AI Companion.
-
-
-**10. [Pi](https://pi.ai/talk):** An excellent AI assistant that you can have conversations with, vent with, help you with work etc.
+**12. ⭐ [sdk.vercel](https://sdk.vercel.ai/):** GPT-4o and other chatbots.
 
 
-**11. [Character.AI](https://beta.character.ai/):** Roleplaying chatbots
+**13. [Replika](https://www.replika.ai):** AI Companion.
 
 
-**12. [Call Annie](https://callannie.ai/):** GPT-3.5 powered chatbot with real-time voice and video calls.
+**14. [Pi](https://pi.ai/talk):** An excellent AI assistant that you can have conversations with, vent with, help you with work etc.
 
 
-**13. [Ora](https://ora.ai/start):** GPT-3.5 Chatbots.
+**15. [Character.AI](https://beta.character.ai/):** Roleplaying chatbots
 
 
-**14. [Bard](https://bard.google.com/):** Google's chatbot.
+**16. [Call Annie](https://callannie.ai/):** GPT-3.5 powered chatbot with real-time voice and video calls.
 
-**15 [Poe](https://www.poe.com):** Multiple chatbots in one app, multiple image generation models for free (e.g stable diffusion)
+
+**17. [Ora](https://ora.ai/start):** GPT-3.5 Chatbots.
+
+
+**18. [Bard](https://bard.google.com/):** Google's chatbot.
+
+**19. [Poe](https://www.poe.com):** Multiple chatbots in one app, multiple image generation models for free (e.g stable diffusion)
 
 ## Learning:
 
