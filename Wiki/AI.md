@@ -3,7 +3,7 @@
 
 ## AI Chatbots: 
 
-**1. ⭐ [ChatGPT](https://chat.openai.com):** A very popular AI chatbot that answers all your questions and more.
+**1. ⭐ [ChatGPT](https://chat.openai.com):** GPT-4o and GPT-3.5 Turbo
 
 **2. ⭐ [Wrtn](https://wrtn.ai/):** Free GPT 4.
 
@@ -16,6 +16,8 @@
 **9. ⭐ [LMSYS](https://chat.lmsys.org/):** Free GPT-4 and other chatbots.
 
 **10. ⭐ [Microsoft Copilot](https://copilot.microsoft.com/):** Free GPT-4 & 3.5 powered search, image analysis, image generation powered by DALL-E 3 | [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+
+**11. ⭐ [AI Uncensored](https://www.aiuncensored.info/):** Uncensored AI, no limits, option to run models locally, 3 different personas (psychologist, creative writer and advisor).
 
 
 **9. [Replika](https://www.replika.ai):** AI Companion.
