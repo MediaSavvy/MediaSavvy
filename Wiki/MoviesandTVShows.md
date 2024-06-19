@@ -52,7 +52,7 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 ### Sites For Downloading Movies (DDL):
 
-**1. ⭐ [Olamovies](http://olamovies.yachts/):** Movies & TV / 4K & 1080p / DDL
+**1. ⭐ [Olamovies](https://olamovies.rent/):** Movies & TV / 4K & 1080p / DDL
 
 **2. ⭐ [LightDLMovies](https://lightdl.xyz/):** Movies & TV / 1080p & Lower / DDL / One click download
 
