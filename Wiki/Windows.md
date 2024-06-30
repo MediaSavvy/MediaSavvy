@@ -45,13 +45,13 @@
 
 **12. [OP Auto Clicker](https://autoclicker.en.uptodown.com/windows):** Automate mouse clicks on your computer.
 
-**13. [Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/:)** Run Android apps on Windows.
+**13. [Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/):** Run Android apps on Windows.
 
 ***
 
 ## System tweaks and customization:
 
-**1. [Everything Toolbar](https://github.com/srwi/EverythingToolbar:)** Improved Taskbar
+**1. [Everything Toolbar](https://github.com/srwi/EverythingToolbar):** Improved Taskbar
 
 **2. [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/):** System Tweaking Tools
 
@@ -63,7 +63,7 @@
 
 **6. [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI):** Customize Windows Taskbar.
 
-**7. [Cursors 4U](https://www.cursors-4u.com/):** Custome Cursors.
+**7. [Cursors 4U](https://www.cursors-4u.com/):** Custom Cursors.
 
 ***
 
