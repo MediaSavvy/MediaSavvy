@@ -1,9 +1,14 @@
 import { defineConfig } from 'vitepress'
 
 type HeadConfig = {
-  tag: 'meta';
-  name: 'google-site-verification';
-  content: 'DCRexKyddux1ICFC-vTdfXUY7H8JbSPpU1DM9I35NgE';
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+    <link rel="icon" href="static/favicon.ico" type="image/x-icon">
+    <!-- You can also use other formats like PNG -->
+    <!-- <link rel="icon" href="path/to/your/favicon.png" type="image/png"> -->
+</head>
 }
 
 // https://vitepress.dev/reference/site-config
