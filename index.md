@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "MediaSavvy Wiki"
+  name: "MediaSavvy"
   text: "A piracy and all purpose wiki"
   tagline: With a focus on quality over quantity
   image:
