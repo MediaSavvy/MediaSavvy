@@ -3,7 +3,7 @@
 
 ## AI Chatbots: 
 
-**1. ⭐ [ChatGPT](https://chat.openai.com):** GPT-4o and GPT-3.5 Turbo.
+**1. ⭐ [ChatGPT](https://chat.openai.com):** GPT-4o.
 
 **2. ⭐ [Wrtn](https://wrtn.ai/):** Free GPT 4.
 
@@ -28,7 +28,7 @@
 **14. [Pi](https://pi.ai/talk):** An excellent AI assistant that you can have conversations with, vent with, help you with work etc.
 
 
-**15. [Character.AI](https://beta.character.ai/):** Roleplaying chatbots
+**15. [Character.AI](https://beta.character.ai/):** Roleplaying chatbots.
 
 
 **16. [Call Annie](https://callannie.ai/):** GPT-3.5 powered chatbot with real-time voice and video calls.
@@ -37,7 +37,7 @@
 **17. [Ora](https://ora.ai/start):** GPT-3.5 Chatbots.
 
 
-**18. [Bard](https://bard.google.com/):** Google's chatbot.
+**18. [Gemini](https://Gemini.google.com/):** Google's chatbot.
 
 **19. [Poe](https://www.poe.com):** Multiple chatbots in one app, multiple image generation models for free (e.g stable diffusion)
 
