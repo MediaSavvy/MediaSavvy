@@ -14,7 +14,7 @@ hero:
 features:  
   - title: Email
     details: You can contact me by emailing at mediasavvvy@outlook.com.
-    link: mediasavvvy@outlook.com
+    link: mailto:mediasavvvy@outlook.com
   - title: Discord Server
     link: https://discord.com/invite/uEKARuGczF
     details: Talk to me on MediaSavvy's Discord server (https://discord.com/invite/uEKARuGczF)
