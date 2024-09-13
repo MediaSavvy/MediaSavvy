@@ -19,7 +19,9 @@ export default defineConfig({
    nav: [
      { text: 'Home', link: '/' },
      { text: 'Discord Server (link fixed)', link: 'https://discord.com/invite/uEKARuGczF' },
-     { text: 'Guides', link: 'https://rentry.org/mediasavvy-guides'} 
+     { text: 'Guides', link: 'https://rentry.org/mediasavvy-guides'},
+     { text: 'Contact me/Need help?', link: '/contact-me' }
+
    ],
    sidebar: [
      {
