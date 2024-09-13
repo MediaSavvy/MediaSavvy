@@ -35,7 +35,6 @@ export default defineConfig({
          { text: '🚫 Adblocking', link: '/Wiki/Adblocking' },
          { text: '🤖 AI', link: '/Wiki/AI' },
          { text: '💾 Software', link: '/Wiki/Software' },
-         { text: '🧩 Extensions', link: '/Wiki/Extensions' },
          { text: '🎮 Games', link: '/Wiki/Games' },
          { text: '🛡️ Security', link: '/Wiki/Security' },
          { text: '🎵 Music', link: '/Wiki/Music' },
