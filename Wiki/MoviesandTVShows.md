@@ -12,7 +12,7 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 **1. ⭐ [watch.lonelil](https://watch.lonelil.com/):** Also has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
 
-**2. ⭐ [Braflix](https://www.braflix.app/):** Also has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server.
+**2. ⭐ [Braflix](https://www.braflix.app/):** Also has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / Allows you to download movies (requires sign-up).
 
 
 **3. ⭐ [RidoMovies](https://ridomovies.tv/):** 1080p & Lower / Fast loading speeds / Good design / Single Server.
@@ -23,6 +23,8 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 **5. ⭐ [Binged](https://binged.live/):** 1080p & Lower / Multi Server / Fast loading speeds / Good Design.
 
 **6. ⭐ [PrimeFlix](https://primeflix-web.vercel.app/):** 1080p, 4K and lower / Fast loading speeds / Good Design / A variety of sources
+
+**7. ⭐ [movie-web](https://erynith.github.io/movie-web-instances/):** 1080p, 4K & lower / Fast loading speeds / Allows you to download movies / Plenty of sources / [Add more sources](https://pastebin.com/w8Brq2UA).
 
 **7. [CinemaUnlocked](https://cinemaunlocked.com/home/):** 1080 and lower / Fast loading speeds / Good design / Ad-free (except video player for now).
 
