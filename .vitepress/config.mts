@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
  title: 'MediaSavvy',
- titleTemplate: 'Piracy Wiki'
  description: "A piracy and all purpose wiki",
+ titleTemplate: 'Piracy Wiki'
  
 themeConfig: {
    // https://vitepress.dev/reference/default-theme-config
