@@ -164,6 +164,8 @@
 - **BitLord:**  Adware
 
 - **kLauncher (Minecraft launcher):**  Has malware.
+
+- **IObit:** History of [Adware](https://www.malwarebytes.com/blog/detections/pup-iobit) in their installers and sketchy products.
 :::
 
 ::: details Other
