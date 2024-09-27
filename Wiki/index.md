@@ -9,6 +9,8 @@ Welcome to my wiki, a trusted source for carefully curated piracy and other info
 - Make sure to have an [adblocker](https://mediasavvy.pages.dev/Wiki/Adblocking/) before going to any websites listed here.
 - Use an antivirus to be safe. Windows Defender is more than enough but if you want to be extra safe, you should do an occasional scan using [Malwarebytes](https://www.malwarebytes.com/mwb-download/thankyou).
 - When torrenting make sure to use a reliable VPN such as Mullvad or ProtonVPN and bind them to your torrenting client.
+- It is recommended that you use [Firefox](https://firefox.com), one of the best non-chromium browsers, with the best support for uBlock Origin. 
+- Make sure to change your [DNS](https://www.privacyguides.org/en/dns/).  This can increase your browsing speed and bypass censorship from your ISP.
 
 :::
 
