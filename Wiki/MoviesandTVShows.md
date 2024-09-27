@@ -28,11 +28,11 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 **8. ⭐ [YoYo Movies](https://yoyomovies.net/):** 1080p, 4K & lower / Fast loading speeds / Some sources allow you to download movies / Many sources / User-friendly design.
 
-**9. [CinemaUnlocked](https://cinemaunlocked.com/home/):** 1080 and lower / Fast loading speeds / Good design / Ad-free (except video player for now).
+**9. ⭐ [NetPlay](https://netplayz.ru/):** 1080p & lower / Fast loading speeds / A bunch of sources / User-friendly design.
 
-**10. [FlixHQ](https://flixhq.click/):** 1080p & lower / Slow loading speeds / Good design / Multi Server.
+**10. [CinemaUnlocked](https://cinemaunlocked.com/home/):** 1080 and lower / Fast loading speeds / Good design / Ad-free (except video player for now).
 
-**11. [SFlix](https://sflix.to/):** 1080p & Lower / Ok loading speeds / Ok design / Multi Server.
+**11. [FlixHQ](https://flixhq.click/):** 1080p & lower / Slow loading speeds / Good design / Multi Server.
 
 ***
 
