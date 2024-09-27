@@ -26,7 +26,7 @@ Welcome to my wiki, a trusted source for carefully curated piracy and other info
 # 🗣️ Frequently Asked Questions:
 
 ::: details Can I contribute?
-Yes, you can. To contribute, you can PM me on reddit (u/MediaSavvy_) you could create an issue on [GitHub](https://github.com/MediaSavvy/MediaSavvy_Wiki) or you can create a fork of this repo with your changes. You can also email me at `mediasavvvy@outlook.com`.
+Yes, you can. You can create an issue on [GitHub](https://github.com/MediaSavvy/MediaSavvy_Wiki) or you can create a fork of this repo with your changes. You can also email me at `mediasavvvy@outlook.com` or suggest changes on MediaSavvys [Discord](https://discord.com/invite/uEKARuGczF).
 :::
 
 ::: details How do you check these websites and programs for their safety?
