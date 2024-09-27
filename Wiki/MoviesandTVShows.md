@@ -22,15 +22,17 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 **5. ⭐ [Binged](https://binged.live/):** 1080p & Lower / Multi Server / Fast loading speeds / Good Design.
 
-**6. ⭐ [PrimeFlix](https://primeflix-web.vercel.app/):** 1080p, 4K and lower / Fast loading speeds / Good Design / A variety of sources
+**6. ⭐ [PrimeFlix](https://primeflix-web.vercel.app/):** 1080p, 4K and lower / Fast loading speeds / Good Design / A variety of sources.
 
-**7. ⭐ [movie-web](https://erynith.github.io/movie-web-instances/):** 1080p, 4K & lower / Fast loading speeds / Allows you to download movies / Plenty of sources / [Add more sources](https://pastebin.com/w8Brq2UA).
+**7. ⭐ [movie-web](https://erynith.github.io/movie-web-instances/):** 1080p, 4K & lower / Fast loading speeds / Allows you to download movies / Plenty of sources / Great Design [Add more sources](https://pastebin.com/w8Brq2UA).
 
-**7. [CinemaUnlocked](https://cinemaunlocked.com/home/):** 1080 and lower / Fast loading speeds / Good design / Ad-free (except video player for now).
+**8. ⭐ [YoYo Movies](https://yoyomovies.net/):** 1080p, 4K & lower / Fast loading speeds / Some sources allow you to download movies / Many sources /User-friendly design.
 
-**8. [FlixHQ](https://flixhq.click/):** 1080p & lower / Slow loading speeds / Good design / Multi Server.
+**9. [CinemaUnlocked](https://cinemaunlocked.com/home/):** 1080 and lower / Fast loading speeds / Good design / Ad-free (except video player for now).
 
-**9. [SFlix](https://sflix.to/):** 1080p & Lower / Ok loading speeds / Ok design / Multi Server.
+**10. [FlixHQ](https://flixhq.click/):** 1080p & lower / Slow loading speeds / Good design / Multi Server.
+
+**11. [SFlix](https://sflix.to/):** 1080p & Lower / Ok loading speeds / Ok design / Multi Server.
 
 ***
 
