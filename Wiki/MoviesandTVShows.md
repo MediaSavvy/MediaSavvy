@@ -26,7 +26,7 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 **7. ⭐ [movie-web](https://erynith.github.io/movie-web-instances/):** 1080p, 4K & lower / Fast loading speeds / Allows you to download movies / Plenty of sources / Great Design [Add more sources](https://pastebin.com/w8Brq2UA).
 
-**8. ⭐ [YoYo Movies](https://yoyomovies.net/):** 1080p, 4K & lower / Fast loading speeds / Some sources allow you to download movies / Many sources /User-friendly design.
+**8. ⭐ [YoYo Movies](https://yoyomovies.net/):** 1080p, 4K & lower / Fast loading speeds / Some sources allow you to download movies / Many sources / User-friendly design.
 
 **9. [CinemaUnlocked](https://cinemaunlocked.com/home/):** 1080 and lower / Fast loading speeds / Good design / Ad-free (except video player for now).
 
