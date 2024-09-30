@@ -22,17 +22,20 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 **5. ⭐ [Binged](https://binged.live/):** 1080p & Lower / Multi Server / Fast loading speeds / Good Design.
 
-**6. ⭐ [PrimeFlix](https://primeflix-web.vercel.app/):** 1080p, 4K and lower / Fast loading speeds / Good Design / A variety of sources.
+**6. ⭐ [PrimeFlix](https://primeflix-web.vercel.app/):** 1080p, 4K and lower / Fast loading speeds / Good Design / Multi Server.
 
-**7. ⭐ [movie-web](https://erynith.github.io/movie-web-instances/):** 1080p, 4K & lower / Fast loading speeds / Allows you to download movies / Plenty of sources / Great Design [Add more sources](https://pastebin.com/w8Brq2UA).
+**7. ⭐ [movie-web](https://erynith.github.io/movie-web-instances/):** 1080p, 4K & lower / Fast loading speeds / Allows you to download movies / Multi Server / Great Design [Add more sources](https://pastebin.com/w8Brq2UA).
 
-**8. ⭐ [YoYo Movies](https://yoyomovies.net/):** 1080p, 4K & lower / Fast loading speeds / Some sources allow you to download movies / Many sources / User-friendly design.
+**8. ⭐ [YoYo Movies](https://yoyomovies.net/):** 1080p, 4K & lower / Fast loading speeds / Multi Server / Some sources allow you to download movies / User-friendly design.
 
-**9. ⭐ [NetPlay](https://netplayz.ru/):** 1080p & lower / Fast loading speeds / A bunch of sources / User-friendly design.
+**9. ⭐ [NetPlay](https://netplayz.ru/):** 1080p & lower / Fast loading speeds / Multi Server / User-friendly design.
 
-**10. [CinemaUnlocked](https://cinemaunlocked.com/home/):** 1080 and lower / Fast loading speeds / Good design / Ad-free (except video player for now).
+**10. ⭐ [Rive](https://rivestream.live):** 4K & Lower / Fast loading speeds / Multi Server / Great design.
 
-**11. [FlixHQ](https://flixhq.click/):** 1080p & lower / Slow loading speeds / Good design / Multi Server.
+**11. [CinemaUnlocked](https://cinemaunlocked.com/home/):** 1080p and lower / Fast loading speeds / Good design.
+
+**12. [Donkey](https://donkey.to/home):** 1080p & lower / Fast loading speeds / Ad-free / Good design.
+
 
 ***
 
