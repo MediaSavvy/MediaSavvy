@@ -33,6 +33,8 @@
 
 2. [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  A curated list of a bunch of hacking tools and guides.
 
+3. [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for pentesting and hacking-related questions.
+
 ***
 
 ### Deobfuscators
