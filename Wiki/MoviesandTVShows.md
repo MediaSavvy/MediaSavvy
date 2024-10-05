@@ -53,7 +53,7 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 **5. ⭐ [Vegas Movies](https://vegamovies.dad/):** Movies & TV / 4K & Lower / DDL
 
-**6. ⭐ [Movie Paradise](https://movieparadise.org/):** Movies & TV / 1080p / [Code](https://rentry.org/he8fhzku) (Unlocks faster file host, 1Fitcher)
+**6. ⭐ [Movie Paradise](https://movieparadise.org/):** Movies & TV / 1080p / [Code](https://rentry.org/he8fhzku) (Unlocks faster file host, 1fitchier)
 
 ### Sites For Downloading Movies (Torrents):
 
