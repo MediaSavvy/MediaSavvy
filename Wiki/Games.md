@@ -17,11 +17,11 @@
 
 **6. ⭐ [Worldofpcgames](https://worldof-pcgames.net/):** Pre-installed games. 
 
-**7. ⭐ [SteamGG](https://steamgg.net/): DDLs / Pre-installed games.
+**7. ⭐ [SteamGG](https://steamgg.net/):** DDLs / Pre-installed games.
 
 **8. [Game Bounty](https://gamebounty.world/)**
 
-**9. [GOG-Games](https://gog-games.to)** / [Note](https://a.imagem.app/opdEX8.png) / [Backup](https://github.com/ezerear/gog-games.to_backup)
+**9. [GOG-Games](https://gog-games.to): [Backup](https://github.com/ezerear/gog-games.to_backup)**
 
 **10. [Torrminatorr](https://forum.torrminatorr.com/)**
 
