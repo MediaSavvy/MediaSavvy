@@ -9,9 +9,9 @@
 
 **2. ⭐ [Online-fix](https://online-fix.me/):** DDLs and torrents available / Multiplayer games.
 
-**3. ⭐ [GamesDrive](https://gamesdrive.net/)**
+**3. ⭐ [GamesDrive](https://gamesdrive.net/):** DDLs.
 
-**4. ⭐ [Ova Games](https://www.ovagames.com/):**
+**4. ⭐ [Ova Games](https://www.ovagames.com/):** DDLs.
 
 **5. ⭐ [CS.RIN.RU](https://cs.rin.ru/):** Forum / DDLs / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod)
 
