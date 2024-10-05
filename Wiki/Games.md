@@ -15,13 +15,15 @@
 
 **5. ⭐ [CS.RIN.RU](https://cs.rin.ru/):** Forum / DDLs / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod)
 
-**6. ⭐ [Worldofpcgames](https://worldof-pcgames.net/):** Pre-installed  games. 
+**6. ⭐ [Worldofpcgames](https://worldof-pcgames.net/):** Pre-installed games. 
 
-**7. [Game Bounty](https://gamebounty.world/)**
+**7. ⭐ [SteamGG](https://steamgg.net/): DDLs / Pre-installed games.
 
-**8. [GOG-Games](https://gog-games.to)** / [Note](https://a.imagem.app/opdEX8.png) / [Backup](https://github.com/ezerear/gog-games.to_backup)
+**8. [Game Bounty](https://gamebounty.world/)**
 
-**9. [Torrminatorr](https://forum.torrminatorr.com/)**
+**9. [GOG-Games](https://gog-games.to)** / [Note](https://a.imagem.app/opdEX8.png) / [Backup](https://github.com/ezerear/gog-games.to_backup)
+
+**10. [Torrminatorr](https://forum.torrminatorr.com/)**
 
 ### Game Repacks 
 
