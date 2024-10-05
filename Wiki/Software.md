@@ -8,7 +8,7 @@
 
 **1. ⭐ [Mobilism](https://forum.mobilism.org/viewforum.php?f=398):** Books / Games / Apps / [App](https://forum.mobilism.org/app/)
 
-**2. ⭐ [PDAlife](https://pdalife.com):** [App](https://pdalife.com/pdalife-app-android-a40597.html).
+**2. ⭐ [PDAlife](https://pdalife.com):** [App](https://pdalife.com/pdalife-app-android-a40597.html)
 
 **3. ⭐ [RockMods](https://www.rockmods.net/)**
 
