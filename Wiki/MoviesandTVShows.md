@@ -49,7 +49,7 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 **3. ⭐ [PSARips](https://psa.wf/):** Movies & TV / 4K & Lower / DDL & Torrents
 
-**4. ⭐ [Pahe](https://pahe.ph/):** Movies & TV & Anime / 4K & Lower / DDL
+**4. ⭐ [Pahe](https://pahe.ink/):** Movies & TV & Anime / 4K & Lower / DDL
 
 **5. [Vegas Movies](https://vegamovies.dad/):** Movies & TV / 4K & Lower / DDL
 
