@@ -6,21 +6,28 @@
 
 ### Software for Android:
 
-**1. ⭐[ Moddroid](https://www.moddroid.com):** Avoid the Moddroid app
+**1. ⭐ [Mobilism](https://forum.mobilism.org/viewforum.php?f=398):** Books / Games / Apps / [App](https://forum.mobilism.org/app/)
 
-**2. ⭐ [Modyolo](https://modyolo.com)**
+**2. ⭐ [PDAlife](https://pdalife.com):** [App](https://pdalife.com/pdalife-app-android-a40597.html).
 
-**3. ⭐ [Mobilism](https://forum.mobilism.org/viewforum.php?f=398):** Books / Games / Apps / [App](https://forum.mobilism.org/app/)
+**3. ⭐ [RockMods](https://www.rockmods.net/)
 
-**4. ⭐ [LiteAPKS](https://liteapks.com)**
+**4. ⭐ [Androeed](https://androeed.store/)
 
-**5 ⭐ [PDAlife](https://pdalife.com)**
+**5. [RevDL](https://revdl.com)**
 
-**6. [RevDL](https://revdl.com)**
+**6. [NSANE](https://nsaneforums.com/):** Requires sign-up.
 
-**7. [NSANE](https://nsaneforums.com/):** Requires sign-up.
+**7. [An1](https://an1.com/)**
 
-**8. [An1](https://an1.com/)**
+**8. [Moddroid](https://www.moddroid.com):** Avoid the Moddroid app / [Note](https://pastebin.com/3ebTvx0b)
+
+**9. [Modyolo](https://modyolo.com):** [Note](https://pastebin.com/3ebTvx0b)
+
+**10. [LiteAPKS](https://liteapks.com):** [Note](https://pastebin.com/3ebTvx0b) / [App](https://liteapks.com/app.html)
+
+**11. [4PDA](https://4pda.to/forum/):** [App](https://github.com/slartus/4pdaClient-plus) / [Use a translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [CAPTCHA Guide](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html?m=1)
+
 
 
 
