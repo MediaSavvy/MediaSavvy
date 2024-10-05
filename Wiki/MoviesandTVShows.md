@@ -103,8 +103,10 @@ You can download movies / Ok design / 1080p & lower
 ***
 
 ### Best Movie Apps For iOS / iPadOS
-:::danger There are not a lot of good free movie apps for iOS / iPadOS so I recommend you just use a website listed above with an [adblocker](https://mediasavvy.pages.dev/Wiki/Adblocking/#adblocking-for-ios--ipados-system-wide).
+:::danger There's not many good movie apps for iOS / iPadOS so I recommend you just use a website listed above with an [adblocker](https://mediasavvy.pages.dev/Wiki/Adblocking/#adblocking-for-ios--ipados-system-wide). If you want an app anyways, there is one.
 :::
+
+**1. ⭐ [Streamer](https://github.com/StreamerApp/Streamer).
 
 ***
 
