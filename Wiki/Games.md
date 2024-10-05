@@ -5,17 +5,17 @@
 
 ### Games for Windows:
 
-**1. ⭐ [SteamRIP](https://steamrip.com/)**
+**1. ⭐ [SteamRIP](https://steamrip.com/):** Password: 1234 or steamrip.com / Pre installed games.
 
-**2. ⭐ [Online-fix](https://online-fix.me/)**
+**2. ⭐ [Online-fix](https://online-fix.me/):** DDLs and torrents available / Multiplayer games.
 
 **3. ⭐ [GamesDrive](https://gamesdrive.net/)**
 
-**4. ⭐ [Ova Games](https://www.ovagames.com/)**
+**4. ⭐ [Ova Games](https://www.ovagames.com/):**
 
-**5. ⭐ [CS.RIN.RU](https://cs.rin.ru/)**
+**5. ⭐ [CS.RIN.RU](https://cs.rin.ru/):** Forum / DDLs / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod)
 
-**6. ⭐ [Worldofpcgames](https://worldof-pcgames.net/)**
+**6. ⭐ [Worldofpcgames](https://worldof-pcgames.net/):** Pre-installed  games. 
 
 **7. [Game Bounty](https://gamebounty.world/)**
 
