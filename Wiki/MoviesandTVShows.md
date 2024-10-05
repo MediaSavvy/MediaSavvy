@@ -7,7 +7,7 @@
 ### Best Websites For Movie Streaming: 
 
 :::warning Note:
-If you are streaming movies/tv shows and it's buffering, you can try [FastStream](https://FastStream.online). FastStream downloads video fragments in parallel. Up to 6x faster download speeds for videos, ensuring smooth playback with no interruptions. 
+If you are streaming movies/tv shows and it's buffering, you can try [FastStream](https://FastStream.online). FastStream downloads video fragments in parallel. Up to 6x faster download speeds for videos, ensuring smooth playback with no interruptions, with other awesome features.
 :::
 
 **1. ⭐ [watch.lonelil](https://watch.lonelil.com/):** Also has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
