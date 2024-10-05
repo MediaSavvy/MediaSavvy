@@ -10,9 +10,9 @@
 
 **2. ⭐ [PDAlife](https://pdalife.com):** [App](https://pdalife.com/pdalife-app-android-a40597.html).
 
-**3. ⭐ [RockMods](https://www.rockmods.net/)
+**3. ⭐ [RockMods](https://www.rockmods.net/)**
 
-**4. ⭐ [Androeed](https://androeed.store/)
+**4. ⭐ [Androeed](https://androeed.store/)**
 
 **5. [RevDL](https://revdl.com)**
 
