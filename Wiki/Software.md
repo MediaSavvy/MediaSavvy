@@ -83,7 +83,7 @@
 **2. [iOSGods](https://app.iosgods.com/)**
 
 
-**3. [AppCake](https://www.iphonecake.com/):** Does not have a lot of apps for iPads.
+**3. [AppCake](https://www.iphonecake.com/):** Few apps & games for iPads.
 
 **4. [4PDA](https://4pda.to/forum):** Use a translator / [CAPTCHA Guide](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html?m=1)
 
