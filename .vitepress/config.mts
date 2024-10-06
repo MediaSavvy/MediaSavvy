@@ -8,7 +8,7 @@ export default defineConfig({
 
 head: [
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
-]
+],
 
 themeConfig: {
    // https://vitepress.dev/reference/default-theme-config
