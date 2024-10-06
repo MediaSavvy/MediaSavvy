@@ -24,7 +24,7 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 **6. ⭐ [PrimeFlix](https://primeflix-web.vercel.app/):** 1080p, 4K and lower / Fast loading speeds / Good Design / Multi Server.
 
-**7. ⭐ [movie-web](https://erynith.github.io/movie-web-instances/):** 1080p, 4K & lower / Fast loading speeds / Allows you to download movies / Multi Server / Great Design [Add more sources](https://pastebin.com/w8Brq2UA).
+**7. ⭐ [movie-web](https://erynith.github.io/movie-web-instances/):** 1080p, 4K & lower / Fast loading speeds / Allows you to download movies / Multi Server / Great Design / [Add more sources](https://pastebin.com/w8Brq2UA).
 
 **8. ⭐ [YoYo Movies](https://yoyomovies.net/):** 1080p & lower / Fast loading speeds / Multi Server / Some sources allow you to download movies / User-friendly design.
 
