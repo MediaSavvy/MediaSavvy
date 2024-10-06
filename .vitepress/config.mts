@@ -5,7 +5,11 @@ export default defineConfig({
  title: 'MediaSavvy',
  description: "A piracy and all purpose wiki",
  titleTemplate: 'Piracy Wiki',
- 
+
+head: [
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
+]
+
 themeConfig: {
    // https://vitepress.dev/reference/default-theme-config
    search: {
