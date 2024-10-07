@@ -1,7 +1,5 @@
 # 👋 Welcome 
 
-!!! warning test
-
 Welcome to my wiki, a trusted source for carefully curated piracy and other informative guides. I'm dedicated to providing top-tier resources that I personally use, recommend, and deem reliable, safe, high quality, trustwothy and practical for everyone. 
 
 ---
