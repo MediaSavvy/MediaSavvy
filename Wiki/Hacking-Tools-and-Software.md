@@ -33,7 +33,7 @@
 
 2. [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  A curated list of a bunch of hacking tools and guides.
 
-3. [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for pentesting and hacking-related questions.
+3. [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence to answer doubts about pentesting and hacking. Alternatively, you can use ChatGPT with the temporary chat enabled to answer the same type of questions.
 
 ***
 
