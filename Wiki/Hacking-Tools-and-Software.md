@@ -5,13 +5,13 @@
 
 ### Phone Tools
 
-[Phoneinfoga](https://sundowndev.github.io/phoneinfoga) - This is the best tool to find out infomation about phone numbers. This tool is available for Windows, Linux and MacOS.
+1. [Phoneinfoga](https://sundowndev.github.io/phoneinfoga) - This is the best tool to find out infomation about phone numbers. This tool is available for Windows, Linux and MacOS.
 
 ***
 
 ### Social Media Tools
 
-[Sherlock](https://github.com/sherlock-project/sherlock) - Sherlock is a command line tool that can search over 50 social media services.
+1. [Sherlock](https://github.com/sherlock-project/sherlock) - Sherlock is a command line tool that can search over 50 social media services.
 
 ***
 
@@ -98,9 +98,9 @@
 
 ### Cryptography / Passwords
 
-1. [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
+1. [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher.
 
-2. [John the Ripper](http://www.openwall.com/john/) - A fast password cracker
+2. [John the Ripper](http://www.openwall.com/john/) - A fast password cracker.
 
 3. [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
 
@@ -122,7 +122,7 @@
 
 3. [Webhacking.kr](http://webhacking.kr/)
 
-4. [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password-riddles (so called hackits)
+4. [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password-riddles (so called hackits).
 
 5. [fuzzy.land](https://fuzzy.land/) - Website by an Austrian group. Lots of challenges taken from CTFs they participated in.
 
