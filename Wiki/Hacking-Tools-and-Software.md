@@ -114,6 +114,12 @@
 
 ***
 
+### Software
+
+1. [Kali Linux](https://www.kali.org/) - Debian-derived Linux distribution designed for digital forensics and penetration testing.
+
+***
+
 ### Hack Testing
  
  1. [Hack This Site!](https://www.hackthissite.org/) - a free, safe and legal training ground for hackers to test and expand their hacking skills
