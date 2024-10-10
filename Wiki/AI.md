@@ -80,24 +80,29 @@
 
 **2. [Dreamily](https://dreamily.ai/):** Story Writing AI.
 
-**3. [PaperTyper](https://papertyper.net/):** Essay writing
+**3. [PaperTyper](https://papertyper.net/):** Essay writing.
 
 
 
 ## Audio Generation:
 
-1. ⭐ [MusicGen](https://huggingface.co/spaces/facebook/MusicGen): Text to Music.
+**1. ⭐ [MusicGen](https://huggingface.co/spaces/facebook/MusicGen):** Text to Music.
 
-2. ⭐ [Riffusion](https://www.riffusion.com/): Text to Music.
+**2. ⭐ [Riffusion](https://www.riffusion.com/):** Text to Music.
 
 
 
 ## Text to Voice:
 
-1. ⭐ [Uber Duck](https://uberduck.ai/)
+**1. ⭐ [Uber Duck](https://uberduck.ai/)**
 
-2. ⭐ [ElevenLabs](https://beta.elevenlabs.io/)
+**2. ⭐ [ElevenLabs](https://beta.elevenlabs.io/)**
 
-3. [Bark](https://huggingface.co/spaces/suno/bark)
+**3. [Bark](https://huggingface.co/spaces/suno/bark)**
 
+
+
+## Multifunctional:
+
+**1. [Jibyte](https://www.jibyte.com/)**
 
