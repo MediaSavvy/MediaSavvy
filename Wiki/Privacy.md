@@ -1,4 +1,4 @@
-# 🔒 Privacy
+# 🔒 Privacy (Update in progress...)
 ### Privacy tools, resources and more.
 
 ***
@@ -141,13 +141,16 @@
 
 ### Other
 
-**1. [Privacy.Sexy](https://privacy.sexy/):** Privacy Scripts.
+**1. ⭐ [EXPERTE Password Generator](https://www.experte.com/password-generator):** A password generator with many helpful features, such as: shows whether your inputed password has been leaked, shows how long it would take for a computer to crack a password etc.
 
-**2. [Password Monster](https://www.passwordmonster.com/):** Check Password Strength.
+**2. ⭐ [Have I Been Pwned](https://haveibeenpwned.com/):** Checks whether your email has been in a data breach.
 
-**3. [PasswordsGenerator](https://passwordsgenerator.net/):** Password Generator.
+**3. [Privacy.Sexy](https://privacy.sexy/):** Privacy Scripts.
 
-**4. [Have I been Pwned?](https://haveibeenpwned.com/)**
+**4. [Password Monster](https://www.passwordmonster.com/):** Check Password Strength.
+
+**5. [PasswordsGenerator](https://passwordsgenerator.net/):** Password Generator.
+
 
 
 
