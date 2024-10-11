@@ -1,17 +1,14 @@
-# 📱 Mobile (Being updated)
+# 📱 Mobile (Being updated...)
 ### Useful tools and resources for Android and iOS
 
-## Android APKs:
+## Android APKS:
+**1. ⭐ [App Manager](https://github.com/MuntashirAkon/AppManager/):** Package manager with useful features.
 
-**1. ⭐ [Lucky Patcher](https://chelpus.com/download/LuckyPatchers.com_Official_Installer_10.9.9.apk): App patcher, [avoid "LP Downloader"](https://pastebin.com/UXxaVqX9)**
+**2. [APKTool](https://github.com/iBotPeaches/Apktool):** APK reverse engenering tool.
 
-**2. ⭐ [App Manager](https://github.com/MuntashirAkon/AppManager/):** Package manager with useful features.
+**3. [APKEditor](https://qwertycube.com/apk-editor-studio/):** APK Editor
 
-**3. [APKTool](https://github.com/iBotPeaches/Apktool):** APK reverse engenering tool.
-
-**4. [APKEditor](https://qwertycube.com/apk-editor-studio/):** APK Editor
-
-**5. [APKAdmin](https://apkadmin.com/):** APK hosting site
+**4. [APKAdmin](https://apkadmin.com/):** APK hosting site
 
 
 ## Untouched APKs:
