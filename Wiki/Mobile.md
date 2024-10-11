@@ -17,8 +17,6 @@
 
 **2. [UpToDown](https://en.uptodown.com/android)**
 
-**3. [APKPure](https://apkpure.net/)**
-
 
 ## App Stores For Android:
 
