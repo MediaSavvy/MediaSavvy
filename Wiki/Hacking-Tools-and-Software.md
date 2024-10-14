@@ -33,7 +33,7 @@
 
 2. [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  A curated list of a bunch of hacking tools and guides.
 
-3. [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for pentesting and hacking-related questions. Alternatively, you can use ChatGPT with the temporary chat enabled to ask the same type of questions.
+3. [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can use ChatGPT with the temporary chat enabled to ask the same type of questions.
 
 ***
 
@@ -137,3 +137,9 @@
 7. [Others](https://www.owasp.org/index.php) - OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
 
 8. [TryHackMe](https://tryhackme.com/) - Hands-on cyber security training through real-world scenarios.
+
+9. [Vulnhub](https://www.vulnhub.com/) - Provide materials that allows anyone to gain practical experience in digital security.
+
+10. [Portswigger](https://portswigger.net/web-security) - Free, online web security training.
+
+11. [Attackdefense](https://attackdefense.com/) - Pentester academy.
