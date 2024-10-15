@@ -143,7 +143,7 @@ The following tools will aid you in keeping your computer clean:
 
 - [Malwarebytes  ⭐ ](https://www.malwarebytes.com/mwb-download/thankyou/) (Next-generation anti-virus replacement, free version must be run MANUALLY)
 
-- [BitDefender](http://www.bitdefender.com/solutions/free.html)
+- [BitDefender](http://www.bitdefender.com/solutions/free.html) (Use the free trial version and when the trial is about to end, simply restart the trial with another account)
 
 - [ESET Free Online Scanner](http://www.eset.com/us/online-scanner/)
 
