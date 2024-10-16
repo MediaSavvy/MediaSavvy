@@ -50,6 +50,10 @@ You can use https://downloader.la or https://getpaidstock.com.
 Direct downloads are files or streams directly downloaded or streamed from a specific server, and often uses encryption to hide what you are downloading or doing on the website. Direct downloads do not need any VPN. Torrents are files or streams that are downloaded or streamed from someone else's device using the P2P protocol. This method NEEDS a VPN.
 :::
 
+::: details Which sites are safe to use/download from?
+All websites/programs listed on MediaSavvy (See the different categories on the side bar) is safe to use and the best of the best. However we recommend that you still be cautious and scan files with [Virustotal](https://virustotal.com) as sites that were previously safe may become malicious.  We try our best to prevent this though. 
+
+
 
 
 
