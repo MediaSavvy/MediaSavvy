@@ -82,7 +82,7 @@
 
 13. [Habu](https://github.com/portantier/habu) - Python Network Hacking Toolkit.
 
-14. [Wifi Jammer](https://n0where.net/wifijammer/) - Free program to jam all wifi clients in range.
+14. [Wifi Jammer](https://github.com/DanMcInerney/wifijammer) - Free program to jam all wifi clients in range.
 
 15. [Firesheep](https://codebutler.github.io/firesheep/) - Free program for HTTP session hijacking attacks.
 
