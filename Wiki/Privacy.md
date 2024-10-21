@@ -41,7 +41,7 @@
 
 ### Email
 
-**1. [Proton Mail](https://proton.me/mail)**
+**1. ⭐ [Proton Mail](https://proton.me/mail)**
 
 **2. [Mailbox.org](https://mailbox.org/)**
 
@@ -133,15 +133,13 @@
 
 ### Proxy Apps
 
-**1. ⭐ [Lantern](https://lantern.io/):** Free Proxy / VPN.
-
-**2. ⭐ [Psiphon](https://psiphon.ca/):** Free Proxy / VPN.
+**1. ⭐ [Psiphon](https://psiphon.ca/):** Free Proxy / VPN.
 
 ***
 
 ### Other
 
-**1. ⭐ [EXPERTE Password Generator](https://www.experte.com/password-generator):** A password generator with many helpful features, such as: shows whether your inputed password has been leaked, shows how long it would take for a computer to crack a password etc.
+**1. ⭐ [EXPERTE Password Generator](https://www.experte.com/password-generator):** A password generator with many helpful features, such as: whether your inputed password has been leaked, shows how long it would take for a computer to crack the inputed password etc.
 
 **2. ⭐ [Have I Been Pwned](https://haveibeenpwned.com/):** Checks whether your email has been in a data breach.
 
