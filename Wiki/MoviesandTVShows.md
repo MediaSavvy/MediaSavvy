@@ -26,17 +26,17 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 **7. ⭐ [movie-web](https://erynith.github.io/movie-web-instances/):** 1080p, 4K & lower / Fast loading speeds / Allows you to download movies / Multi Server / Great Design / [Add more sources](https://pastebin.com/w8Brq2UA).
 
-**8. ⭐ [YoYo Movies](https://yoyomovies.net/):** 1080p & lower / Fast loading speeds / Multi Server / Some sources allow you to download movies / User-friendly design.
+**8. ⭐ [NetPlay](https://netplayz.ru/):** 1080p & lower / Fast loading speeds / Multi Server / User-friendly design.
 
-**9. ⭐ [NetPlay](https://netplayz.ru/):** 1080p & lower / Fast loading speeds / Multi Server / User-friendly design.
+**9. ⭐ [Rive](https://rivestream.live):** 4K & Lower / Fast loading speeds / Multi Server / Great design.
 
-**10. ⭐ [Rive](https://rivestream.live):** 4K & Lower / Fast loading speeds / Multi Server / Great design.
+**10. ⭐ [Catflix](https://catflix.su/):** 1080p & Lower / Fast loading speeds / Single Server / Awesome design.
 
-**11. ⭐ [Catflix](https://catflix.su/):** 1080p & Lower / Fast loading speeds / Single Server / Awesome design.
+**11. [CinemaUnlocked](https://cinemaunlocked.com/home/):** 1080p and lower / Fast loading speeds / Good design.
 
-**12. [CinemaUnlocked](https://cinemaunlocked.com/home/):** 1080p and lower / Fast loading speeds / Good design.
+**12. [Donkey](https://donkey.to/home):** 1080p & lower / Fast loading speeds / Ad-free / Good design.
 
-**13. [Donkey](https://donkey.to/home):** 1080p & lower / Fast loading speeds / Ad-free / Good design.
+**13. [YoYo Movies](https://yoyomovies.net/):** 1080p & lower / Fast loading speeds / Multi Server / Some sources allow you to download movies / User-friendly design.
 
 
 ***
