@@ -1,21 +1,21 @@
-# 🚫 Adblocking (Updates in progress...)
-###  This page shows you everything you need to know about adblockers, as well as the best adblockers to use on your device 
+# 🧩 Adblocking + Extensions (Updates in progress...)
+###  Adblocking + Other recommended extensions.
 
 ***
 
 ### Adblock testers:
 
-- **⭐ [CanYouBlockIt](https://canyoublockit.com/):** CanYouBlock it is one of the best websites to test your adblocker/s. This is my favourite website to test adblockers.
+- **⭐ [CanYouBlockIt](https://canyoublockit.com/):** Manual adblock tester.
 
-- **[ADBlockTester](https://adblock-tester.com/):** Also a very good website to test your adblocker.
+- **[ADBlockTester](https://adblock-tester.com/):** Automatic adblock tester.
 
-- **[D3ward](https://d3ward.github.io/toolz/adblock.html):** Similar to ADBlockTester.
+- **[D3ward](https://d3ward.github.io/toolz/adblock.html):** Automatic adblock tester.
 
 ***
 
 ### Adblockers for Android:
 
-1. ⭐ [AdGuard](https://modyolo.com/download/adguard-28793/4)
+**1. ⭐ [AdGuard](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=adguard&sf=titleonly):** System-wide adblocker.
 
 ::: danger Note:
 - For Adguard to block ads better you need to edit some of the setting. To do this go to `Settings > Filtering > Filters` and enable all of the Ad filters, the first 6 privacy filters, all of the annoyance filters and if you want enable some language-specific filters. 
@@ -24,58 +24,45 @@
 
 2. ⭐ [AdAway](https://www.adaway.org): Open-source system-wide adblocker.
 
+3. ⭐ **uBlock Origin:** [Firefox Mobile](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) / [Kiwi Browser & Other Chromium browsers that support extentions](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / Adblockers for browsers (not system-wide)
+
+4. [Cromite](https://github.com/uazo/cromite):** Browser with adblocking filters.
+
 ***
 
-### Adblocking for iOS / iPadOS system-wide:
+### Adblocking for iOS:
 
- - Visit [AhaDNS Blitz](https://blitz-setup.ahadns.com/) using Safari.
- - Tick all the options you want.
-     - These should be more than enough: oisd-full, 1Hosts (Lite), Lightswitch05, StevenBlack, GoodbyeAds (jerryn70)
- - After selecting the options click on Download Apple mobileconfig button.
- - Click Allow when the pop-up appears.
- - Go to Settings > General > VPN, DNS & Device Management.
- - Click on Downloaded Profile.
- - Click on AhaDNS Blitz.
- - Click on Install.
-  - Enter the passcode.
-  - Click Next.
-  - Click Install.
-  - Click Install when the popup appears.
+**1. ⭐ [Orion](http://kagi.com/orion/):** Browser that supports adding Firefox and Chromium extensions, including adblockers.
 
-**This should block ads on all browsers and apps, but you need to install Adguard for it to be really effective**
- 
-- Go to the app store, search Adguard and install it.
- - Follow the instructions from the app.
- - Once the app is open, click on the shield with a tick on the bottom of your screen.
- - Click 'Safari protection'.
- - Click 'filters'.
- - Go to 'Ad Blocking' and enable all of the filters listed there.
- - After that, go to 'Annoyances' and enable everything except 'I Don't Care About Cookies'.
- - Next, go to 'Privacy' and enable everything except for 'Fanboy's Anti-Facebook List' and 'Fanboy's Ant-Facebook List'.
- - Lastly, go to 'Other' and enable Adguard DNS Filter.
- - Now just go back to the home page in the Adguard app and wait for the content blockers to be updated.
- - Enjoy an ad-free iOS!
+**2. ⭐ [System-wide adblocking guide](https://rentry.co/system-wide-adblocking-for-ios)**
 
-**This should block most of the ads in Safari and in your games/apps, however, if you still see ads then install 1Blocker along with Adguard. Here is how you do it**
+**3. [1Blocker](https://1blocker.com/):** Adblocking extension for Safari.
 
-- Search 1Blocker on the App Store and download it.
-- Open the app and follow the instructions.
-- After go to "Rules" and enable the "Block Ads" option.
-- Enjoy!
+**4. [Adguard](https://apps.apple.com/us/app/adguard-adblock-privacy/id1047223162):** Adblocking extension for Safari / [Adguard Pro](https://forum.mobilism.org/search.php?keywords=adguard+pro&sr=topics&sf=titleonly)
 
 
 ***
 
-### Adblockers for your browser: 
+### Adblockers for browsers (PC): 
 
 :::warning Note:
-Only install uBlock Origin which is shown in the guides below, adding more adblockers reduce effectiveness and trigger anti-adblock.
+Only install one adblocker, using multiple adblockers can reduce their effectiveness and trigger anti-adblock. Using extensions like Sponsorblock is still fine.
 :::
 
-::: danger Chrome is ruining adblockers 
-Chrome and most other Chromium browsers are implementing Manifest V3, which disables uBlock Origin and other adblockers. You could use [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=en&pli=1) however it's not as effective. Switch to Firefox or a Firefox based browser to contune using uBlock Origin.
-:::
 
-**1. ⭐ [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=en&pli=1)**
+:::danger Chrome is disabling adblockers.
+Once Google introduces Manifiest V3 adblockers like uBlock Origin and many other extensions will be ruined and won't work anymore. Once this happens it's best just to switch to Firefox or a Firefox based browser.
 
-**2. [Adguard](https://adguard.com/en/adguard-browser-extension/overview.html)**
+**1. ⭐ [uBlock Origin](https://ublockorigin.com/):** [Enable these filters](https://private-user-images.githubusercontent.com/11689349/327171428-f1925d65-963f-4bb8-aebf-d083ee5f9825.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk5NjMwOTUsIm5iZiI6MTcyOTk2Mjc5NSwicGF0aCI6Ii8xMTY4OTM0OS8zMjcxNzE0MjgtZjE5MjVkNjUtOTYzZi00YmI4LWFlYmYtZDA4M2VlNWY5ODI1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI2VDE3MTMxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNjMmIzMjA0MzM1YTQ5MTdlYjI1NmU0NTg1NWM2NDhmZjVlMWU3ZDI3ODdmNjlkZTIwOWE0NTY5NjNmODVmZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.flGI_tnKG0EggrtDHI6XoPI5UjQx3_Rul5ZGXN1m3Gk)
+
+- **[uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=en):** Manifest V3 compatible, but MUCH less effective. It's best to use uBlock Origin with Firefox like I said before.
+
+**2. ⭐ [SponsorBlock](https://sponsor.ajay.app/):** Skip sponsored Youtube ads.
+
+**3. ⭐ [OpenVideo](https://openvideofs.github.io/):** Play videos in an ad-free player.
+
+**4. [Adguard](https://adguard.com/en/adguard-browser-extension/overview.html).**
+
+# Extensions
+
+[IN THE WORKS]
