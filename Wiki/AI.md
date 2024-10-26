@@ -53,23 +53,19 @@
 
 ## Image generators: 
 
-**1. ⭐ [Zoo](https://zoo.replicate.dev/):** Multi-AI free image generators.
+**1. ⭐ [Mage](https://www.mage.space/)**
 
 **2. ⭐ [Microsoft Designer](https://designer.microsoft.com/image-creator):** Unlimited / [Tips](https://rentry.co/bingimagecreatortips)
 
-**3. ⭐ [Fusion Brain](https://fusionbrain.ai/diffusion)**
+**3. ⭐ [Dezgo](https://dezgo.com/):** Unlimited
 
 **4. ⭐ [GetIMG.ai](https://getimg.ai/):** 100 images monthly / Uncensored.
 
-**5. [Craiyon](https://www.craiyon.com/)**
+**5. ⭐ [Meta AI](https://imagine.meta.com/):** Unlimited
 
-**6. [Meta AI](https://imagine.meta.com/)**
+**6. ⭐ [Ideogram](https://ideogram.ai/):** Unlimited
 
-**7. [Adobe Firefly](https://firefly.adobe.com/)**
-
-**8. [Mage](https://www.mage.space/)**
-
-
+**7. [Craiyon](https://www.craiyon.com/)**
 
 ## Text generators:
 
