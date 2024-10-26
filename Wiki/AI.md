@@ -19,7 +19,7 @@
 
 **8. ⭐ [Character.AI](https://character.ai/):** Roleplaying chatbots.
 
-**9. ⭐ [You](https://you.com/):** AI Search engine.
+**9. ⭐ [You](https://you.com/):** AI Search engine and chatbot. 
 
 **10. ⭐ [Call Annie](https://callannie.ai/):** GPT-3.5 powered chatbot with real-time voice and video calls.
 
@@ -55,7 +55,7 @@
 
 **1. ⭐ [Zoo](https://zoo.replicate.dev/):** Multi-AI free image generators.
 
-**2. ⭐ [Bing ](https://www.bing.com/images/create):** Dall-E based image generator.
+**2. ⭐ [Microsoft Designer](https://designer.microsoft.com/image-creator):** Unlimited / [Tips](https://rentry.co/bingimagecreatortips)
 
 **3. ⭐ [Fusion Brain](https://fusionbrain.ai/diffusion)**
 
