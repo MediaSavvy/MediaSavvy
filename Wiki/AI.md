@@ -75,6 +75,8 @@
 
 **3. ⭐ [Wolframe Alpha](https://www.wolframalpha.com/):** AI searchable knowledge base.
 
+**4. [Pixian AI](https://pixian.ai/):** Background remover.
+
 ## Video Generation:
 
 **1. ⭐ [Pixverse](https://pixverse.ai/)**
