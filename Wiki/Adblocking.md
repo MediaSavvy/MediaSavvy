@@ -24,11 +24,11 @@
 - Don't enable HTTPS filtering, it stops some sites from loading.
 :::
 
-2. ⭐ [AdAway](https://www.adaway.org): Open-source system-wide adblocker.
+**2. ⭐ [AdAway](https://www.adaway.org):** Open-source system-wide adblocker.
 
-3. ⭐ **uBlock Origin:** [Firefox Mobile](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) / [Kiwi Browser & Other Chromium browsers that support extentions](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / Adblockers for browsers (not system-wide)
+**3. ⭐ uBlock Origin:** [Firefox Mobile](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) / [Kiwi Browser & Other Chromium browsers that support extentions](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / Adblockers for browsers (not system-wide)
 
-4. [Cromite](https://github.com/uazo/cromite):** Browser with adblocking filters.
+**4. [Cromite](https://github.com/uazo/cromite):** A browser with adblocking filters.
 
 ***
 
