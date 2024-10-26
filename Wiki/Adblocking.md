@@ -1,5 +1,5 @@
-# 🧩 Adblocking + Extensions
-###  Adblocking + Other recommended extensions.
+# 🧩 Adblocking / Extensions / Bypassers
+###  Adblocking / Recommended Extensions / Redirect bypasser and paywall bypassers.
 
 ## Adblocking
 
@@ -32,9 +32,9 @@
 
 ### Adblocking for iOS:
 
-**1. ⭐ [Orion](http://kagi.com/orion/):** Browser that supports adding Firefox and Chromium extensions, including adblockers.
+**1. ↪️⭐ [System-wide adblocking guide](https://rentry.co/system-wide-adblocking-for-ios):** A guide made by MediaSavvy that explains how you can block most ads system-wide on iOS & iPadOS.
 
-**2. ⭐ [System-wide adblocking guide](https://rentry.co/system-wide-adblocking-for-ios)**
+**2. ⭐ [Orion](http://kagi.com/orion/):** Browser that supports adding Firefox and Chromium extensions, including adblockers.
 
 **3. [1Blocker](https://1blocker.com/):** Adblocking extension for Safari.
 
@@ -62,10 +62,44 @@ Once Google introduces Manifiest V3 adblockers like uBlock Origin and many other
 
 **3. ⭐ [OpenVideo](https://openvideofs.github.io/):** Play videos in an ad-free player.
 
-**4. [Adguard](https://adguard.com/en/adguard-browser-extension/overview.html).**
+**4. ⭐ [Adguard Extra](https://github.com/AdguardTeam/AdGuardExtra?tab=readme-ov-file#adguard-extra):** AdGuard Extra is designed to solve complicated cases when regular ad blocking rules aren't enough. 
+
+**5. [Adguard](https://adguard.com/en/adguard-browser-extension/overview.html).**
+
+### Adblocking Filter Lists
+
+**1. ⭐ [Yokoffings Recommended Filters](https://github.com/yokoffing/filterlists)
+
+**2. ⭐ [Legitimate URL Shortner](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
+
+**3. [FilterLists](https://filterlists.com/):** A database with a huge list of filter lists (some good, some bad).
+
+## Bypassers
+
+### Redirect Bypassers
+
+**1. ⭐ [Bypass All Short Links](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)**
+
+**2. ⭐ [Bypass.city](https://bypass.city/)** / **[Userscript](https://bypass.city/how-to-install-userscript)**
+
+**3. [Bypass FileCrypt Userscript](https://greasyfork.org/en/scripts/403170)**
+
+**4. [UploadHeaven Bypass](https://greasyfork.org/en/scripts/442019-uploadheaven)**
+
+### Article Paywall Bypassers
+
+**1. ⭐↪️ [Bypass Paywall Guide]():** A guide by MediaSavvy which explains how you can bypass basically all paywalled articles without using 3rd party tools.
+
+**2. ⭐ [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads):** Browser extension.
+
+**3. ⭐ [Archive.today](https://archive.is/):** Archived articles.
+
+**4. ⭐ [Freedium](https://freedium.cfd/), [ReadMedium](https://freedium.cfd/):** Bypass Medium paywalls.
+
+**5. ⭐ [Wallabag](https://wallabag.org/):** Save articles and read them later offline.
 
 ## Extensions
+[WORK IN PROGRESS]
 
-### Browser Extensions (Firefox + Chrome Compatible)
 
 
