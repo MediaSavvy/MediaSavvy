@@ -1,4 +1,4 @@
-# 🧩 Adblocking + Extensions (Updates in progress...)
+# 🧩 Adblocking + Extensions
 ###  Adblocking + Other recommended extensions.
 
 ## Adblocking
@@ -66,4 +66,6 @@ Once Google introduces Manifiest V3 adblockers like uBlock Origin and many other
 
 ## Extensions
 
-[IN THE WORKS]
+### Browser Extensions (Firefox + Chrome Compatible)
+
+
