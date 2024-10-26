@@ -70,7 +70,7 @@ Once Google introduces Manifiest V3 adblockers like uBlock Origin and many other
 
 **1. ⭐ [Yokoffings Recommended Filters](https://github.com/yokoffing/filterlists)**
 
-**2. ⭐ [Legitimate URL Shortner](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
+**2. ⭐ [Legitimate URL Shortner](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)**
 
 **3. [FilterLists](https://filterlists.com/):** A database with a huge list of filter lists (some good, some bad).
 
