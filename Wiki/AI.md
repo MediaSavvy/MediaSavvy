@@ -102,7 +102,9 @@
 
 **2. ⭐ [ElevenLabs](https://beta.elevenlabs.io/)**
 
-**3. [Bark](https://huggingface.co/spaces/suno/bark)**
+**3. ⭐ [Bark](https://huggingface.co/spaces/suno/bark)**
+
+**4. ⭐ [WhisperSpeech](https://huggingface.co/spaces/collabora/WhisperSpeech)
 
 
 
