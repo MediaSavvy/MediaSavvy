@@ -29,7 +29,7 @@
 
 **13. [LMSYS](https://chat.lmsys.org/):** Free GPT-4o and other chatbots.
 
-*14. [Replika](https://www.replika.ai):** AI Companion.
+**14. [Replika](https://www.replika.ai):** AI Companion.
 
 **15. [Pi](https://pi.ai/talk):** An excellent AI assistant that you can have conversations with, vent with, help you with work etc.
 
