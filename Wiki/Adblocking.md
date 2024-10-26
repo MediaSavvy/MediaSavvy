@@ -3,6 +3,8 @@
 
 ***
 
+## Adblocking
+
 ### Adblock testers:
 
 - **⭐ [CanYouBlockIt](https://canyoublockit.com/):** Manual adblock tester.
@@ -63,6 +65,6 @@ Once Google introduces Manifiest V3 adblockers like uBlock Origin and many other
 
 **4. [Adguard](https://adguard.com/en/adguard-browser-extension/overview.html).**
 
-# Extensions
+## Extensions
 
 [IN THE WORKS]
