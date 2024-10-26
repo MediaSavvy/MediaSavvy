@@ -90,6 +90,10 @@
 
 **2. ⭐ [Riffusion](https://www.riffusion.com/):** Text to Music.
 
+**3. ⭐ [Suno](https://suno.com/):** Text to music.
+
+**4. [Wolframe Tunes](https://tones.wolfram.com/)
+
 
 
 ## Text to Voice:
