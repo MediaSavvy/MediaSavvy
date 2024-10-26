@@ -88,7 +88,7 @@ Once Google introduces Manifiest V3 adblockers like uBlock Origin and many other
 
 ### Article Paywall Bypassers
 
-**1. ⭐↪️ [Bypass Paywall Guide]():** A guide by MediaSavvy which explains how you can bypass basically all paywalled articles without using 3rd party tools.
+**1. ⭐↪️ [Bypass Paywall Guide](https://rentry.co/bypass-article-paywalls):** A guide by MediaSavvy which explains how you can bypass basically all paywalled articles without using 3rd party tools.
 
 **2. ⭐ [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads):** Browser extension.
 
