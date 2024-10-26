@@ -28,6 +28,8 @@
 
 **11. [4PDA](https://4pda.to/forum/):** [App](https://github.com/slartus/4pdaClient-plus) / [Use a translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [CAPTCHA Guide](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html?m=1)
 
+**12. [Tekmods](https://tekmods.com/)** 
+
 
 
 
