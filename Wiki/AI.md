@@ -5,49 +5,46 @@
 
 **1. ⭐ [ChatGPT](https://chat.openai.com):** GPT-4o.
 
-**2. ⭐ [Wrtn](https://wrtn.ai/):** Free GPT 4.
+**2. ⭐ [Wrtn](https://wrtn.ai/):** Free GPT 4o chatbot and search / Ask for English
 
-**2. ⭐ [Phind](https://www.phind.com/):** A very good AI chatbot that can answer all your questions and is a very good programming assistant.
+**3. ⭐ [Perplexity](https://www.perplexity.ai/):** GPT 4o powered search and chatbot. Great for research.
 
-**5. ⭐ [Perplexity](https://www.perplexity.ai/):** An amazing GPT-3.5 chatbot. Great for research.
+**4. ⭐ [Claude](https://www.anthropic.com/product):** Anthropic's AI chatbot.
 
-**7. ⭐ [Claude](https://www.anthropic.com/product):** Anthropic's AI chatbot.
+**5. ⭐ [Microsoft Copilot](https://copilot.microsoft.com/):** Free GPT-4o powered search and chatbot / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 
-**9. ⭐ [LMSYS](https://chat.lmsys.org/):** Free GPT-4 and other chatbots.
+**6. ⭐ [AI Uncensored](https://www.aiuncensored.info/):** Uncensored AI, no limits, option to run models locally, 3 different personas (psychologist, creative writer and advisor).
 
-**10. ⭐ [Microsoft Copilot](https://copilot.microsoft.com/):** Free GPT-4 & 3.5 powered search, image analysis, image generation powered by DALL-E 3 | [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+**7. ⭐ [FlowGPT](https://flowgpt.com/chat):** Roleplaying chatbots.
 
-**11. ⭐ [AI Uncensored](https://www.aiuncensored.info/):** Uncensored AI, no limits, option to run models locally, 3 different personas (psychologist, creative writer and advisor).
+**8. ⭐ [Character.AI](https://character.ai/):** Roleplaying chatbots.
 
-**12. ⭐ [sdk.vercel](https://sdk.vercel.ai/):** GPT-4o and other chatbots.
+**9. ⭐ [You](https://you.com/):** AI Search engine.
 
+**10. ⭐ [Call Annie](https://callannie.ai/):** GPT-3.5 powered chatbot with real-time voice and video calls.
 
-**13. [Replika](https://www.replika.ai):** AI Companion.
+**11. [Meta AI](https://www.meta.ai/):** Metas chatbot, Llama 3.2.
 
+**12. [Gemini](https://Gemini.google.com/):** Google's chatbot.
 
-**14. [Pi](https://pi.ai/talk):** An excellent AI assistant that you can have conversations with, vent with, help you with work etc.
+**13. [LMSYS](https://chat.lmsys.org/):** Free GPT-4o and other chatbots.
 
+*14. [Replika](https://www.replika.ai):** AI Companion.
 
-**15. [Character.AI](https://beta.character.ai/):** Roleplaying chatbots.
+**15. [Pi](https://pi.ai/talk):** An excellent AI assistant that you can have conversations with, vent with, help you with work etc.
 
+**16. [Ora](https://ora.ai/start):** GPT-3.5 Chatbots.
 
-**16. [Call Annie](https://callannie.ai/):** GPT-3.5 powered chatbot with real-time voice and video calls.
+**17. [Poe](https://www.poe.com):** Multiple chatbots in one app, multiple image generation models for free (e.g stable diffusion)
 
-
-**17. [Ora](https://ora.ai/start):** GPT-3.5 Chatbots.
-
-
-**18. [Gemini](https://Gemini.google.com/):** Google's chatbot.
-
-**19. [Poe](https://www.poe.com):** Multiple chatbots in one app, multiple image generation models for free (e.g stable diffusion)
+**18. [DuckDuckGo AI](https://duck.ai/):** Multiple AI chatbots.
 
 ## Learning:
 
 
-**1. [Feyn](https://www.feyn.ai/):** An excellent chatbot that will answer your questions as well as learning.
+**1. ⭐ [Teach Anything ](https://www.teach-anything.com/):** Teach Anything teaches you stuff with an easy and professional explanation.
 
-
-**2. [Teach Anything ⭐ ](https://www.teach-anything.com/):** Teach Anything teaches you stuff with an easy and professional explanation.
+**2. [Feyn](https://www.feyn.ai/):** An excellent chatbot that will answer your questions as well as learning.
 
 
 **3. [Uknow.AI](https://www.uknowai.com/en):** Unlimited tutor for Math problems.
