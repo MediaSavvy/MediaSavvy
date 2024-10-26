@@ -67,15 +67,22 @@
 
 **7. [Craiyon](https://www.craiyon.com/)**
 
-## Text generators:
+## AI Tools:
 
-**1. ⭐ [Essaytyper](http://www.essaytyper.com/):** Essay Writing AI.
+**1. ⭐ [ChatPDF](https://www.chatpdf.com/):** Turn Books into Chatbots.
 
-**2. [Dreamily](https://dreamily.ai/):** Story Writing AI.
+**2. ⭐ [Ask your PDF](https://askyourpdf.com/):** Turn books into chatbots.
 
-**3. [PaperTyper](https://papertyper.net/):** Essay writing.
+**3. ⭐ [Wolframe Alpha](https://www.wolframalpha.com/):** AI searchable knowledge base.
 
+## Video Generation:
 
+**1. ⭐ [Pixverse](https://pixverse.ai/)**
+
+**2. [Dream Machine](https://lumalabs.ai/dream-machine)**
+
+**3. [Kling AI](https://klingai.com/)
+ 
 
 ## Audio Generation:
 
