@@ -81,7 +81,7 @@
 
 **2. [Dream Machine](https://lumalabs.ai/dream-machine)**
 
-**3. [Kling AI](https://klingai.com/)
+**3. [Kling AI](https://klingai.com/)**
  
 
 ## Audio Generation:
