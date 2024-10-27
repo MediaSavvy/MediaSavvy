@@ -19,13 +19,11 @@ Welcome to MediaSavvy, a trusted source for carefully curated piracy and other i
 - Always scan the files you download using [Virustotal](https://www.virustotal.com) to make sure it's safe.
 :::
 
-::: info
+::: info Emoji Key
 
-## Emoji Key
+#### ⭐ - Websites and programs recommended by MediaSavvy. They are the best of the best.
 
-⭐ - Websites and programs recommended by MediaSavvy. They are the best of the best.
-
-↪️ - Linking to other parts of MediaSavvy.
+#### ↪️ - Linking to other parts of MediaSavvy.
 :::
 
 ---
