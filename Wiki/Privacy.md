@@ -5,149 +5,149 @@
 
 ### Tor Network
 
-**1. [Tor Browser](https://www.torproject.org/)**
+- [Tor Browser](https://www.torproject.org/)
 
-**2. [Onion Browser](https://onionbrowser.com/):** Tor for iOS.
+- [Onion Browser](https://onionbrowser.com/): Tor for iOS.
 
-**3. [Orbot](https://orbot.app/):**  Free Tor VPN for smartphones which routes traffic from any app on your device through the Tor network.
+- [Orbot](https://orbot.app/):  Free Tor VPN for smartphones which routes traffic from any app on your device through the Tor network.
 
 ***
 
 ### Desktop Browsers
 
-**1. ⭐ [Firefox](https://firefox.com/)**
+- ⭐ [Firefox](https://firefox.com/)
 
-**2. [Mullvad Browser](https://mullvad.net/en/browser)**
+- [Mullvad Browser](https://mullvad.net/en/browser)
 
-**3. [Brave](https://brave.com/)**
+- [Brave](https://brave.com/)
 
 ***
 
 ### Mobile Web Browsers:
 
-**1. [Brave](https://brave.com/)**
+- [Brave](https://brave.com/)
 
-**1. [Firefox](https://firefox.com/)**
+- [Firefox](https://firefox.com/)
 
 ***
 
 ### Cloud Storage
 
-**1. [Proton Drive](https://proton.me/drive)**
+- [Proton Drive](https://proton.me/drive)
 
-**2. [Tresorit](https://tresorit.com/)**
+- [Tresorit](https://tresorit.com/)
 
 ***
 
 ### Email
 
-**1. ⭐ [Proton Mail](https://proton.me/mail)**
+- ⭐ [Proton Mail](https://proton.me/mail)
 
-**2. [Mailbox.org](https://mailbox.org/)**
+- [Mailbox.org](https://mailbox.org/)
 
-**3. [Tuta](https://tuta.com/)**
+- [Tuta](https://tuta.com/)
 
 ***
 
 ### Payment Masking Services
 
-**1. [Privacy.com](https://privacy.com/):** US Only
+- [Privacy.com](https://privacy.com/): US Only
 
-**2. [MySudo](https://mysudo.com/):** US Only, Paid
+- [MySudo](https://mysudo.com/): US Only, Paid
 
 ***
 
 ### Search Engines
 
-**1. [Brave Search](https://search.brave.com/)**
+- [Brave Search](https://search.brave.com/)
 
-**2. [DuckDuckGo](https://duckduckgo.com/)**
+- [DuckDuckGo](https://duckduckgo.com/)
 
-**3. [SearXNG](https://searxng.org/)**
+- [SearXNG](https://searxng.org/)
 
-**4. [Startpage](https://www.startpage.com/)**
+- [Startpage](https://www.startpage.com/)
 
 ***
 
 ### VPN Providers
 
-**1. [Proton VPN](https://protonvpn.com/):** No logs
+- [Proton VPN](https://protonvpn.com/): No logs
 
-**2. [Mullvad VPN](https://mullvad.net/):** No logs
+- [Mullvad VPN](https://mullvad.net/): No logs
 
 ***
 
 ### Email Clients
 
-**1. [Thunderbird](https://www.thunderbird.net/)**
+- [Thunderbird](https://www.thunderbird.net/)
 
-**2. [Proton Mail](https://proton.me/mail)**
+- [Proton Mail](https://proton.me/mail)
 
 ***
 
 ### File Sharing
 
-**1. [OnionShare](https://onionshare.org/)**
+- [OnionShare](https://onionshare.org/)
 
 ***
 
 ### Frontends
 
-**1. [Nitter](https://github.com/zedeus/nitter):** Twitter
+- [Nitter](https://github.com/zedeus/nitter): Twitter
 
-**2. [Freetube](https://freetubeapp.io/):** Youtube, Desktop
+- [Freetube](https://freetubeapp.io/): Youtube, Desktop
 
-**3. [Newpipe](https://newpipe.net/):** Youtube, Android
+- [Newpipe](https://newpipe.net/): Youtube, Android
 
 ***
 
 ### Password Managers
 
-**1. [Bitwarden](https://bitwarden.com/)**
+- [Bitwarden](https://bitwarden.com/)
 
 ***
 
 ### Operating Systems
 
-**1. ⭐ [Tails](https://tails.net/)**
+- ⭐ [Tails](https://tails.net/)
 
-**2.  [whonix](https://www.whonix.org/)**
+- [whonix](https://www.whonix.org/)
 
-**3. [Qubes](https://www.qubes-os.org/)**
+- [Qubes](https://www.qubes-os.org/)
 
 ***
 
 ### Privacy Guides
 
-**1. ⭐ [Awesome Privacy](https://awesome-privacy.xyz/)**
+- ⭐ [Awesome Privacy](https://awesome-privacy.xyz/)
 
-**2. ⭐ [Security Lists](https://security-list.js.org/)**
+- ⭐ [Security Lists](https://security-list.js.org/)
 
-**3. ⭐ [Surveillance Self-Defense](https://ssd.eff.org/)**
+- ⭐ [Surveillance Self-Defense](https://ssd.eff.org/)
 
-**4. ⭐ [Privacy Guides](https://www.privacyguides.org/)**
+- ⭐ [Privacy Guides](https://www.privacyguides.org/)
 
-**5. [The New Oil](https://thenewoil.org/)**
+- [The New Oil](https://thenewoil.org/)
 
 ***
 
 ### Proxy Apps
 
-**1. ⭐ [Psiphon](https://psiphon.ca/):** Free Proxy / VPN.
+- ⭐ [Psiphon](https://psiphon.ca/): Free Proxy / VPN.
 
 ***
 
 ### Other
 
-**1. ⭐ [EXPERTE Password Generator](https://www.experte.com/password-generator):** A password generator with many helpful features, such as: whether your inputed password has been leaked, shows how long it would take for a computer to crack the inputed password etc.
+- ⭐ [EXPERTE Password Generator](https://www.experte.com/password-generator): A password generator with many helpful features, such as: whether your inputed password has been leaked, shows how long it would take for a computer to crack the inputed password etc.
 
-**2. ⭐ [Have I Been Pwned](https://haveibeenpwned.com/):** Checks whether your email has been in a data breach.
+- ⭐ [Have I Been Pwned](https://haveibeenpwned.com/): Checks whether your email has been in a data breach.
 
-**3. [Privacy.Sexy](https://privacy.sexy/):** Privacy Scripts.
+- [Privacy.Sexy](https://privacy.sexy/): Privacy Scripts.
 
-**4. [Password Monster](https://www.passwordmonster.com/):** Check Password Strength.
+- [Password Monster](https://www.passwordmonster.com/): Check Password Strength.
 
-**5. [PasswordsGenerator](https://passwordsgenerator.net/):** Password Generator.
+- [PasswordsGenerator](https://passwordsgenerator.net/): Password Generator.
 
 
 
