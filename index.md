@@ -20,7 +20,7 @@ hero:
       text: Discord (Link fixed)
       link: https://discord.com/invite/uEKARuGczF
 
-  features:
+features:
    - icon: 📅   
     title: Up-To-Date
     details: I do my best to ensure the website is as accurate and that all the links work as expected.
