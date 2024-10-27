@@ -1,6 +1,6 @@
 # 👋 Welcome 
 
-Welcome to my wiki, a trusted source for carefully curated piracy and other informative guides. I'm dedicated to providing top-tier resources that I personally use, recommend, and deem reliable, safe, high quality, trustwothy and practical for everyone. 
+Welcome to MediaSavvy, a trusted source for carefully curated piracy and other informative guides. MediaSavvy is dedicated to providing top-tier resources that we personally use, recommend, and deem reliable, safe, high quality, trustwothy and practical for everyone. 
 
 ---
 
@@ -14,44 +14,25 @@ Welcome to my wiki, a trusted source for carefully curated piracy and other info
 
 :::
 
-::: tip Additional information:
-- All these websites are checked by me and are safe, however, some links may become dangerous, even though they were safe before, so always be cautious whilst browsing these sites.
-- Any program/website marked with a ⭐ means that they are good quality, reliable and recommended by me.
+::: tip Additional Information:
+- MediaSavvy scans and monitors sites listed here ensuring that they are safe, however still be cautious while navigating and using them, sites can become malicious at anytime.
 - To see what websites and programs to avoid, [go here](https://mediasavvy.pages.dev/Wiki/UnsafeSites).
 - Always scan the files you download using [Virustotal](https://www.virustotal.com) to make sure it's safe.
 :::
 
-***
+::: info Emoji Key:
 
-# 🗣️ Frequently Asked Questions:
+⭐ Websites and programs recommended by MediaSavvy. They are the best of the best.
 
-::: details Can I contribute?
-Yes, you can. You can create an issue on [GitHub](https://github.com/MediaSavvy/MediaSavvy_Wiki) or you can create a fork of this repo with your changes. You can also email me at `mediasavvvy@outlook.com` or suggest changes on MediaSavvys [Discord](https://discord.com/invite/uEKARuGczF).
+
+
+# Other:
+
+::: details Credits
+1. [FMHY's piracy glossary](https://rentry.org/the-piracy-glossary): Their piracy glossary is used in MediaSavvy.
 :::
 
-::: details How do you check these websites and programs for their safety?
-For software downloading websites, I download a lot of software from them and scan them via Virustotal and I monitor their behavior. I also research the websites I list here to make sure they are safe.
-For programs, I and a few friends will test them, research them and scan them with Virustotal and other tools.
-:::
-
-::: details Will this project ever get discontinued in the future?
-Not anytime soon. I would love to keep this project going as long as I can.
-:::
-
-::: details  Are there any mirrors to this website?
-No.
-:::
-
-***
-
-# Other Stuff:
-
-::: details 👏 Credits
-1. [FMHY's piracy glossary](https://rentry.org/the-piracy-glossary): 
-Used their piracy glossary in my piracy glossary.
-:::
-
-::: details 📄 Other Great Resources
+::: details Other Resources and Wikis 
 1. [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
 
 2. [Champagne Piracy Wiki](https://champagne.pages.dev/)
