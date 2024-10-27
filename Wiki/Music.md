@@ -5,65 +5,65 @@
 
 ### Stream Music in Browser:
 
-**1. ⭐ [YTMP](https://ytmp.itsvg.in/)**
+- ⭐ [YTMP](https://ytmp.itsvg.in/)
 
-**2. ⭐ [Hyperpipe](https://hyperpipe.surge.sh/)**
+- ⭐ [Hyperpipe](https://hyperpipe.surge.sh/)
 
-**3. ⭐ [Beatbump](https://beatbump.io/)**
+- ⭐ [Beatbump](https://beatbump.io/)
 
-**4. ⭐ [Spotfy One](https://spotfy.one/)**
+- ⭐ [Spotfy One](https://spotfy.one/)
 
 ### Browser Music Downloaders:
 
-**1. ⭐ [squid.wtf](https://squid.wtf/):** FLAC, Deezer.
+- ⭐ [squid.wtf](https://squid.wtf/): FLAC, Deezer.
 
-**2. ⭐ [yet another music server](https://yams.tf/):** Spotify,Qobuz, Tidal, Deezer, FLAC.
+- ⭐ [yet another music server](https://yams.tf/): Spotify,Qobuz, Tidal, Deezer, FLAC.
 
-**3. ⭐ [MP3 Daddy](https://mp3-daddy.com/):** FLAC, 320KBs.
+- ⭐ [MP3 Daddy](https://mp3-daddy.com/): FLAC, 320KBs.
 
-**4. ⭐ [Lucida](https://lucida.to/):** Multi-Site / 320kb & MP3 & FLAC.
+- ⭐ [Lucida](https://lucida.to/): Multi-Site / 320kb & MP3 & FLAC.
 
 ***
 
 ### Telegram Music Downloaders:
 
-**1. ⭐ [musiciobot](https://t.me/musicaiocloud):** FLAC & Lower supported
+- ⭐ [musiciobot](https://t.me/musicaiocloud): FLAC & Lower supported
 
-**2. ⭐ [BestSpotBot](https://t.me/BeatSpotBot)**
+- ⭐ [BestSpotBot](https://t.me/BeatSpotBot)
 
-**3. ⭐ [MP3downloader](https://t.me/TG_mp3downloader_bot)**
+ - ⭐ [MP3downloader](https://t.me/TG_mp3downloader_bot)
 
-**4. [scdlbot](https://t.me/scdlbot)**
+- [scdlbot](https://t.me/scdlbot)
 
-**5. [jioDLbot](https://t.me/JioDLBot)**
+- [jioDLbot](https://t.me/JioDLBot)
 
 
 ### Best Music Streaming App For Android:
 
-**1. ⭐ [Musify](https://github.com/gokadzev/Musify)**
+- ⭐ [Musify](https://github.com/gokadzev/Musify)
 
-**2. ⭐ [Spotube](https://github.com/KRTirtho/spotube):** Has a mobile app, allows you to sync between devices.
+- ⭐ [Spotube](https://github.com/KRTirtho/spotube): Has a mobile app, allows you to sync between devices.
 
-**3. ⭐ [InnerTune](https://github.com/z-huang/InnerTune)**
+- ⭐ [InnerTune](https://github.com/z-huang/InnerTune)
 ***
 
 ### Best Free Music Streaming Program for Windows & Mac & Linux:
 
-**1. ⭐ [MooSync](https://moosync.app/)**
+- ⭐ [MooSync](https://moosync.app/)
 
-**2. ⭐ [Spotube](https://github.com/KRTirtho/spotube):** Has a mobile app, allows you to sync between devices.
+- ⭐ [Spotube](https://github.com/KRTirtho/spotube): Has a mobile app, allows you to sync between devices.
 
-**3. [nuclear](https://nuclear.js.org/)**
+- [nuclear](https://nuclear.js.org/)
 
-**4. [Muffon](https://github.com/staniel359/muffon)**
+- [Muffon](https://github.com/staniel359/muffon)
 
 ***
 
 ### Podcasts & Radio
 
-**1. ⭐ [Spotify Podcasts](https://open.spotify.com/browse/podcasts).**
+- ⭐ [Spotify Podcasts](https://open.spotify.com/browse/podcasts)
 
-**2. [Radio Garden](https://radio.garden/):** World-Wide Radios.
+- [Radio Garden](https://radio.garden/): World-Wide Radios.
 
 
 
