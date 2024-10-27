@@ -100,8 +100,59 @@ Once Google introduces Manifiest V3 adblockers like uBlock Origin and many other
 
 - ⭐ [Wallabag](https://wallabag.org/): Save articles and read them later offline.
 
-## Extensions
-[WORK IN PROGRESS]
+## Extensions (Firefox & Chromium compatible)
+
+- ⭐ [Violentmonkey](https://violentmonkey.github.io/): Run userscripts
+
+- ⭐ [Dark Reader](https://darkreader.org/): Force dark mode on websites that don't support it.
+
+- ⭐ [Redirector](https://einaregilsson.com/redirector/): Redirect websites.
+
+- ⭐ [Stylus](https://add0n.com/stylus.html): Customize the looks of websites.
+
+- ⭐ [Zoom WE](https://pastebin.com/SpCdPywv): Improves the zoom funcionality.
+
+- ⭐ [ScrollAnywhere](https://pastebin.com/W3jwbBac): Improves the scrolling funcionality.
+
+- ⭐ [BrowserBoost](https://browserboost.org/): Adds more features and improvments.
+
+- ⭐ [TWP](https://github.com/FilipePS/Traduzir-paginas-web): Translate pages in realtime
+
+- ⭐ [SponsorBlock](https://sponsor.ajay.app/): Skip Youtube sponsored ads.
+
+- [User-agent switcher](https://add0n.com/useragent-switcher.html): Switch your browsers user-agent.
+
+- [Grammarly](https://www.grammarly.com/): Grammar and spell checker.
+
+- [Cookie Editor](https://cookie-editor.com/): Edit cookies.
+
+- [Faststream](https://faststream.online/): Reduces buffering when watching videos.
+
+- [Easy Screenshot](https://webextension.org/listing/screenshot.html): Take whole page screenshots.
+
+- [Allow right click](https://add0n.com/allow-right-click.html): Force allow right clicking on websites that don't allow it.
+
+## Firefox Only Extensions:
+
+- ⭐ [Mozilla Addons](https://addons.mozilla.org/en-US/firefox/extensions/): Firefox addons.
+
+- ⭐ [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/): Seperate Firefox Sessions.
+
+- ⭐ [FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/): Tab improvements.
+
+- ⭐ [PWAs](https://pwasforfirefox.filips.si/): Install progressive web apps.
+
+- [Firefox Color](https://color.firefox.com/): Make custom themes for Firefox.
+
+## Chrome Only Extensions:
+
+- ⭐ [Foxified](https://foxified.org/): Use Firefox extensions in Chrome.
+
+- [WebCRX](https://webcrx.io/): Install CRX files easily.
+
+- [Smooth Key Scroll](https://www.smoothkeyscroll.com/): Makes scrolling smoother.
+
+
 
 
 
