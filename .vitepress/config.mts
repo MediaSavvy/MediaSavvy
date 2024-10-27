@@ -46,7 +46,7 @@ head: [
       {
         text: 'Categories:',
         items: [
-          { text: '🚫 Adblocking/Extensions/Bypassers', link: '/Wiki/Adblocking' },
+          { text: '🚫 Adblocking/Extensions', link: '/Wiki/Adblocking' },
           { text: '🤖 AI', link: '/Wiki/AI' },
           { text: '💾 Software', link: '/Wiki/Software' },
           { text: '🎮 Games', link: '/Wiki/Games' },
