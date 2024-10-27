@@ -15,7 +15,7 @@
 
 ### Adblockers for Android:
 
-**1. ⭐ [AdGuard](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=adguard&sf=titleonly):** System-wide adblocker.
+**1. ⭐ [AdGuard Premium](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=adguard&sf=titleonly):** System-wide adblocker.
 
 ::: danger Note:
 - For Adguard to block ads better you need to edit some of the setting. To do this go to `Settings > Filtering > Filters` and enable all of the Ad filters, the first 6 privacy filters, all of the annoyance filters and if you want enable some language-specific filters. 
@@ -26,7 +26,11 @@
 
 **3. ⭐ uBlock Origin:** [Firefox Mobile](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) / [Kiwi Browser & Other Chromium browsers that support extentions](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / Adblockers for browsers (not system-wide)
 
-**4. [Cromite](https://github.com/uazo/cromite):** A browser with adblocking filters.
+**4. ⭐ [RethinkDNS](https://rethinkdns.com/app):** DNS service, with an app (Android). Has many filters to choose from, including adblocking filters / [Blocklists](https://rethinkdns.com/app#blocklists) (If you're using the app, configure the blocklists from there instead).
+
+**5. ⭐ [DNSWarden](https://dnswarden.com/index.html):** DNS service with many filters to choose from, including adblockers.
+
+**6. [Cromite](https://github.com/uazo/cromite):** A browser with adblocking filters.
 
 ***
 
