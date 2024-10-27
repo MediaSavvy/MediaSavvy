@@ -6,11 +6,11 @@
 
 ### How to see if your files contain malware: 
 
-**1. [Virustotal ⭐ ](https://www.virustotal.com):** Check files with over 50+ antiviruses, able to see the files behaviour and relations.
+- [Virustotal](https://www.virustotal.com): Check files with over 50+ antiviruses, able to see the files behaviour and relations.
 
-**2. [Kaspersky Cloud](https://opentip.kaspersky.com/):** Kaspersky Cloud allows you to check the safety of files. Unfortunetly lots of the advanced features require you to pay.
+- [Kaspersky Cloud](https://opentip.kaspersky.com/): Kaspersky Cloud allows you to check the safety of files. Unfortunetly lots of the advanced features require you to pay.
 
-**3. [Hybrid Analysis](https://www.hybrid-analysis.com/):** Similar to Virustotal
+- [Hybrid Analysis](https://www.hybrid-analysis.com/): Similar to Virustotal
 
 ***
 
