@@ -20,14 +20,14 @@ hero:
       text: Discord (Link fixed)
       link: https://discord.com/invite/uEKARuGczF
 
-#  features:
-#  - icon: 📅   
+   features:
+   - icon: 📅   
     title: Up-To-Date
     details: I do my best to ensure the website is as accurate and that all the links work as expected.
-#  - icon: ✅
+   - icon: ✅
     title: Safe and Accurate
     details: Me and a few other members check the websites and programs listed daily to ensure that they are safe, working and accurate.
-#  - icon: 🌟
+  - icon: 🌟
     title: Good Options Only
     details: My list only provides the best options rather than a large variety of items that is hard to moderate and keep safe.
 ---
