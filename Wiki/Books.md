@@ -39,6 +39,45 @@
 
 - [Ebook PDF](https://ebookpdf.com/): Books.
 
+## Audiobooks:
+
+**Downloading:**
+
+- ⭐ [Myanonamouse](https://www.myanonamouse.net/): [Interview to join](https://www.myanonamouse.net/inviteapp.php)
+
+- ⭐ [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)
+
+- ⭐ [Audiobook Bay](https://audiobookbay.is): [Avoid Fake Download Links](https://rentry.org/rriia9b4) / Torrents
+
+- [AudiobooksBee](https://audiobooksbee.com/)
+
+- [Audiobookss](https://audiobookss.com/)
+
+**Streaming:**
+
+- ⭐ [Tokybook](https://tokybook.com/): [Downloader](https://github.com/rahaaatul/TokySnatcher), [2](https://github.com/nazdridoy/audiobooksnatcher)
+
+- [GalaxyAudiobooks](https://galaxyaudiobook.com/): [Downloader](https://github.com/nazdridoy/audiobooksnatcher)
+
+- [Fulllengthaudiobook](https://fulllengthaudiobook.com/)
+
+- [HDAudiobooks](https://hdaudiobooks.com/)
+
+- [HotAudiobooks](https://hotaudiobooks.com/)
+
+- [BookAudioboob](https://bookaudiobooks.com/)
+
+
+## Ebook Readers:
+
+- ⭐ [EBook Reader](https://epub-reader.online/): Ebook reader / Android, iOS, PC & Mac.
+
+- ⭐ [Foxit](https://www.foxit.com/pdf-reader//):  PDF Reader / PC, Android, iOS, Linux & Mac.
+
+- ⭐ [Koodoo](https://koodo.960960.xyz/): Ebook Reader / PC, Mac, Linux.
+
+- ⭐ [Calibre](https://calibre-ebook.com/): Ebook Manager & Downloader / PC, Mac & Linux.
+
 ## Educational Books:
 
 - ⭐ [Openstax](https://openstax.org/)
@@ -117,77 +156,7 @@
 
 - ⭐ [Papeer](https://papeer.tech/): Webpage to EPUB.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Audiobooks:
-
-**Downloading:**
-
-- ⭐ [Myanonamouse](https://www.myanonamouse.net/): [Interview to join](https://www.myanonamouse.net/inviteapp.php)
-
-- ⭐ [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)
-
-- ⭐ [Audiobook Bay](https://audiobookbay.is): [Avoid Fake Download Links](https://rentry.org/rriia9b4) / Torrents
-
-- [AudiobooksBee](https://audiobooksbee.com/)
-
-- [Audiobookss](https://audiobookss.com/)
-
-**Streaming:**
-
-- ⭐ [Tokybook](https://tokybook.com/): [Downloader](https://github.com/rahaaatul/TokySnatcher), [2](https://github.com/nazdridoy/audiobooksnatcher)
-
-- [GalaxyAudiobooks](https://galaxyaudiobook.com/): [Downloader](https://github.com/nazdridoy/audiobooksnatcher)
-
-- [Fulllengthaudiobook](https://fulllengthaudiobook.com/)
-
-- [HDAudiobooks](https://hdaudiobooks.com/)
-
-- [HotAudiobooks](https://hotaudiobooks.com/)
-
-- [BookAudioboob](https://bookaudiobooks.com/)
-
-
-
-### History Books
-
-
-
-
-
-
-
-
-
-## Ebook Readers:
-
-- ⭐ [EBook Reader](https://epub-reader.online/): Ebook reader / Android, iOS, PC & Mac.
-
-- ⭐ [Foxit](https://www.foxit.com/pdf-reader//):  PDF Reader / PC, Android, iOS, Linux & Mac.
-
-- ⭐ [Koodoo](https://koodo.960960.xyz/): Ebook Reader / PC, Mac, Linux.
-
-- ⭐ [Calibre](https://calibre-ebook.com/): Ebook Manager & Downloader / PC, Mac & Linux.
+---
 
 ### ↪️ [Android Ebook Readers](https://mediasavvy.pages.dev/Wiki/Mobile.html#android-reading-apps)
 
