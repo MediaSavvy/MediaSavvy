@@ -23,10 +23,10 @@ Welcome to MediaSavvy, a trusted source for carefully curated piracy and other i
 ---
 
 # Emoji Key
-## ⭐
+### ⭐
 Websites and programs recommended by MediaSavvy. They are the best of the best.
 
-## ↪️ 
+### ↪️ 
 Linking to other parts of MediaSavvy.
 
 ---
