@@ -1,4 +1,4 @@
-# 🎦 Movies / TV shows / Live TV
+# 🎦 Movies / TV shows / Live TV (Being updated)
 ### Download or stream free movies. 
 
 
@@ -10,50 +10,50 @@
 If you are streaming movies/tv shows and it's buffering, you can try [FastStream](https://FastStream.online). FastStream downloads video fragments in parallel. Up to 6x faster download speeds for videos, ensuring smooth playback with no interruptions, with other awesome features.
 :::
 
-**1. ⭐ [watch.lonelil](https://watch.lonelil.com/):** Also has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
+- ⭐ [watch.lonelil](https://watch.lonelil.com/): Also has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
 
-**2. ⭐ [Braflix](https://www.braflix.app/):** Also has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / Allows you to download movies (requires sign-up).
-
-
-**3. ⭐ [RidoMovies](https://ridomovies.tv/):** 1080p & Lower / Fast loading speeds / Good design / Single Server.
-
-**4. ⭐ [Streamflix](https://watch.streamflix.one/):** Also has live TV / 1080p & Lower / Ok loading speeds / Good Design / Multi Server.
+- ⭐ [Braflix](https://www.braflix.app/): Also has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / Allows you to download movies (requires sign-up).
 
 
-**5. ⭐ [Freek](https://freek.to) (Previously Binged):** 4K & Lower / Single Server / Fast loading speeds / Great design.
+- ⭐ [RidoMovies](https://ridomovies.tv/): 1080p & Lower / Fast loading speeds / Good design / Single Server.
 
-**6. ⭐ [PrimeFlix](https://primeflix-web.vercel.app/):** 1080p, 4K and lower / Fast loading speeds / Good Design / Multi Server.
+- ⭐ [Streamflix](https://watch.streamflix.one/): Also has live TV / 1080p & Lower / Ok loading speeds / Good Design / Multi Server.
 
-**7. ⭐ [movie-web](https://erynith.github.io/movie-web-instances/):** 1080p, 4K & lower / Fast loading speeds / Allows you to download movies / Multi Server / Great Design / [Add more sources](https://pastebin.com/w8Brq2UA).
 
-**8. ⭐ [NetPlay](https://netplayz.ru/):** 1080p & lower / Fast loading speeds / Multi Server / User-friendly design.
+- ⭐ [Freek](https://freek.to) (Previously Binged): 4K & Lower / Single Server / Fast loading speeds / Great design.
 
-**9. ⭐ [Rive](https://rivestream.live):** 4K & Lower / Fast loading speeds / Multi Server / Great design.
+- ⭐ [PrimeFlix](https://primeflix-web.vercel.app/): 1080p, 4K and lower / Fast loading speeds / Good Design / Multi Server.
 
-**10. ⭐ [Catflix](https://catflix.su/):** 1080p & Lower / Fast loading speeds / Single Server / Awesome design.
+- ⭐ [movie-web](https://erynith.github.io/movie-web-instances/): 1080p, 4K & lower / Fast loading speeds / Allows you to download movies / Multi Server / Great Design / [Add more sources](https://pastebin.com/w8Brq2UA).
 
-**11. [CinemaUnlocked](https://cinemaunlocked.com/home/):** 1080p and lower / Fast loading speeds / Good design.
+- ⭐ [NetPlay](https://netplayz.ru/): 1080p & lower / Fast loading speeds / Multi Server / User-friendly design.
 
-**12. [Donkey](https://donkey.to/home):** 1080p & lower / Fast loading speeds / Ad-free / Good design.
+- ⭐ [Rive](https://rivestream.live): 4K & Lower / Fast loading speeds / Multi Server / Great design.
 
-**13. [YoYo Movies](https://yoyomovies.net/):** 1080p & lower / Fast loading speeds / Multi Server / Some sources allow you to download movies / User-friendly design.
+- ⭐ [Catflix](https://catflix.su/): 1080p & Lower / Fast loading speeds / Single Server / Awesome design.
+
+- [CinemaUnlocked](https://cinemaunlocked.com/home/): 1080p and lower / Fast loading speeds / Good design.
+
+- [Donkey](https://donkey.to/home): 1080p & lower / Fast loading speeds / Ad-free / Good design.
+
+- [YoYo Movies](https://yoyomovies.net/): 1080p & lower / Fast loading speeds / Multi Server / Some sources allow you to download movies / User-friendly design.
 
 
 ***
 
 ### Sites For Downloading Movies (DDL):
 
-**1. ⭐ [Olamovies](https://olamovies.rent/):** Movies & TV / 4K & 1080p / DDL
+- ⭐ [Olamovies](https://olamovies.rent/): Movies & TV / 4K & 1080p / DDL
 
-**2. ⭐ [LightDLMovies](https://lightdl.xyz/):** Movies & TV / 1080p & Lower / DDL / One click download
+- ⭐ [LightDLMovies](https://lightdl.xyz/): Movies & TV / 1080p & Lower / DDL / One click download
 
-**3. ⭐ [PSARips](https://psa.wf/):** Movies & TV / 4K & Lower / DDL & Torrents
+- ⭐ [PSARips](https://psa.wf/): Movies & TV / 4K & Lower / DDL & Torrents
 
-**4. ⭐ [Pahe](https://pahe.ink/):** Movies & TV & Anime / 4K & Lower / DDL
+- ⭐ [Pahe](https://pahe.ink/): Movies & TV & Anime / 4K & Lower / DDL
 
-**5. ⭐ [Vegas Movies](https://vegamovies.dad/):** Movies & TV / 4K & Lower / DDL
+- ⭐ [Vegas Movies](https://vegamovies.dad/): Movies & TV / 4K & Lower / DDL
 
-**6. ⭐ [Movie Paradise](https://movieparadise.org/):** Movies & TV / 1080p / [Code](https://rentry.org/he8fhzku) (Unlocks faster file host, 1fichier)
+- ⭐ [Movie Paradise](https://movieparadise.org/): Movies & TV / 1080p / [Code](https://rentry.org/he8fhzku) (Unlocks faster file host, 1fichier)
 
 ### Sites For Downloading Movies (Torrents):
 
@@ -61,15 +61,15 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 Make sure to use a VPN!
 :::
 
-**1. ⭐ [1337x TV Shows and Movies](https://1337x.to/top-100-movies):** Movies & TV.
+- ⭐ [1337x TV Shows and Movies](https://1337x.to/top-100-movies): Movies & TV.
 
-**2. ⭐ [RuTracker](https://rutracker.org/forum/index.php?c=2):** Movies & TV.
+- ⭐ [RuTracker](https://rutracker.org/forum/index.php?c=2): Movies & TV.
 
-**3. ⭐ [TorrentGalaxy](https://torrentgalaxy.to/):** Movies & TV & Anime
+- ⭐ [TorrentGalaxy](https://torrentgalaxy.to/): Movies & TV & Anime
 
-**4. [EZTV](https://eztvx.to/):** TV & Anime & Movies / [DON'T](https://web.archive.org/web/20230729051829/https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) make an account!
+- [EZTV](https://eztvx.to/): TV & Anime & Movies / [DON'T](https://web.archive.org/web/20230729051829/https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) make an account!
 
-**5. [YTS](https://yts.mx/):** TV & Anime & Movies / [DON'T](https://web.archive.org/web/20230729051829/https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) make an account!
+- [YTS](https://yts.mx/): TV & Anime & Movies / [DON'T](https://web.archive.org/web/20230729051829/https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) make an account!
 
 
 
@@ -77,27 +77,27 @@ Make sure to use a VPN!
 
 ### Best Movie Apps For Android:
 
-**1. ⭐ [Stremio](https://stremio.com):** Supports downloading / 4K and lower / [Guide](https://rentry.co/a-guide-to-stremio)
+- ⭐ [Stremio](https://stremio.com): Supports downloading / 4K and lower / [Guide](https://rentry.co/a-guide-to-stremio)
 
-**2. ⭐ [NovaTV](https://www.novatv.app) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=novatv&sf=titleonly)**
+- ⭐ [NovaTV](https://www.novatv.app) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=novatv&sf=titleonly)**
 
 You can download movies / Good design / 1080p & lower
 
-**3. ⭐ [FilmPlus](https://www.filmplusapp.com) | [Remove the in app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=filmplus&sf=titleonly)**
+- ⭐ [FilmPlus](https://www.filmplusapp.com) | [Remove the in app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=filmplus&sf=titleonly)**
 
 You can download movies / Ok design / 1080p & lower
 
-**4. ⭐ [HDO Box](https://hdo.app) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)**
+- ⭐ [HDO Box](https://hdo.app) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)**
 
 You can download movies / Good design / 1080p & lower
 
-**5. [Flixclusive](https://github.com/rhenwinch/Flixclusive):**
+- [Flixclusive](https://github.com/rhenwinch/Flixclusive):
 Open-source / Ad-free / Can't download movies yet / Good Design / 1080p & lower / Very Fast
 
-**6. [Miru](https://github.com/miru-project/miru-app):**
+- [Miru](https://github.com/miru-project/miru-app):
 Open-source / Ad-free / Can't download movies / Ok design / 1080p & lower / Very Fast
 
-**7. [BeeTV](https://www.beetvapp.me) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=beetv&sf=titleonly)**
+- [BeeTV](https://www.beetvapp.me) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=beetv&sf=titleonly)**
 You can download movies / Ok design / 1080p & lower
 
 ***
@@ -106,35 +106,35 @@ You can download movies / Ok design / 1080p & lower
 :::danger There's not many good movie apps for iOS / iPadOS so I recommend you just use a website listed above with an [adblocker](https://mediasavvy.pages.dev/Wiki/Adblocking/#adblocking-for-ios--ipados-system-wide). If you want an app anyways, there is a good one listed below.
 :::
 
-**1. ⭐ [Streamer](https://github.com/StreamerApp/Streamer)**.
+- ⭐ [Streamer](https://github.com/StreamerApp/Streamer)
 
 ***
 
 ### Media Centers:
 
-**1. [Plex](https://www.plex.tv/):**  Self-hosted Netflix. Provide your own content and serve them in a Netflix-like interface.
+- [Plex](https://www.plex.tv/):  Self-hosted Netflix. Provide your own content and serve them in a Netflix-like interface.
 
-**2. [Jellyfin](https://jellyfin.org/):**  Self-hosted Netflix. Provide your own content and serve them in a Netflix-like interface. Open-source.
+- [Jellyfin](https://jellyfin.org/):  Self-hosted Netflix. Provide your own content and serve them in a Netflix-like interface. Open-source.
 
-**3. [Kodi](https://kodi.tv/):** Home theater media center. Host your own content or add online content sources (/r/Addons4Kodi)
+- [Kodi](https://kodi.tv/): Home theater media center. Host your own content or add online content sources (/r/Addons4Kodi)
 
-**4. [Stremio](https://stremio.com):** [Guide](https://rentry.co/a-guide-to-stremio)
+- [Stremio](https://stremio.com): [Guide](https://rentry.co/a-guide-to-stremio)
 
 ## Subtitles:
 
-**1. ⭐ [Open Subtitles](https://opensubtitles.org/)**
+- ⭐ [Open Subtitles](https://opensubtitles.org/)
+ 
+- ⭐ [Addic7ed](https://www.addic7ed.com/)
 
-**2. ⭐ [Addic7ed](https://www.addic7ed.com/)**
-
-**3. [Subtitle Cat](https://www.subtitlecat.com/)**
+- [Subtitle Cat](https://www.subtitlecat.com/)
 
 ### Live TV / Sport
 
-**1. ⭐ [Streamed](https://streamed.su):** Sports
+- ⭐ [Streamed](https://streamed.su): Sports
 
-**2. ⭐ [watch.lonelil](https://watch.lonelil.ru/tv):** TV / Sport
+- ⭐ [watch.lonelil](https://watch.lonelil.ru/tv): TV / Sport
 
-**3. [EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html):** TV / Sports
+- [EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html): TV / Sports
 
 
 
