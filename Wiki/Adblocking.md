@@ -7,7 +7,7 @@
 
 - ⭐ [CanYouBlockIt](https://canyoublockit.com/): Manual adblock tester.
 
-- **[ADBlockTester](https://adblock-tester.com/): Automatic adblock tester.
+- [ADBlockTester](https://adblock-tester.com/): Automatic adblock tester.
 
 - [D3ward](https://d3ward.github.io/toolz/adblock.html): Automatic adblock tester.
 
