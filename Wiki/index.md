@@ -11,7 +11,6 @@ Welcome to MediaSavvy, a trusted source for carefully curated piracy and other i
 - When torrenting make sure to use a reliable VPN such as Mullvad or ProtonVPN and bind them to your torrenting client.
 - It is recommended that you use [Firefox](https://firefox.com), one of the best non-chromium browsers, with the best support for uBlock Origin. 
 - Make sure to change your [DNS](https://www.privacyguides.org/en/dns/).  This can increase your browsing speed and bypass censorship from your ISP.
-
 :::
 
 ::: tip Additional Information:
@@ -21,6 +20,7 @@ Welcome to MediaSavvy, a trusted source for carefully curated piracy and other i
 :::
 
 ---
+
 ::: note
 # Emoji Key
 ### ⭐
