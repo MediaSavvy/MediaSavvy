@@ -104,7 +104,7 @@
 
 ### Academic Articles:
 
-- ⭐ [Sci-Hub](https://sci-hub.se/): Science articles & Research papers / [Download Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button) / [PDF  Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7]
+- ⭐ [Sci-Hub](https://sci-hub.se/): Science articles & Research papers / [Download Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button) / [PDF  Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7)
 
 - ⭐ [Google Scholar](https://scholar.google.com/): Academic papers search engine.
 
