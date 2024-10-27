@@ -30,7 +30,7 @@
 
 - ⭐ [DNSWarden](https://dnswarden.com/index.html): DNS service with many filters to choose from, including adblockers.
 
-- ** [Cromite](https://github.com/uazo/cromite):** A browser with adblocking filters.
+- [Cromite](https://github.com/uazo/cromite): A browser with adblocking filters.
 
 ***
 
@@ -96,7 +96,7 @@ Once Google introduces Manifiest V3 adblockers like uBlock Origin and many other
 
 - ⭐ [Archive.today](https://archive.is/): Archived articles.
 
-- ⭐ [Freedium](https://freedium.cfd/), [ReadMedium](https://freedium.cfd/):** Bypass Medium paywalls.
+- ⭐ [Freedium](https://freedium.cfd/), [ReadMedium](https://freedium.cfd/): Bypass Medium paywalls.
 
 - ⭐ [Wallabag](https://wallabag.org/): Save articles and read them later offline.
 
