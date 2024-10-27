@@ -90,7 +90,7 @@
 
 - [FreeBooksCentre](https://www.freebookcentre.net/)
 
-### Documents and Articles:
+### Documents and Academic Articles:
 
 - ⭐ [TheFreeLibrary](https://www.thefreelibrary.com/): Articles
 
@@ -98,17 +98,16 @@
 
 - ⭐ [STC](https://libstc.cc/): Article & Document Search.
 
-- [Wikisource](https://en.wikisource.org/): Poetry, Text & Documents.
-
-- [IDoc](https://idoc.pub/): Documents.
-
-### Academic Articles:
-
 - ⭐ [Sci-Hub](https://sci-hub.se/): Science articles & Research papers / [Download Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button) / [PDF  Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7)
 
 - ⭐ [Google Scholar](https://scholar.google.com/): Academic papers search engine.
 
 - ⭐ [Scinapse](https://scinapse.io/): Academic papers search engine.
+
+- [Wikisource](https://en.wikisource.org/): Poetry, Text & Documents.
+
+- [IDoc](https://idoc.pub/): Documents.
+
 
 ## Visual 
 
