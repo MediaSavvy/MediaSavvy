@@ -16,7 +16,7 @@
 
 - [RevDL](https://revdl.com)
 
- [NSANE](https://nsaneforums.com/): Requires sign-up.
+- [NSANE](https://nsaneforums.com/): Requires sign-up.
 
 - [An1](https://an1.com/)
 
