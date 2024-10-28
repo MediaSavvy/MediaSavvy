@@ -48,7 +48,7 @@
 
 - ⭐ [CRACKSurl](https://cracksurl.com/)
 
-- [Game Bounty Software](https://gamebounty.world/software/)**
+- [Game Bounty Software](https://gamebounty.world/software/)
 
 
 - [Mutaz](https://www.mutaz.pro)
