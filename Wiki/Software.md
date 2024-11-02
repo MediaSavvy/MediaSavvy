@@ -50,10 +50,6 @@
 
 - [Game Bounty Software](https://gamebounty.world/software/)
 
-
-- [Mutaz](https://www.mutaz.pro)
-
-
 - [download93](https://4mirrorlink.com/)
 
 
