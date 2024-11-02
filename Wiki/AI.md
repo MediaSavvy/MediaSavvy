@@ -3,7 +3,7 @@
 
 ## AI Chatbots
 
-- ⭐ [ChatGPT](https://chat.openai.com): GPT-4o.
+- ⭐ [ChatGPT](https://chat.openai.com): GPT-4o chatbot.
 
 - ⭐ [Wrtn](https://wrtn.ai/): Free GPT 4o chatbot and search / Ask for English
 
@@ -38,6 +38,8 @@
 - [Poe](https://www.poe.com): Multiple chatbots in one app, multiple image generation models for free (e.g stable diffusion)
 
 - [DuckDuckGo AI](https://duck.ai/): Multiple AI chatbots.
+
+- [AI Uncensored](https://www.aiuncensored.info/): Uncensored AI chatbot / Roleplay with characters (Note: most characters are NSFW)
 
 ## Learning:
 
