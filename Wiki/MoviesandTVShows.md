@@ -12,8 +12,6 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 - ⭐ [watch.lonelil](https://watch.lonelil.com/): Also has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
 
-- ⭐ [Braflix](https://www.braflix.app/): Also has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / Allows you to download movies (requires sign-up).
-
 
 - ⭐ [RidoMovies](https://ridomovies.tv/): 1080p & Lower / Fast loading speeds / Good design / Single Server.
 
