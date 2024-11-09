@@ -20,7 +20,7 @@ Make sure that you [BIND](https://redd.it/ssy8vv) your VPN client to prevent lea
 
 ***
 
-### [Android torrent clients](https://mediasavvy.pages.dev/Wiki/Mobile.html#android-torrenting)
+### ↪️ [Android torrent clients](https://mediasavvy.pages.dev/Wiki/Mobile.html#android-torrenting)
 
 
 ## Remote Torrenting
