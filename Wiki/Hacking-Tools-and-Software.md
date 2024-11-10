@@ -35,6 +35,8 @@
 
 - [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can use ChatGPT with the temporary chat enabled to ask the same type of questions.
 
+- [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
+
 ***
 
 ### Deobfuscators
