@@ -1,0 +1,36 @@
+User-agent: Googlebot
+Disallow: /Wiki
+User-agent: googlebot-image
+Disallow: /Wiki
+User-agent: googlebot-mobile
+Disallow: /Wiki
+User-agent: MSNBot
+Disallow: /Wiki
+User-agent: Slurp
+Disallow: /Wiki
+User-agent: Teoma
+Disallow: /Wiki
+User-agent: Gigabot
+Disallow: /Wiki
+User-agent: Robozilla
+Disallow: /Wiki
+User-agent: Nutch
+Disallow: /Wiki
+User-agent: ia_archiver
+Disallow: /Wiki
+User-agent: baiduspider
+Disallow: /Wiki
+User-agent: naverbot
+Disallow: /Wiki
+User-agent: yeti
+Disallow: /Wiki
+User-agent: yahoo-mmcrawler
+Disallow: /Wiki
+User-agent: psbot
+Disallow: /Wiki
+User-agent: yahoo-blogs/v3.9
+Disallow: /Wiki
+User-agent: *
+Disallow: 
+
+Sitemap: https://mediasavvy.pages.dev/sitemap.xml
