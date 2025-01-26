@@ -3,14 +3,14 @@
 
 ***
 
-### Streaming Websites
+## Streaming Websites
 
 :::warning Note:
 If you are streaming movies/tv shows and it's buffering, you can try [FastStream](https://FastStream.online). FastStream downloads video fragments in parallel. Up to 6x faster download speeds for videos, ensuring smooth playback with no interruptions, with other awesome features.
 :::
 
 
-- ⭐ [Cineby](https://www.cineby.ru/): 1080p & lower / Extremely fast loading speeds / Good design / Multi server / Auto next / Supports downloading
+- ⭐ [Cineby](https://www.cineby.ru/): 4K & lower / Extremely fast loading speeds / Good design / Multi server / Auto next / Supports downloading
 
 - ⭐ [watch.lonelil](https://watch.lonelil.com/): Has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
 
@@ -30,6 +30,8 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 - ⭐ [Nunflix](https://nunflix.org/): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Auto next
 
+- [7Xtream](https://movies.7xtream.com/): 1080p & Lower / Fast loading speeds / Multi server / Good Design / Auto next
+
 -  [Kipstream](https://kipstream.lol/): 1080p & lower / Fast loading speeds / Good design / Multi server
 
 
@@ -43,6 +45,54 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 - [Donkey](https://donkey.to/home): 1080p & lower / Fast loading speeds / Good design.
 
 - [YoYo Movies](https://yoyomovies.net/): 1080p & lower / Fast loading speeds / Multi Server / Some sources allow you to download movies / User-friendly design.
+
+### TV Shows
+
+- ⭐ [CouchTuner](https://www.couchtuner.show/)
+
+- ⭐ [Best Series](https://bstsrs.in/)
+
+- [NOXX](https://noxx.to/)
+
+### Anime
+
+- ⭐ [Miruro](https://www.miruro.tv/)
+
+- ⭐ [KickAssAnime](https://kickassanime.mx/)
+
+- ⭐ [HiAnime](https://hianime.to/)
+
+- [AnimePahe](https://animepahe.ru/): [Downloader](https://github.com/KevCui/animepahe-dl)
+
+- [123Anime](https://123animes.ru/)
+
+
+
+### Live TV / Sport
+
+- ⭐ [Streamed](https://streamed.su): Sports
+
+- ⭐ [watch.lonelil](https://watch.lonelil.ru/tv): TV / Sport
+
+- ⭐ [TOTV](http://totv.org/channels): Sport / TV
+
+- ⭐ [RgShows](https://www.rgshows.me/livetv/): Sports / TV
+
+- ⭐ [WatchSport](https://watchsports.to/): Sports
+
+- [SportsPlus](https://en12.sportplus.live/): Sports
+
+- [SportsHub](https://sportshub.stream/): Sports
+
+### Cartoons
+
+- ⭐ [WCO](https://www.wco.tv/)
+
+- ⭐ [Kimcartoon](https://kimcartoon.si/)
+
+- [TopCartoons](https://www.topcartoons.tv/)
+
+- [KissCartoons](https://kisscartoon.nz/)
 
 
 ***
@@ -63,6 +113,10 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 - ⭐ [Movie Paradise](https://movieparadise.org/): Movies & TV / 1080p / [Code](https://rentry.org/he8fhzku) (Unlocks faster file host, 1fichier)
 
+- [OOMoye](https://www.oomoye.life/)
+
+- [RgShows](https://www.rgshows.me/)
+
 ### Torrent Downloading
 
 :::warning Note:
@@ -74,6 +128,8 @@ Make sure to use a VPN!
 - ⭐ [RuTracker](https://rutracker.org/forum/index.php?c=2): Movies & TV.
 
 - ⭐ [TorrentGalaxy](https://torrentgalaxy.to/): Movies & TV & Anime
+
+- [ThePirateBay](https://thepiratebay.org/search.php?q=top100:200): Movies & TV / 4K / Avoid software and games!
 
 - [EZTV](https://eztvx.to/): TV & Anime & Movies / [DON'T](https://web.archive.org/web/20230729051829/https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) make an account!
 
@@ -136,13 +192,6 @@ You can download movies / Ok design / 1080p & lower
 
 - [Subtitle Cat](https://www.subtitlecat.com/)
 
-### Live TV / Sport
-
-- ⭐ [Streamed](https://streamed.su): Sports
-
-- ⭐ [watch.lonelil](https://watch.lonelil.ru/tv): TV / Sport
-
-- [EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html): TV / Sports
 
 
 
