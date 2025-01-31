@@ -4,11 +4,11 @@
 
 ### Chatbots
 
+- ⭐ [DeepSeek](https://www.deepseek.com/): DeepSeek V3 and R1 / Unlimited / Self-hostable.
+
 - ⭐ [ChatGPT](https://chat.openai.com): GPT-4o chatbot.
 
 - ⭐ [Gemini](https://Gemini.google.com/): Google's chatbot.
-
-- ⭐ [DeepSeek](https://www.deepseek.com/): DeepSeek V3 and R1 / Unlimited / Self-hostable.
 
 - ⭐ [LMSYS](https://chat.lmsys.org/): GPT-4o and other chatbots.
 
