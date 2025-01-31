@@ -45,9 +45,11 @@
 
 - ⭐ [Musify](https://github.com/gokadzev/Musify)
 
-- ⭐ [Spotube](https://github.com/KRTirtho/spotube): Has a mobile app, allows you to sync between devices.
+- ⭐ [Spotube](https://github.com/KRTirtho/spotube): Spotify streaming app.
 
 - ⭐ [InnerTune](https://github.com/z-huang/InnerTune)
+
+- ⭐ [Outertune](https://github.com/DD3Boh/OuterTune): YT Music player.
 ***
 
 ### Best Free Music Streaming Program for Windows & Mac & Linux:
