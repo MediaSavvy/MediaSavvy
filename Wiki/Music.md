@@ -2,7 +2,7 @@
 
 ***
 
-### Stream Music in Browser:
+### Browser Streaming:
 
 - ⭐ [YTMP](https://ytmp.itsvg.in/)
 
@@ -12,7 +12,9 @@
 
 - ⭐ [Spotfy One](https://spotfy.one/)
 
-### Browser Music Downloaders:
+- [ytify](https://ytify.netlify.app/search)
+
+### Browser Downloaders:
 
 - ⭐ [squid.wtf](https://squid.wtf/): FLAC, Deezer.
 
@@ -28,7 +30,9 @@
 
 - ⭐ [musiciobot](https://t.me/musicaiocloud): FLAC & Lower supported
 
-- ⭐ [BestSpotBot](https://t.me/BeatSpotBot)
+- ⭐ [Glomatico Amazon](https://t.me/GlomaticoAmazonMusicBot) & [Glomatico Apple](https://t.me/GlomaticoAppleMusicBot): FLAC / Amazon Music & Apple Music.
+
+- ⭐ [BestSpotBot](https://t.me/BeatSpotBot): FLAC / Limit of 25 daily
 
  - ⭐ [MP3downloader](https://t.me/TG_mp3downloader_bot)
 
