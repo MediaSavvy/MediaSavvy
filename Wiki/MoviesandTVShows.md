@@ -6,7 +6,7 @@
 ## Streaming Websites
 
 :::warning Note:
-If you are streaming movies/tv shows and it's buffering, you can try [FastStream](https://FastStream.online). FastStream downloads video fragments in parallel. Up to 6x faster download speeds for videos, ensuring smooth playback with no interruptions, with other awesome features.
+If you are streaming movies/tv shows and it buffers, you can try [FastStream](https://FastStream.online). FastStream downloads video fragments in parallel. Up to 6x faster download speeds for videos, ensuring smooth playback with no interruptions, with other awesome features.
 :::
 
 
@@ -29,6 +29,8 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 - ⭐ [Catflix](https://catflix.su/): 1080p & Lower / Fast loading speeds / Single Server / Awesome design.
 
 - ⭐ [Nunflix](https://nunflix.org/): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Auto next
+
+- [PopcornMovies](https://popcornmovies.to/): Has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server
 
 - [7Xtream](https://movies.7xtream.com/): 1080p & Lower / Fast loading speeds / Multi server / Good Design / Auto next
 
