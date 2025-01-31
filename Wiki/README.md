@@ -1,7 +1,7 @@
 # MediaSavvy
-Welcome to MediaSavvy, a trusted source for carefully curated piracy and other informative guides. I'm dedicated to providing top-tier resources that I personally use, recommend, and deem reliable, safe, high quality, and practical for everyone.
+Welcome to MediaSavvy, a trusted source for carefully curated piracy and other informative guides. I'm dedicated to providing top-tier resources that we personally use, recommend, and deem reliable, safe, high quality, and practical for everyone.
 
-Here's everything that will be on the website: (This website is still in development and some of these may not be there ***yet***.)
+Here's everything included on the website: (and more coming soon!)
 - Free movies
 - Free games
 - Free music streaming
