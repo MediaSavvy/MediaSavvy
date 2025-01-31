@@ -12,6 +12,8 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [Cineby](https://www.cineby.ru/): 4K & lower / Extremely fast loading speeds / Good design / Multi server / Auto next / Supports downloading
 
+- ⭐ [Bitcine](https://www.bitcine.app/): 4K & lower / Extremely fast loading speeds / Good design / Multi server / Auto next / Supports downloading
+
 - ⭐ [watch.lonelil](https://watch.lonelil.com/): Has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
 
 - ⭐ [456movies](https://456movie.com/): 4K, 1080p & Lower / Good design / Multi server
