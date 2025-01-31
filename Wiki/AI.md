@@ -14,13 +14,13 @@
 
 - ⭐ [Mistral](https://chat.mistral.ai/chat): Multiple chatbots / Account required.
 
+ - ⭐ [Qwen](https://chat.qwenlm.ai/): Alibabas chatbots.
+
 - [Claude](https://www.anthropic.com/product): Anthropic's AI chatbot / Phone number required.
 
 - [Meta AI](https://www.meta.ai/): Metas chatbot, Llama 3.2.
 
 - [HuggingCHat](https://huggingface.co/chat/): Multiple chatbots.
-
-- [Qwen](https://chat.qwenlm.ai/): Alibabas chatbots.
 
 - [Pi](https://pi.ai/talk): An excellent AI assistant that you can have conversations with, vent with, help you with work etc.
 
