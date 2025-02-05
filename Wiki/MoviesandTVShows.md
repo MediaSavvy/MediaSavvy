@@ -28,9 +28,12 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [Rive](https://rivestream.live): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Supports downloading in primary server only
 
-- ⭐ [Catflix](https://catflix.su/): 1080p & Lower / Fast loading speeds / Single Server / Awesome design.
+- ⭐ [Watch2Day](https://watch2day.site/): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design
 
-- ⭐ [Nunflix](https://nunflix.org/): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Auto next
+
+- ⭐ [Catflix](https://catflix.su/): 1080p & Lower / Fast loading speeds / Multi Server / Awesome design.
+
+- [Nunflix](https://nunflix.org/): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Auto next
 
 - [PopcornMovies](https://popcornmovies.to/): Has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server
 
