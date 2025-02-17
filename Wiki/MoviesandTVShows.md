@@ -14,19 +14,22 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [Bitcine](https://www.bitcine.app/): 4K & lower / Extremely fast loading speeds / Good design / Multi server / Auto next / Supports downloading
 
-- ⭐ [watch.lonelil](https://watch.lonelil.com/): Has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
-
 - ⭐ [456movies](https://456movie.com/): 4K, 1080p & Lower / Good design / Multi server
 
 - ⭐ [Freek](https://freek.to) (Previously Binged): 4K, 1080p & Lower / Multi Server / Fast loading speeds / Great design / Auto next 
 
+- ⭐ [MokMobi](https://mokmobi.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading / [Classic Site](https://mokmobi.site/)
+
+- ⭐ [Rive](https://rivestream.live): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Supports downloading in primary server only
+
 - ⭐ [PrimeFlix](https://primeflix-web.vercel.app/): 4K, 1080p & lower / Fast loading speeds / Good Design / Multi Server.
+
+- ⭐ [watch.lonelil](https://watch.lonelil.com/): Has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
+
 
 - ⭐ [movie-web](https://erynith.github.io/movie-web-instances/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next / [Add more sources](https://pastebin.com/w8Brq2UA).
 
 - ⭐ [NetPlay](https://netplayz.ru/): 1080p & lower / Fast loading speeds / Multi Server / User-friendly design.
-
-- ⭐ [Rive](https://rivestream.live): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Supports downloading in primary server only
 
 - ⭐ [Watch2Day](https://watch2day.site/): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design
 
