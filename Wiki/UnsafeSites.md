@@ -8,6 +8,8 @@
 
 - **TheRarBG:** Fake clone of RarBG.
 
+- **Game drive:** Owner put fake DL buttons on the site, and stated that [they did not care.](https://imgur.com/a/D7AlKQT) / [2](https://www.reddit.com/r/Piracy/s/N0r83dyfeZ)
+
 - **RarBG Dump Index:** Fake clone of RarBG.
 
 - **SadeemPC / SadeemAPK:**   Caught with malware multiple times.
