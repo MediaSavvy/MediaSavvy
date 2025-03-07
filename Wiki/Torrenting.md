@@ -44,19 +44,17 @@ Make sure that you [BIND](https://redd.it/ssy8vv) your VPN client to prevent lea
 
 **1. ⭐ [RuTracker](https://rutracker.org/):**  Video / Audio / Games / Software / Android / Comics / Magazines
 
-**2. ⭐ [TorrentGalaxy](https://torrentgalaxy.to/):** Video / Audio
+**2. ⭐ [m0nkrus](https://w14.monkrus.ws/):** Adobe Software (Avoid collections as they have been accused of having malware multiple times, stick to individual Adobe programs to be safe.)
 
-**3. ⭐ [m0nkrus](https://w14.monkrus.ws/):** Adobe Software (Avoid collections as they have been accused of having malware multiple times, stick to individual Adobe programs to be safe.)
+**3. [1337x](https://1337x.to/):** Video / Audio / [Avoid Software and Games](https://pastebin.com/Rc9MYMZ7).
 
-**4. [1337x](https://1337x.to/):** Video / Audio / [Avoid Software and Games](https://pastebin.com/Rc9MYMZ7).
+**4. [GloTorrents](https://glodls.to/):** Video / Audio
 
-**5. [GloTorrents](https://glodls.to/):** Video / Audio
+**5. [Limetorrents](https://www.limetorrents.lol/):** Video / Audio
 
-**6. [Limetorrents](https://www.limetorrents.lol/):** Video / Audio
+**6. [ExtraTorrent](https://extratorrent.st/):** Audio / Video / Books
 
-**7. [ExtraTorrent](https://extratorrent.st/):** Audio / Video / Books
-
-**8. [Torrentz2k](https://torrentz2k.xyz/):**  Video / Audio
+**7. [Torrentz2k](https://torrentz2k.xyz/):**  Video / Audio
 
 
 ## Agggregators
