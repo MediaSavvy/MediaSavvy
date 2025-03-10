@@ -31,7 +31,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [NetPlay](https://netplayz.ru/): 1080p & lower / Fast loading speeds / Multi Server / User-friendly design.
 
-- ⭐ [Watch2Day](https://watch2day.site/): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design
+- ⭐ Watch2Day: 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / [Currently unavailable; a new domain is being made](https://i.ibb.co/9mX4H5Bx/Screenshot-20250310-160516-Discord.png)
 
 
 - ⭐ [Catflix](https://catflix.su/): 1080p & Lower / Fast loading speeds / Multi Server / Awesome design.
