@@ -31,7 +31,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [NetPlay](https://netplayz.ru/): 1080p & lower / Fast loading speeds / Multi Server / User-friendly design.
 
-- ⭐ [Cinemull](https://cinemull.space/): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / [Currently unavailable; a new domain is being made](https://i.ibb.co/9mX4H5Bx/Screenshot-20250310-160516-Discord.png)
+- ⭐ [Cinemull](https://cinemull.space/): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design
 
 
 - ⭐ [Catflix](https://catflix.su/): 1080p & Lower / Fast loading speeds / Multi Server / Awesome design.
