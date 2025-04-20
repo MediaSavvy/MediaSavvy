@@ -42,11 +42,14 @@
 
 - ⭐ [LRepacks](https://lrepacks.net): Russian UI / Use a browser extension to translate the website to your language.
 
+- ⭐ [soft98](https://soft98.ir/)
+
 - ⭐ [store.rg](https://store.rg-adguard.net/): Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
+
+- [Nsane Forums](https://www.nsaneforums.com/): Sign-up required.
 
 - [Game Bounty Software](https://gamebounty.world/software/)
 
-- [download93](https://4mirrorlink.com/)
 
 
  - [Softlay](https://www.softlay.com/downloads/)
@@ -61,7 +64,6 @@
 
 - [AIOWares](https://www.aiowares.com/)
 
-- [soft98](https://soft98.ir/)
 
 - [Heidoc](https://www.heidoc.net/)
 
