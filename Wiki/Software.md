@@ -77,7 +77,7 @@
 
 - ⭐ PDALife: [Apps](https://pdalife.com/ios/programmy/) & [Games](https://pdalife.com/ios/games)
 
-- (iOSVizor)[https://iosvizor.com/]
+- [iOSVizor](https://iosvizor.com/)
 
 
 - [4PDA](https://4pda.to/forum/): Use a translator.
