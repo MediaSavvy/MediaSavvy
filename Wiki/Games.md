@@ -10,9 +10,10 @@
 
 - ⭐ [CS.RIN.RU](https://cs.rin.ru/): Forum / DDLs / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod)
 
-- ⭐ [Online-fix](https://online-fix.me/): DDLs and torrents available / Multiplayer games.
-
 - ⭐️[AnkerGames](https://ankergames.net/): Preinstalled games.
+
+- ⭐ [Online-fix](https://online-fix.me/): DDLs and torrents available / Multiplayer games / Sign-up required.
+
 
 - ⭐ [GamesDrive](https://gamesdrive.net/): DDLs.
 
@@ -20,7 +21,7 @@
 
 - ⭐ [SteamGG](https://steamgg.net/): DDLs / Pre-installed games.
 
-- [Ova Games](https://www.ovagames.com/): DDLs.
+- ⭐ [Ova Games](https://www.ovagames.com/): DDLs.
 
 - [Game Bounty](https://gamebounty.world/)
 
