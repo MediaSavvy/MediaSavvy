@@ -35,18 +35,14 @@
 
 ### Software for Windows
 
+- ⭐ [CRACKSurl](https://cracksurl.com/)
 
 - ⭐ [Mobilism](https://forum.mobilism.org/index.php)
-
-
-- ⭐ [MicroTech ](https://programs.themicrotech.net/)
 
 
 - ⭐ [LRepacks](https://lrepacks.net): Russian UI / Use a browser extension to translate the website to your language.
 
 - ⭐ [store.rg](https://store.rg-adguard.net/): Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
-
-- ⭐ [CRACKSurl](https://cracksurl.com/)
 
 - [Game Bounty Software](https://gamebounty.world/software/)
 
@@ -79,7 +75,8 @@
 
 - ⭐ PDALife: [Apps](https://pdalife.com/ios/programmy/) & [Games](https://pdalife.com/ios/games)
 
-- [CyPwn](https://ipa.cypwn.xyz/)
+- (iOSVizor)[https://iosvizor.com/]
+
 
 - [4PDA](https://4pda.to/forum/): Use a translator.
 
