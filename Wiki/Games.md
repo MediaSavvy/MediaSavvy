@@ -8,7 +8,7 @@
 
 - ⭐ [CS.RIN.RU](https://cs.rin.ru/): Forum / DDLs / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod)
 
-- ⭐️[AnkerGames](https://ankergames.net/): Preinstalled games / Downloads.
+- ⭐️ [AnkerGames](https://ankergames.net/): Preinstalled games / Downloads.
 
 - ⭐ [SteamRIP](https://steamrip.com/): Password: 1234 or steamrip.com / Pre installed games / Torrents.
 
