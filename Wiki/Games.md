@@ -145,7 +145,7 @@
 
 - ⭐ [CrocDB](https://crocdb.net/)
 
-- [EPIC ROMS](https://epicroms.net/)
+- [EPICROMS](https://epicroms.net/)
 
 - [CDRomance](https://cdromance.org/)
 
