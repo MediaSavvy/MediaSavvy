@@ -145,6 +145,8 @@
 
 - ⭐ [CrocDB](https://crocdb.net/)
 
+- [EPIC ROMS](https://epicroms.net/)
+
 - [CDRomance](https://cdromance.org/)
 
 - [ROM Collection](https://rentry.co/ROM-Collections)
