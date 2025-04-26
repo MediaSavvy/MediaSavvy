@@ -20,14 +20,16 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [MokMobi](https://mokmobi.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading / [Classic Site](https://mokmobi.site/)
 
-- ⭐ [Rive](https://rivestream.live): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Supports downloading in primary server only
+- ⭐ [Rive](https://rivestream.live): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Supports downloading
+
+- ⭐ [Mocine](https://mocine.cam/): 1080p & Lower / Fast loading speeds / Multi Server / Good design / Supports downloading
+
+- ⭐ [movie-web](https://erynith.github.io/movie-web-instances/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next / [Add more sources](https://pastebin.com/w8Brq2UA).
 
 - ⭐ [PrimeFlix](https://primeflix-web.vercel.app/): 4K, 1080p & lower / Fast loading speeds / Good Design / Multi Server.
 
 - ⭐ [watch.lonelil](https://watch.lonelil.com/): Has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
 
-
-- ⭐ [movie-web](https://erynith.github.io/movie-web-instances/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next / [Add more sources](https://pastebin.com/w8Brq2UA).
 
 - ⭐ [NetPlay](https://netplayz.ru/): 1080p & lower / Fast loading speeds / Multi Server / User-friendly design.
 
