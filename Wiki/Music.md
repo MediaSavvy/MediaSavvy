@@ -16,6 +16,8 @@
 
 ### Browser Downloaders:
 
+- ⭐[DAB Music Player](https://dab.yeet.su/): FLAC
+
 - ⭐ [squid.wtf](https://squid.wtf/): FLAC, Deezer.
 
 - ⭐ [yet another music server](https://yams.tf/): Spotify,Qobuz, Tidal, Deezer, FLAC.
