@@ -118,7 +118,7 @@
 
 - ⭐ [MangaPark](https://mangapark.net/)
 
-- ⭐ [MangaSee](https://mangasee123.com/)
+- ⭐ [WeebCentral](https://weebcentral.com/)
 
 ### Comics
 
