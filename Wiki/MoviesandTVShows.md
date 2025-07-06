@@ -119,7 +119,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [Pahe](https://pahe.ink/): Movies & TV & Anime / 4K & Lower / DDL
 
-- ⭐ [Vegas Movies](https://vegamovies.st/): Movies & TV / 4K & Lower / DDL
+- ⭐ [Vegas Movies](https://vegamovies.is/): Movies & TV / 4K & Lower / DDL
 
 - ⭐ [Movie Paradise](https://movieparadise.org/): Movies & TV / 1080p / [Code](https://rentry.org/he8fhzku) (Unlocks faster file host, 1fichier)
 
