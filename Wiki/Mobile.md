@@ -1,5 +1,8 @@
 # 📱 Mobile (Currently being updated...)
 
+## Useful for Android:
+- ⭐ [Awesome Android Root](https://awesome-android-root.org/): Step-by-step guide to root.
+  
 ## Android APKS:
 - ⭐ [App Manager](https://github.com/MuntashirAkon/AppManager/): Package manager with useful features.
 
