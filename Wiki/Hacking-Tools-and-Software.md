@@ -121,6 +121,11 @@
 
 ***
 
+### Reverse Engineering
+
+- [Crackme](https://crackmes.one/#close) - A place where you can improve your re skills.
+- [Learn C++](https://www.learncpp.com/) - A familiarity with C/C++ will greatly enhance your capabilities in this area.
+
 ### Hack Testing
  
 -  [Hack This Site!](https://www.hackthissite.org/) - a free, safe and legal training ground for hackers to test and expand their hacking skills
