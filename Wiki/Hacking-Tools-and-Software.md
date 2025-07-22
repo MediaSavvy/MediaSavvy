@@ -26,18 +26,6 @@
 
 ***
 
-### Other great resources related to hacking and penetration testing
-
-- [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A program that has multiple penetration testing tools and hacking tools.
-
-- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  A curated list of a bunch of hacking tools and guides.
-
-- [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can use ChatGPT with the temporary chat enabled to ask the same type of questions.
-
-- [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
-
-***
-
 ### Deobfuscators
 
 - [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
@@ -112,6 +100,7 @@
 ### Windows Tools
 
 - [WinPwnage](https://github.com/rootm0s/WinPwnage) - Bypass UAC in some computers.
+- [GrabAccess](https://github.com/Push3AX/GrabAccess) - Another great tool to Bypass UAC.
 
 ***
 
@@ -123,8 +112,12 @@
 
 ### Reverse Engineering
 
+- [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis. 
+- [GHidra](https://github.com/NationalSecurityAgency/ghidra) - Suite of full-featured, high-end software analysis tools that enable users to analyze compiled code.
+- [IDA Pro](https://hex-rays.com/ida-pro) - Delivers robust disassembly and decompilation, supporting diverse processors and file formats. 
 - [Crackme](https://crackmes.one/#close) - A place where you can improve your re skills.
-- [Learn C++](https://www.learncpp.com/) - A familiarity with C/C++ will greatly enhance your capabilities in this area.
+- [Learn C++](https://www.learncpp.com/) - A familiarity with this coding language will greatly enhance your capabilities in this area.
+- [DnSpy](https://dnspy.org/) - Dbugger and .NET assembly editor. 
 
 ### Hack Testing
  
@@ -149,3 +142,15 @@
 - [Portswigger](https://portswigger.net/web-security) - Free, online web security training.
 
 - [Attackdefense](https://attackdefense.com/) - Pentester academy.
+
+***
+
+### Other great resources related to hacking and penetration testing
+
+- [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A program that has multiple penetration testing tools and hacking tools.
+
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  A curated list of a bunch of hacking tools and guides.
+
+- [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can use ChatGPT with the temporary chat enabled to ask the same type of questions.
+
+- [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
