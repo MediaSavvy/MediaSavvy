@@ -112,11 +112,19 @@
 
 ### Reverse Engineering
 
-- [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis. 
+- [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
+  
 - [GHidra](https://github.com/NationalSecurityAgency/ghidra) - Suite of full-featured, high-end software analysis tools that enable users to analyze compiled code.
-- [IDA Pro](https://hex-rays.com/ida-pro) - Delivers robust disassembly and decompilation, supporting diverse processors and file formats. 
+  
+- [IDA Pro](https://hex-rays.com/ida-pro) - Delivers robust disassembly and decompilation, supporting diverse processors and file formats.
+  
 - [Crackme](https://crackmes.one/#close) - A place where you can improve your re skills.
-- [Learn C++](https://www.learncpp.com/) - A familiarity with this coding language will greatly enhance your capabilities in this area.
+  
+- [Learn C++](https://www.learncpp.com/) - A familiarity with this coding language will greatly enhance your capabilities in the area.
+
+- [Tuts4You](https://forum.tuts4you.com/)
+- [WebScene](https://webscene.ir/login) - Another forum focused both on Scene groups and reverse engineering. Has archived many releases from late groups such as TSRH.
+
 - [DnSpy](https://dnspy.org/) - Dbugger and .NET assembly editor. 
 
 ### Hack Testing
