@@ -115,7 +115,7 @@
 
 ### Reverse Engineering
 
-- [Awesome Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing?tab=readme-ov-file) - A curated list of awesome reverse engineering resources for various topics 
+- [Awesome Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing?tab=readme-ov-file) - A curated list of awesome reverse engineering resources like **IDA Pro**, **x64dbg**, **Ghidra** and **dnSpy**.
   
 - [Crackmes](https://crackmes.one/#close) - A place where you can improve your RE skills.
   
