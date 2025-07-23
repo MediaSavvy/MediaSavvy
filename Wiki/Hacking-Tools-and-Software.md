@@ -100,6 +100,7 @@
 ### Windows Tools
 
 - [WinPwnage](https://github.com/rootm0s/WinPwnage) - Bypass UAC in some computers.
+
 - [GrabAccess](https://github.com/Push3AX/GrabAccess) - Another great tool to Bypass UAC.
 
 ***
@@ -107,7 +108,9 @@
 ### Software
 
 - [Kali Linux](https://www.kali.org/) - Debian-derived Linux distribution designed for digital forensics and penetration testing.
-
+  
+- [Hiren BootCD](https://www.hirensbootcd.org/download/) - HBCD_PE_x64.iso image to clear or change admin password on Windows, can only work if the BIOS password hasn't been already set.
+  
 ***
 
 ### Reverse Engineering
@@ -120,7 +123,7 @@
 
 - [Tuts 4 You](https://forum.tuts4you.com/) - A forum that gives answers to unpacks and papers from Crackmes.one.
 
-- [WebScene](https://webscene.ir/login) - Another forum focused both on Scene groups and reverse engineering. Has archived many releases from late groups such as TSRH.
+- [WebScene](https://webscene.ir/login) - Another forum focused both on Scene groups and reverse engineering. Have archived many releases from late groups such as TSRH.
 
 ### Hack Testing
  
