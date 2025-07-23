@@ -119,7 +119,7 @@
   
 - [Crackmes](https://crackmes.one/#close) - A place where you can improve your RE skills.
   
-- [Learn C++](https://www.learncpp.com/) - A familiarity with this coding language will greatly enhance your capabilities in the area.
+- [Learn C++](https://www.learncpp.com/) - Familiarity with this coding language will greatly enhance your capabilities in the area.
 
 - [Tuts 4 You](https://forum.tuts4you.com/) - A forum that gives answers to unpacks and papers from Crackmes.one.
 
