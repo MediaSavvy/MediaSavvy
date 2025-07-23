@@ -40,6 +40,8 @@
 
 - [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software.
 
+- [StormBreaker](https://github.com/ultrasecurity/Storm-Breaker) - Access webcam & microphone & location with Py,JS,PHP.
+
 ***
 
 ### Network Hacking Tools 
