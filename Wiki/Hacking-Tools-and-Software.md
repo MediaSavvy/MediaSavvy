@@ -117,7 +117,7 @@
 
 - [Awesome Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing?tab=readme-ov-file) - A curated list of awesome reverse engineering resources for various topics 
   
-- [CrackME](https://crackmes.one/#close) - A place where you can improve your re skills.
+- [Crackmes](https://crackmes.one/#close) - A place where you can improve your RE skills.
   
 - [Learn C++](https://www.learncpp.com/) - A familiarity with this coding language will greatly enhance your capabilities in the area.
 
