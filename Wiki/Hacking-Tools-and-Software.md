@@ -97,6 +97,8 @@
 
 - [GrabAccess](https://github.com/Push3AX/GrabAccess) - Another great tool to Bypass UAC.
 
+- [Hiren BootCD](https://www.hirensbootcd.org/download/) - HBCD_PE_x64.iso image to clear or change admin password on Windows, can only work if the BIOS password hasn't been already set.
+
 ***
 
 ### Reverse Engineering
@@ -140,8 +142,6 @@
 ### Miscellaneous
 
 - [Kali Linux](https://www.kali.org/) - Debian-derived Linux distribution designed for digital forensics and penetration testing.
-  
-- [Hiren BootCD](https://www.hirensbootcd.org/download/) - HBCD_PE_x64.iso image to clear or change admin password on Windows, can only work if the BIOS password hasn't been already set.
   
 - [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A program that has multiple penetration testing tools and hacking tools.
 
