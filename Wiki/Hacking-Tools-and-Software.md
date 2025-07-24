@@ -150,7 +150,9 @@
 - [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software.
 
 - [StormBreaker](https://github.com/ultrasecurity/Storm-Breaker) - Access webcam & microphone & location with Py, JS, PHP.
-  
+
+- [Hound](https://github.com/techchipnet/hound) - A simple and light tool for information gathering and capture exact GPS coordinates.
+ 
 - [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can use ChatGPT with the temporary chat enabled to ask the same type of questions.
 
 - [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
