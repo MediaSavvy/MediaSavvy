@@ -36,14 +36,6 @@
 
 ***
 
-### Other
-
-- [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software.
-
-- [StormBreaker](https://github.com/ultrasecurity/Storm-Breaker) - Access webcam & microphone & location with Py, JS, PHP.
-
-***
-
 ### Network Hacking Tools 
 
 
@@ -107,14 +99,6 @@
 
 ***
 
-### Software
-
-- [Kali Linux](https://www.kali.org/) - Debian-derived Linux distribution designed for digital forensics and penetration testing.
-  
-- [Hiren BootCD](https://www.hirensbootcd.org/download/) - HBCD_PE_x64.iso image to clear or change admin password on Windows, can only work if the BIOS password hasn't been already set.
-  
-***
-
 ### Reverse Engineering
 
 - [Awesome Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing?tab=readme-ov-file) - A curated list of awesome reverse engineering resources like **IDA Pro**, **x64dbg**, **Ghidra** and **dnSpy**.
@@ -153,12 +137,20 @@
 
 ***
 
-### Other great resources related to hacking and penetration testing
+### Miscellaneous
 
+- [Kali Linux](https://www.kali.org/) - Debian-derived Linux distribution designed for digital forensics and penetration testing.
+  
+- [Hiren BootCD](https://www.hirensbootcd.org/download/) - HBCD_PE_x64.iso image to clear or change admin password on Windows, can only work if the BIOS password hasn't been already set.
+  
 - [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A program that has multiple penetration testing tools and hacking tools.
 
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  A curated list of a bunch of hacking tools and guides.
 
+- [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software.
+
+- [StormBreaker](https://github.com/ultrasecurity/Storm-Breaker) - Access webcam & microphone & location with Py, JS, PHP.
+  
 - [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can use ChatGPT with the temporary chat enabled to ask the same type of questions.
 
 - [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
