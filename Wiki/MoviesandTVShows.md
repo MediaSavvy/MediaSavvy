@@ -16,7 +16,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [456movies](https://456movie.com/): 4K, 1080p & Lower / Good design / Multi server
 
-- ⭐ [Freek](https://freek.to) (Previously Binged): 4K, 1080p & Lower / Multi Server / Fast loading speeds / Great design / Auto next 
+- ⭐ [MovieMaze](https://freek.to): 4K, 1080p & Lower / Multi Server / Fast loading speeds / Great design / Auto next 
 
 - ⭐ [MokMobi](https://mokmobi.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading / [Classic Site](https://mokmobi.site/)
 
