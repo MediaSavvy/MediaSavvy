@@ -26,19 +26,16 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [movie-web](https://erynith.github.io/movie-web-instances/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next / [Add more sources](https://pastebin.com/w8Brq2UA).
 
-- ⭐ [PrimeFlix](https://primeflix-web.vercel.app/): 4K, 1080p & lower / Fast loading speeds / Good Design / Multi Server.
 
-- ⭐ [watch.lonelil](https://watch.lonelil.com/): Has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
 
 
 - ⭐ [NetPlay](https://netplayz.ru/): 1080p & lower / Fast loading speeds / Multi Server / User-friendly design.
 
 
-- ⭐ [Catflix](https://catflix.su/): 1080p & Lower / Fast loading speeds / Multi Server / Awesome design.
 
 - [Nunflix](https://nunflix.org/): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Auto next
 
-- [PopcornMovies](https://popcornmovies.to/): Has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server
+
 
 - [7Xtream](https://movies.7xtream.com/): 1080p & Lower / Fast loading speeds / Multi server / Good Design / Auto next
 
