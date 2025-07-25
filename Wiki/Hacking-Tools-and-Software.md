@@ -111,7 +111,7 @@
 
 - [Tuts 4 You](https://forum.tuts4you.com/) - A forum that gives answers to unpacks and challenges from Crackmes.one.
 
-- [WebScene](https://webscene.ir/login) - Another forum focused both on Scene groups and reverse engineering. Have archived many releases from late groups such as TSRH.
+- [WebScene](https://webscene.ir/login) - Another forum focused both on Scene groups and reverse engineering, WebScene has archived many releases from late groups such as TSRH.
 
 ### Hack Testing
  
@@ -151,8 +151,8 @@
 
 - [StormBreaker](https://github.com/ultrasecurity/Storm-Breaker) - Access webcam & microphone & location with Py, JS, PHP.
 
-- [Hound](https://github.com/techchipnet/hound) - A simple and light tool for information gathering and capture exact GPS coordinates.
+- [Hound](https://github.com/techchipnet/hound) - A light tool for information gathering and capture exact GPS coordinates.
  
-- [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can use ChatGPT with the temporary chat enabled to ask the same type of questions.
+- [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can try ChatGPT with the temporary chat enabled to ask the same type of questions.
 
 - [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
