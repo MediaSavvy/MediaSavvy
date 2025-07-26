@@ -79,8 +79,6 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [Streamed](https://streamed.su): Sports
 
-- ⭐ [watch.lonelil](https://watch.lonelil.ru/tv): TV / Sport
-
 - ⭐ [TOTV](http://totv.org/channels): Sport / TV
 
 - ⭐ [RgShows](https://www.rgshows.me/livetv/): Sports / TV
