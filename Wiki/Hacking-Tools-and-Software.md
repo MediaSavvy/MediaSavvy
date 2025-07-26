@@ -151,7 +151,7 @@
 
 - [Hound](https://github.com/techchipnet/hound) - A light tool for information gathering and capture exact GPS coordinates.
 
-- [Emkei's Mailer](https://emkei.cz) - Email spoofing, still works if you change the SMPT Server to Sendgrid.
+- [Emkei's Mailer](https://emkei.cz) - Email spoofing, still works if you change the SMTP Server to Sendgrid.
   
 - [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can try ChatGPT with the temporary chat enabled to ask the same type of questions.
 
