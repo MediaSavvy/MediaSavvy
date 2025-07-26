@@ -1,5 +1,9 @@
 # 📱 Mobile (Currently being updated...)
 
+## Useful for Android:
+- ⭐ [Awesome Android Root](https://awesome-android-root.org/): Step-by-step guide to root.
+**Rooting can potentially brick your device and break bank applications. Make sure you understand the risks before trying out.**
+  
 ## Android APKS:
 - ⭐ [App Manager](https://github.com/MuntashirAkon/AppManager/): Package manager with useful features.
 
