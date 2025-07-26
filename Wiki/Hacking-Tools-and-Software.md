@@ -107,8 +107,6 @@
   
 - [Crackmes](https://crackmes.one/#close) - A place where you can improve your RE skills.
   
-- [Learn C++](https://www.learncpp.com/) - Familiarity with this coding language will greatly enhance your capabilities in the area.
-
 - [Tuts 4 You](https://forum.tuts4you.com/) - A forum that gives answers to unpacks and challenges from Crackmes.one.
 
 - [WebScene](https://webscene.ir/login) - Another forum focused both on Scene groups and reverse engineering, WebScene has archived many releases from late groups such as TSRH.
