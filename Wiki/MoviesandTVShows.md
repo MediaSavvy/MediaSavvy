@@ -79,15 +79,13 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [Streamed](https://streamed.su): Sports
 
-- ⭐ [TOTV](http://totv.org/channels): Sport / TV
-
 - ⭐ [RgShows](https://www.rgshows.me/livetv/): Sports / TV
 
 - ⭐ [WatchSport](https://watchsports.to/): Sports
 
 - [SportsPlus](https://en12.sportplus.live/): Sports
 
-- [SportsHub](https://sportshub.stream/): Sports
+- [ScoreCast](https://sportshub.stream/): Sports
 
 ### Cartoons
 
