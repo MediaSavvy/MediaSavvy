@@ -104,8 +104,6 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 ### Direct Downloading
 
-- ⭐ [Olamovies](https://olamovies.rent/): Movies & TV / 4K & 1080p / DDL
-
 - ⭐ [LightDLMovies](https://lightdl.xyz/): Movies & TV / 1080p & Lower / DDL / One click download
 
 - ⭐ [PSARips](https://psa.wf/): Movies & TV / 4K & Lower / DDL & Torrents
@@ -115,8 +113,6 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 - ⭐ [Vegas Movies](https://vegamovies.is/): Movies & TV / 4K & Lower / DDL
 
 - ⭐ [Movie Paradise](https://movieparadise.org/): Movies & TV / 1080p / [Code](https://rentry.org/he8fhzku) (Unlocks faster file host, 1fichier)
-
-- [OOMoye](https://www.oomoye.life/)
 
 - [RgShows](https://www.rgshows.me/)
 
