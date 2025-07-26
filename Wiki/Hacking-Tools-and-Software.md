@@ -139,7 +139,7 @@
 
 ### Miscellaneous
 
-- [Kali Linux](https://www.kali.org/) - Debian-derived Linux distribution designed for digital forensics and penetration testing.
+- [Censys](https://search.censys.io/) - Port mapping, service enumeration, operating system identification, geolocation, etc..
   
 - [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A program that has multiple penetration testing tools and hacking tools.
 
@@ -150,7 +150,9 @@
 - [StormBreaker](https://github.com/ultrasecurity/Storm-Breaker) - Access webcam & microphone & location with Py, JS, PHP.
 
 - [Hound](https://github.com/techchipnet/hound) - A light tool for information gathering and capture exact GPS coordinates.
- 
+
+- [Emkei's Mailer](https://emkei.cz) - Email spoofing, still works if you change the SMPT Server to Sendgrid.
+  
 - [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can try ChatGPT with the temporary chat enabled to ask the same type of questions.
 
 - [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
