@@ -26,18 +26,6 @@
 
 ***
 
-### Other great resources related to hacking and penetration testing
-
-- [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A program that has multiple penetration testing tools and hacking tools.
-
-- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  A curated list of a bunch of hacking tools and guides.
-
-- [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can use ChatGPT with the temporary chat enabled to ask the same type of questions.
-
-- [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
-
-***
-
 ### Deobfuscators
 
 - [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
@@ -45,12 +33,6 @@
 - [JS Beautifier](https://github.com/beautify-web/js-beautify)
 
 - [JS Nice](http://jsnice.org/) - a web service guessing JS variables names and types based on the model derived from open source.
-
-***
-
-### Other
-
-- [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software.
 
 ***
 
@@ -113,13 +95,21 @@
 
 - [WinPwnage](https://github.com/rootm0s/WinPwnage) - Bypass UAC in some computers.
 
-***
+- [GrabAccess](https://github.com/Push3AX/GrabAccess) - Another great tool to Bypass UAC.
 
-### Software
-
-- [Kali Linux](https://www.kali.org/) - Debian-derived Linux distribution designed for digital forensics and penetration testing.
+- [Hiren BootCD](https://www.hirensbootcd.org/download/) - HBCD_PE_x64.iso image to be used with Rufus, can clear or change admin password on Windows, can only work if the BIOS password hasn't been already set.
 
 ***
+
+### Reverse Engineering
+
+- [Awesome Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing?tab=readme-ov-file) - A curated list of awesome reverse engineering resources like **IDA Pro**, **x64dbg**, **Ghidra** and **dnSpy**.
+  
+- [Crackmes](https://crackmes.one/#close) - A place where you can improve your RE skills.
+  
+- [Tuts 4 You](https://forum.tuts4you.com/) - A forum that gives answers to unpacks and challenges from Crackmes.one.
+
+- [WebScene](https://webscene.ir/login) - Another forum focused both on Scene groups and reverse engineering, WebScene has archived many releases from late groups such as TSRH.
 
 ### Hack Testing
  
@@ -144,3 +134,25 @@
 - [Portswigger](https://portswigger.net/web-security) - Free, online web security training.
 
 - [Attackdefense](https://attackdefense.com/) - Pentester academy.
+
+***
+
+### Miscellaneous
+
+- [Censys](https://search.censys.io/) - Port mapping, service enumeration, operating system identification, geolocation, etc..
+  
+- [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A program that has multiple penetration testing tools and hacking tools.
+
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  A curated list of a bunch of hacking tools and guides.
+
+- [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software.
+
+- [StormBreaker](https://github.com/ultrasecurity/Storm-Breaker) - Access webcam & microphone & location with Py, JS, PHP.
+
+- [Hound](https://github.com/techchipnet/hound) - A light tool for information gathering and capture exact GPS coordinates.
+
+- [Emkei's Mailer](https://emkei.cz) - Email spoofing, still works if you change the SMTP Server to Sendgrid.
+  
+- [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can try ChatGPT with the temporary chat enabled to ask the same type of questions.
+
+- [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
