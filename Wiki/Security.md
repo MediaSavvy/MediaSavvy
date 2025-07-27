@@ -171,5 +171,5 @@ Use proper video players instead of the default Windows media player, I recommen
 
 Popular video file types will be avi, mp4, mkv. wmv, wma video / audio containers' specs allow for scripts, which windows media player can try to run.
 
-Not very common, but .scr files are "screensaver setter" files that are actually just executables. Avoid these.
+::: danger  Not very common, but .scr files are "screensaver setter" files that are actually just executables. Avoid these.
 :::
