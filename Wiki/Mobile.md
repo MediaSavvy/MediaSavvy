@@ -1,9 +1,5 @@
 # 📱 Mobile (Currently being updated...)
-
-## Useful for Android:
-- ⭐ [Awesome Android Root](https://awesome-android-root.org/): Step-by-step guide to root.
-**Rooting can potentially brick your device and break bank applications. Make sure you understand the risks before trying out.**
-  
+ 
 ## Android APKS:
 - ⭐ [App Manager](https://github.com/MuntashirAkon/AppManager/): Package manager with useful features.
 
@@ -33,8 +29,11 @@
 - [APKPure Official Appstore](https://apkpure.net/apkpure/com.apkpure.aegon/download/3.19.78?utm_content=1033&icn=aegon&ici=text_home-m&from=text_home-m): Untouched APKs.
 
 
-## Useful Apps and Tools:
+## Useful Tools for Android:
 
+- ⭐ [Awesome Android Root](https://awesome-android-root.org/): Step-by-step guide to root.
+**Rooting can potentially brick your device and break bank applications. Make sure you understand the risks before trying out.**
+  
 - ⭐ [Termux](https://termux.com/): Terminal Emulator.
 
 - ⭐ [AutoTagger](https://autotagger.ru/): Metadata Organiser.
