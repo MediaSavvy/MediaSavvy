@@ -42,7 +42,7 @@
 
 - ⭐ [NewPipe](https://newpipe.net/): Ad-free YouTube Frontend.
 
-- [Hypatia](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia): Fork of the original discontinued FOSS antivirus.
+- [Hypatia](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia): Fork of the original discontinued FOSS malware scanner.
   
 - [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium): Grammarly keyboard premium.
 
