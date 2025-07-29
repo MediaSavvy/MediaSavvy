@@ -141,7 +141,7 @@
 
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  Curated list of a bunch of hacking tools and guides.
 
-- [r/hacking wiki](https://www.reddit.com/r/hacking/wiki/index/) - A selection of links from reddit.
+- [r/hacking wiki](https://www.reddit.com/r/hacking/wiki/index/) - A selection of links organized by reddit.
   
 - [Censys](https://search.censys.io/) - Port mapping, service enumeration, operating system identification, geolocation, etc..
   
