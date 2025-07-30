@@ -97,7 +97,7 @@
 
 - [GrabAccess](https://github.com/Push3AX/GrabAccess) - Another great tool to Bypass UAC.
 
-- [Hiren BootCD](https://www.hirensbootcd.org/download/) - HBCD_PE_x64.iso image to be used with Rufus, can clear or change admin password on Windows, can only work if the BIOS password hasn't been already set.
+- [Hiren BootCD](https://www.hirensbootcd.org/download/) - HBCD_PE_x64.iso image to be used with Rufus, can clear or change admin password on Windows, only work if the BIOS password hasn't been already set.
 
 ***
 
@@ -139,11 +139,13 @@
 
 ### Miscellaneous
 
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  Curated list of a bunch of hacking tools and guides.
+
+- [r/hacking wiki](https://www.reddit.com/r/hacking/wiki/index/) - A selection of links organized by reddit.
+  
 - [Censys](https://search.censys.io/) - Port mapping, service enumeration, operating system identification, geolocation, etc..
   
 - [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A program that has multiple penetration testing tools and hacking tools.
-
-- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  A curated list of a bunch of hacking tools and guides.
 
 - [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software.
 
