@@ -97,7 +97,7 @@
 
 - [GrabAccess](https://github.com/Push3AX/GrabAccess) - Another great tool to Bypass UAC.
 
-- [Hiren BootCD](https://www.hirensbootcd.org/download/) - HBCD_PE_x64.iso image to be used with Rufus, can clear or change admin password on Windows, can only work if the BIOS password hasn't been already set.
+- [Hiren BootCD](https://www.hirensbootcd.org/download/) - HBCD_PE_x64.iso image to be used with Rufus, can clear or change admin password on Windows, only work if the BIOS password hasn't been already set.
 
 ***
 
