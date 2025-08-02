@@ -136,17 +136,7 @@ It is difficult to track down the source of an infection. Most infections are ac
 
 Be very careful what you download and install. Keep your software up-to-date. Using Ninite for installing/updating software is very easy & safe and uses official installers without adding extra software to your PC during installation. Make sure Windows is kept up-to-date as well, including Windows 10 feature updates. Many Windows updates patch exploits and vulnerabilities in your operating system. Most infections are active because the user has unknowingly given it Administrative permission to install and run. The first line of defense starts with you.
 
- 
-
-The following tools will aid you in keeping your computer clean:
-
- 
-
-**Free Anti-Virus Suggestions:**
-
-
-
-How to avoid malware:
+**How to avoid malware:**
 
 If you're going to download software/games, definitely avoid the [piratebay](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/). They have an immense amount of fake torrents and it's just not worth the risk of wading through their crap heap.
 
