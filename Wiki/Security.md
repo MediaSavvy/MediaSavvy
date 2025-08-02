@@ -98,7 +98,10 @@ HitmanPro is a phenomenal "second-opinion" malware scanner. I recommend clicking
 
 Please note: If malware has prohibited you from browsing the web or downloading files, you can try running the [NetAdapter Repair Tool](http://www.bleepingcomputer.com/download/netadapter-repair-all-in-one/) with all options checked which will attempt to restore your internet connection & default browser settings. You may have to download these tools on another computer and move them to a flash drive that you can plug into the infected machine.
 
-**Another Workaround on Windows:**
+**Other Workaround on Windows:**
+
+Download and start [System Informer](https://systeminformer.sourceforge.io/), if you notice that an application is using too much CPU power, do the full scan with MalwareBytes and RESTART (don't turn off) the machine.
+Then run [MRT](https://www.microsoft.com/en-us/download/details.aspx?id=16) and reboot by holding down shift. Start Windows in troubleshooting mode. If the problem reappears, you'll need to format or check if it's physical.
 
 **Think your Mac is infected?**
 
