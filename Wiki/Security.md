@@ -31,7 +31,7 @@ Antivirus software is usually bloatware. Stick to trusted sources for games and 
 
 How to remove malware from your computer:
 
- **Tip:** Windows 7 and below is no longer supported by Microsoft and **UNSAFE** to use. If you are still running Windows 7 with a **LEGIT** license, you can obtain a free upgrade to Windows 10 by using the [Windows 10 Upgrade Assistant](https://www.microsoft.com/en-us/software-download/windows10) from Microsoft. They have been very generous in continuing to allow users to upgrade from Windows 7 at no charge. Do this upgrade AFTER your system has been cleaned of malware. A system image backup is highly recommended before starting this process. This backup can be performed to an external hard drive with the [Backup & Restore tool](https://i.imgur.com/B0I3FgI.png) located in the Control Panel on Windows 7 and up.
+ **Tip:** Windows 7 and below is no longer supported by Microsoft and **UNSAFE** to use. If you are still running Windows 7 with a **LEGIT** license, you can obtain a free upgrade to Windows 10 by using the [Windows 10 Upgrade Assistant](https://www.microsoft.com/en-us/software-download/windows10) from Microsoft. They have been very generous in continuing to allow users to upgrade from Windows 7 at no charge. Do this upgrade AFTER your system has been cleaned of malware. A system image backup is highly recommended before starting this process. This backup can be performed to an external hard drive with the Backup & Restore tool located in the Control Panel on Windows 7 and up.
 
  
 
@@ -67,7 +67,7 @@ Download and run the following tools in this order. Run all tools unless otherwi
 
  
 
-2) Download an updated copy [Malwarebytes](https://www.malwarebytes.com/mwb-download/thankyou/). Turn on the [“Scan for Rootkits”](https://i.imgur.com/5lLJB3R.png) option. Then, run a [“Scan”](https://i.imgur.com/fDFSVy4.png)
+2) Download an updated copy [Malwarebytes](https://www.malwarebytes.com/mwb-download/thankyou/). Turn on the “Scan for Rootkits” option. Then, run a “Scan”.
 
     Successfully removes the vast majority of infections
 
@@ -91,8 +91,6 @@ Download and run the following tools in this order. Run all tools unless otherwi
 Optional, Advanced Step (only run if previous tools fail to solve problem):
 
 4) Run Sophos [HitmanPro](http://get.hitmanpro.com/)
-
-    [Here](https://i.imgur.com/oT7CjuN.png) is HitmanPro.
 
 HitmanPro is a phenomenal "second-opinion" malware scanner. I recommend clicking "Settings" and uncheck "Scan for tracking cookies" before starting the scan. This will drastically reduce scan times. This tool can only be run ONCE for free. Use it wisely.
 
@@ -162,10 +160,10 @@ SFX files may also be used to spread malware, as they are "self extracting execu
 
 Pay close attention to the file icon to make sure that it's recognized as a video file instead of anything else. If you have file extensions hidden, files such as `NotAVirus.mp4.exe` will simply show as `NotAVirus.mp4`, but they'll show the executable icon because Windows sees the real file extension. Make sure you [unhide file extensions](https://support.winzip.com/hc/en-us/articles/115011457948-How-to-configure-Windows-to-show-file-extensions-and-hidden-files).
 
-::: danger  Be on the lookout for RTL naming schemes that may make a filename of `filename.3pm.exe` be displayed as `filename.exe.mp3`: [Further Reading](https://resources.infosecinstitute.com/spoof-using-right-to-left-override-rtlo-technique-2/).
+::: danger  Be on the lookout for RTL naming schemes that may make a filename of `filename.3pm.exe` be displayed as `filename.exe.mp3`: [Further Reading](https://web.archive.org/web/20200302081101/https://resources.infosecinstitute.com/spoof-using-right-to-left-override-rtlo-technique-2/).
 :::
 
-Another attack vector includes Windows shortcuts, which will provide (as an example) a supposed videofile.avi video file but it's actually shortcut to a batch / powershell other type of script, and won't show as such even with file extensions shown. The file icon may also be one similar to that of a video player's, but if you pay close attention to it, you'll notice an arrow in the corner that indicates it's a `shortcut`. Also note the `file type` column in file explorer showing Shortcut: https://i.imgur.com/e0Cgeje.jpg. In the screenshot, the tiny filesize is a giveaway, but these attack vectors typically 0-byte pad the file to inflate the filesize, in an attempt to make it look more convincing. [Some reading on this]( https://blog.trendmicro.com/trendlabs-security-intelligence/rising-trend-attackers-using-lnk-files-download-malware/) [TrendMicro]. This type of download will never not be malware.
+Another attack vector includes Windows shortcuts, which will provide (as an example) a supposed videofile.avi video file but it's actually shortcut to a batch / powershell other type of script, and won't show as such even with file extensions shown. The file icon may also be one similar to that of a video player's, but if you pay close attention to it, you'll notice an arrow in the corner that indicates it's a `shortcut`. Also note the `file type` column in file explorer showing Shortcut: https://i.imgur.com/e0Cgeje.jpg. In the screenshot, the tiny filesize is a giveaway, but these attack vectors typically 0-byte pad the file to inflate the filesize, in an attempt to make it look more convincing. [Recommended reading on this topic](https://blog.trendmicro.com/trendlabs-security-intelligence/rising-trend-attackers-using-lnk-files-download-malware/). This type of download will never not be malware.
 
 Use proper video players instead of the default Windows media player, I recommend VLC.
 
