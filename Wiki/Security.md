@@ -77,7 +77,7 @@ Download and run the following tools in this order. Run all tools unless otherwi
 
  
 
-3) Run [Malwarebytes ADWCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) and then click the [“Scan Now”](https://i.imgur.com/hwFbaQZ.png0) button.
+3) Run [Malwarebytes ADWCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) and then click the “Scan Now” button.
 
     Removes majority of adware, PuPs, Toolbars, and Browser hijacks
 
@@ -96,7 +96,7 @@ HitmanPro is a phenomenal "second-opinion" malware scanner. I recommend clicking
 
  
 
-Please note: If malware has prohibited you from browsing the web or downloading files, you can try running the [NetAdapter Repair Tool](http://www.bleepingcomputer.com/download/netadapter-repair-all-in-one/) with all options checked which will attempt to restore your internet connection & default browser settings. You may have to download these tools on another computer and move them to a flash drive that you can plug into the infected machine.
+Please note: If malware has prohibited you from browsing the web or downloading files, you can try running the [Complete Interner Repair](https://rizonesoft.com/downloads/complete-internet-repair/) with all options checked which will attempt to restore your internet connection & default browser settings. You may have to download these tools on another computer and move them to a flash drive that you can plug into the infected machine.
 
 **Workaround on Windows:**
 
