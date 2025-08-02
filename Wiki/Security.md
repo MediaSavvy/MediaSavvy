@@ -96,9 +96,9 @@ HitmanPro is a phenomenal "second-opinion" malware scanner. I recommend clicking
 
  
 
-Please note: If malware has prohibited you from browsing the web or downloading files, you can try running the [NetAdapter Repair Tool](http://www.bleepingcomputer.com/download/netadapter-repair-all-in-one/) with all [options](http://i.imgur.com/XLv1ZUW.png) checked which will attempt to restore your internet connection & default browser settings. You may have to download these tools on another computer and move them to a flash drive that you can plug into the infected machine.
+Please note: If malware has prohibited you from browsing the web or downloading files, you can try running the [NetAdapter Repair Tool](http://www.bleepingcomputer.com/download/netadapter-repair-all-in-one/) with all options checked which will attempt to restore your internet connection & default browser settings. You may have to download these tools on another computer and move them to a flash drive that you can plug into the infected machine.
 
- 
+**Another Workaround on Windows:**
 
 **Think your Mac is infected?**
 
