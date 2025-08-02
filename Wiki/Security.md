@@ -98,7 +98,7 @@ HitmanPro is a phenomenal "second-opinion" malware scanner. I recommend clicking
 
 Please note: If malware has prohibited you from browsing the web or downloading files, you can try running the [NetAdapter Repair Tool](http://www.bleepingcomputer.com/download/netadapter-repair-all-in-one/) with all options checked which will attempt to restore your internet connection & default browser settings. You may have to download these tools on another computer and move them to a flash drive that you can plug into the infected machine.
 
-**Other Workaround on Windows:**
+**Workaround on Windows:**
 
 Download and start [System Informer](https://systeminformer.sourceforge.io/), if you notice that an application is using too much processing power, do the full scan with MalwareBytes and RESTART (don't turn off) the machine.
 Then run [MRT](https://www.microsoft.com/en-us/download/details.aspx?id=16) and reboot by holding down shift. Start Windows in troubleshooting mode. If the problem reappears, you'll need to format or check if it's physical.
@@ -125,7 +125,7 @@ Install a better anti-virus. See recommendations below.
 
 **What is malware?**
 
-[Malware](http://en.wikipedia.org/wiki/Malware) is an umbrella term used to refer to a variety of forms of hostile or intrusive software, including computer viruses, worms, trojan horses, ransomware, spyware, adware, scareware, and other malicious programs. It can take the form of executable code, scripts, active content, and other software. 
+[Malware](http://en.wikipedia.org/wiki/Malware) is an umbrella term used to refer to a variety of forms of hostile or intrusive software, including computer viruses, pups, worms, trojan horses, ransomware, spyware, adware, scareware, and other malicious programs. It can take the form of executable code, scripts, active content, and other software. 
 
  
 
@@ -156,7 +156,7 @@ Pay close attention to the file icon to make sure that it's recognized as a vide
 ::: danger  Be on the lookout for RTL naming schemes that may make a filename of `filename.3pm.exe` be displayed as `filename.exe.mp3`: [Further Reading](https://web.archive.org/web/20200302081101/https://resources.infosecinstitute.com/spoof-using-right-to-left-override-rtlo-technique-2/).
 :::
 
-Another attack vector includes Windows shortcuts, which will provide (as an example) a supposed videofile.avi video file but it's actually shortcut to a batch / powershell other type of script, and won't show as such even with file extensions shown. The file icon may also be one similar to that of a video player's, but if you pay close attention to it, you'll notice an arrow in the corner that indicates it's a `shortcut`. Also note the `file type` column in file explorer showing Shortcut: https://i.imgur.com/e0Cgeje.jpg. In the screenshot, the tiny filesize is a giveaway, but these attack vectors typically 0-byte pad the file to inflate the filesize, in an attempt to make it look more convincing. [Recommended reading on this topic](https://blog.trendmicro.com/trendlabs-security-intelligence/rising-trend-attackers-using-lnk-files-download-malware/). This type of download will never not be malware.
+Another attack vector includes Windows shortcuts, which will provide (as an example) a supposed videofile.avi video file but it's actually shortcut to a batch / powershell other type of script, and won't show as such even with file extensions shown. The file icon may also be one similar to that of a video player's, but if you pay close attention to it, you'll notice an arrow in the corner that indicates it's a `shortcut`. Also note the `file type` column in file explorer showing shortcut, the tiny filesize is a giveaway, but these attack vectors typically 0-byte pad the file to inflate the filesize, in an attempt to make it look more convincing. [Recommended reading on this topic](https://blog.trendmicro.com/trendlabs-security-intelligence/rising-trend-attackers-using-lnk-files-download-malware/). This type of download will never not be malware.
 
 Use proper video players instead of the default Windows media player, I recommend VLC.
 
