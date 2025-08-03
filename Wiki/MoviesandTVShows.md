@@ -174,9 +174,19 @@ Supports downloading / Ok design / 1080p & lower
 
 - ⭐ [Streamer](https://github.com/StreamerApp/Streamer)
 
-***
+## IPTV
 
-### Media Centers:
+- [IPTV Simple Client for Kodi](https://kodi.tv/addons/omega/pvr.iptvsimple/)
+
+- [M3U IPTV](https://m3u-ip.tv/browser)
+
+- [IPTVnator](https://github.com/4gray/iptvnator)
+
+- [Open TV](https://github.com/fredolx/open-tv)
+
+- [Best Player](https://best-player.eu/)
+
+## Media Centers:
 
 - [Plex](https://www.plex.tv/):  Self-hosted Netflix. Provide your own content and serve them in a Netflix-like interface.
 
