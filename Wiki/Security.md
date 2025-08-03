@@ -31,7 +31,7 @@ Antivirus software is usually bloatware. Stick to trusted sources for games and 
 
 How to remove malware from your computer:
 
- **Tip:** Windows 7 and below is no longer supported by Microsoft and **UNSAFE** to use. If you are still running Windows 7 with a **LEGIT** license, you can obtain a free upgrade to Windows 10 by using the [Windows 10 Upgrade Assistant](https://www.microsoft.com/en-us/software-download/windows10) from Microsoft. They have been very generous in continuing to allow users to upgrade from Windows 7 at no charge. Do this upgrade AFTER your system has been cleaned of malware. A system image backup is highly recommended before starting this process. This backup can be performed to an external hard drive with the [Backup & Restore tool](https://i.imgur.com/B0I3FgI.png) located in the Control Panel on Windows 7 and up.
+ **Tip:** Windows 10 and below is no longer supported by Microsoft and **UNSAFE** to use. If you are still running Windows 10 with a **LEGIT** license, you can obtain a free upgrade to Windows 11 by using the [Windows 11 Upgrade Assistant](https://support.microsoft.com/en-us/topic/windows-update-assistant-3550dfb2-a015-7765-12ea-fba2ac36fb3f) from Microsoft. They have been very generous in continuing to allow users to upgrade from Windows 10 at no charge. Do this upgrade AFTER your system has been cleaned of malware. A system image backup is highly recommended before starting this process. This backup can be performed to an external hard drive with the Backup & Restore tool located in the Control Panel on Windows 10 and below.
 
  
 
@@ -67,7 +67,7 @@ Download and run the following tools in this order. Run all tools unless otherwi
 
  
 
-2) Download an updated copy [Malwarebytes](https://www.malwarebytes.com/mwb-download/thankyou/). Turn on the [“Scan for Rootkits”](https://i.imgur.com/5lLJB3R.png) option. Then, run a [“Scan”](https://i.imgur.com/fDFSVy4.png)
+2) Download an updated copy [Malwarebytes](https://www.malwarebytes.com/mwb-download/thankyou/). Turn on the “Scan for Rootkits” option. Then, run a “Scan”.
 
     Successfully removes the vast majority of infections
 
@@ -77,7 +77,7 @@ Download and run the following tools in this order. Run all tools unless otherwi
 
  
 
-3) Run [Malwarebytes ADWCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) and then click the [“Scan Now”](https://i.imgur.com/hwFbaQZ.png0) button.
+3) Run [Malwarebytes ADWCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) and then click the “Scan Now” button.
 
     Removes majority of adware, PuPs, Toolbars, and Browser hijacks
 
@@ -92,15 +92,16 @@ Optional, Advanced Step (only run if previous tools fail to solve problem):
 
 4) Run Sophos [HitmanPro](http://get.hitmanpro.com/)
 
-    [Here](https://i.imgur.com/oT7CjuN.png) is HitmanPro.
-
 HitmanPro is a phenomenal "second-opinion" malware scanner. I recommend clicking "Settings" and uncheck "Scan for tracking cookies" before starting the scan. This will drastically reduce scan times. This tool can only be run ONCE for free. Use it wisely.
 
  
 
-Please note: If malware has prohibited you from browsing the web or downloading files, you can try running the [NetAdapter Repair Tool](http://www.bleepingcomputer.com/download/netadapter-repair-all-in-one/) with all [options](http://i.imgur.com/XLv1ZUW.png) checked which will attempt to restore your internet connection & default browser settings. You may have to download these tools on another computer and move them to a flash drive that you can plug into the infected machine.
+Please note: If malware has prohibited you from browsing the web or downloading files, you can try running the [Complete Interner Repair](https://rizonesoft.com/downloads/complete-internet-repair/) or [NetAdapter Repair All-In-One](https://www.bleepingcomputer.com/download/netadapter-repair-all-in-one/) with all options checked which will attempt to restore your internet connection & default browser settings. You may have to download these tools on another computer and move them to a flash drive that you can plug into the infected machine.
 
- 
+**Workaround on Windows:**
+
+Download and start [System Informer](https://systeminformer.sourceforge.io/), if you notice that an application is using too much processing power, do the full scan with MalwareBytes and RESTART (don't turn off) the machine.
+Then run [MRT](https://www.microsoft.com/en-us/download/details.aspx?id=16) and reboot by holding down shift. Start Windows in troubleshooting mode. If the problem reappears, you'll need to clean install or check if it is a hardware problem.
 
 **Think your Mac is infected?**
 
@@ -110,7 +111,8 @@ Try [Malwarebytes Anti-Malware for Mac](https://www.malwarebytes.com/mac/). Plea
 
 If you have run all of the above tools successfully, you should be malware-free. If you are still experiencing problems, please make a post on Reddit in r/techsupport on for further assistance.
 
- 
+:::tip [Here are some good on demand scanners for files over 650 mb](https://www.reddit.com/r/antivirus/comments/jh3s0g/virus_deleted_or_not/g9v2n1k/)
+:::
 
 **Follow-up Steps (highly recommended):**
 
@@ -124,7 +126,7 @@ Install a better anti-virus. See recommendations below.
 
 **What is malware?**
 
-[Malware](http://en.wikipedia.org/wiki/Malware) is an umbrella term used to refer to a variety of forms of hostile or intrusive software, including computer viruses, worms, trojan horses, ransomware, spyware, adware, scareware, and other malicious programs. It can take the form of executable code, scripts, active content, and other software. 
+[Malware](http://en.wikipedia.org/wiki/Malware) is an umbrella term used to refer to a variety of forms of hostile or intrusive software, including computer viruses, pups, worms, trojan horses, ransomware, spyware, adware, scareware, and other malicious programs. It can take the form of executable code, scripts, active content, and other software. 
 
  
 
@@ -138,17 +140,7 @@ It is difficult to track down the source of an infection. Most infections are ac
 
 Be very careful what you download and install. Keep your software up-to-date. Using Ninite for installing/updating software is very easy & safe and uses official installers without adding extra software to your PC during installation. Make sure Windows is kept up-to-date as well, including Windows 10 feature updates. Many Windows updates patch exploits and vulnerabilities in your operating system. Most infections are active because the user has unknowingly given it Administrative permission to install and run. The first line of defense starts with you.
 
- 
-
-The following tools will aid you in keeping your computer clean:
-
- 
-
-**Free Anti-Virus Suggestions:**
-
-
-
-How to avoid malware:
+**How to avoid malware:**
 
 If you're going to download software/games, definitely avoid the [piratebay](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/). They have an immense amount of fake torrents and it's just not worth the risk of wading through their crap heap.
 
@@ -162,10 +154,10 @@ SFX files may also be used to spread malware, as they are "self extracting execu
 
 Pay close attention to the file icon to make sure that it's recognized as a video file instead of anything else. If you have file extensions hidden, files such as `NotAVirus.mp4.exe` will simply show as `NotAVirus.mp4`, but they'll show the executable icon because Windows sees the real file extension. Make sure you [unhide file extensions](https://support.winzip.com/hc/en-us/articles/115011457948-How-to-configure-Windows-to-show-file-extensions-and-hidden-files).
 
-::: danger  Be on the lookout for RTL naming schemes that may make a filename of `filename.3pm.exe` be displayed as `filename.exe.mp3`: [Further Reading](https://resources.infosecinstitute.com/spoof-using-right-to-left-override-rtlo-technique-2/).
+::: danger  Be on the lookout for RTL naming schemes that may make a filename of `filename.3pm.exe` be displayed as `filename.exe.mp3`: [Further Reading](https://web.archive.org/web/20200302081101/https://resources.infosecinstitute.com/spoof-using-right-to-left-override-rtlo-technique-2/).
 :::
 
-Another attack vector includes Windows shortcuts, which will provide (as an example) a supposed videofile.avi video file but it's actually shortcut to a batch / powershell other type of script, and won't show as such even with file extensions shown. The file icon may also be one similar to that of a video player's, but if you pay close attention to it, you'll notice an arrow in the corner that indicates it's a `shortcut`. Also note the `file type` column in file explorer showing Shortcut: https://i.imgur.com/e0Cgeje.jpg. In the screenshot, the tiny filesize is a giveaway, but these attack vectors typically 0-byte pad the file to inflate the filesize, in an attempt to make it look more convincing. [Some reading on this]( https://blog.trendmicro.com/trendlabs-security-intelligence/rising-trend-attackers-using-lnk-files-download-malware/) [TrendMicro]. This type of download will never not be malware.
+Another attack vector includes Windows shortcuts, which will provide (as an example) a supposed videofile.avi video file but it's actually shortcut to a batch / powershell other type of script, and won't show as such even with file extensions shown. The file icon may also be one similar to that of a video player's, but if you pay close attention to it, you'll notice an arrow in the corner that indicates it's a `shortcut`. Also note the `file type` column in file explorer showing shortcut, the tiny filesize is a giveaway, but these attack vectors typically 0-byte pad the file to inflate the filesize, in an attempt to make it look more convincing. [Recommended reading on this topic](https://blog.trendmicro.com/trendlabs-security-intelligence/rising-trend-attackers-using-lnk-files-download-malware/). This type of download will never not be malware.
 
 Use proper video players instead of the default Windows media player, I recommend VLC.
 
