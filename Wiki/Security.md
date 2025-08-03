@@ -111,7 +111,7 @@ Try [Malwarebytes Anti-Malware for Mac](https://www.malwarebytes.com/mac/). Plea
 
 If you have run all of the above tools successfully, you should be malware-free. If you are still experiencing problems, please make a post on Reddit in r/techsupport on for further assistance.
 
-:::tip [Here are some good on demand scanners for files over 650 mb](https://old.reddit.com/r/Piracy/wiki/faq)
+:::tip [Here are some good on demand scanners for files over 650 mb](https://www.reddit.com/r/antivirus/comments/jh3s0g/virus_deleted_or_not/g9v2n1k/)
 :::
 
 **Follow-up Steps (highly recommended):**
