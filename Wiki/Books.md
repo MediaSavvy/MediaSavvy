@@ -108,9 +108,9 @@
 - [IDoc](https://idoc.pub/): Documents.
 
 
-## Visual 
+## Visual:
 
-### Manga
+### Manga:
 
 - ⭐ [MangaDex](https://mangadex.org/): [Downloader](https://mangadex-dl.mansuf.link/)
 
@@ -120,7 +120,7 @@
 
 - ⭐ [WeebCentral](https://weebcentral.com/)
 
-### Comics
+### Comics:
 
 - ⭐ [ReadComicOnline](https://readcomiconline.li/)
 
@@ -128,7 +128,7 @@
 
 - ⭐ [ComixExtra](https://comixextra.com/)
 
-### Newspapers
+### Newspapers:
 
 - ⭐ [Google Newspaper Search](https://news.google.com/newspapers)
 
@@ -136,7 +136,7 @@
 
 - [Sanet](https://sanet.st/newspapers/)
 
-### Magazines
+### Magazines:
 
 - ⭐ [Mobilism Magazines](https://forum.mobilism.org/viewforum.php?f=123)
 
@@ -146,7 +146,7 @@
 
 - [Sanet](https://sanet.st/magazines/)
 
-## Tools
+## Tools:
 
 - ⭐ [ChatPDF](https://www.chatpdf.com/): Turn books into chatbots.
 
