@@ -1,8 +1,8 @@
 # 🧩 Adblocking / Extensions / Bypassers
 
-## Adblocking
+## Adblocking:
 
-### Android Adblocking
+### Android Adblocking:
 
 - ⭐ [AdGuard Premium](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=adguard&sf=titleonly): System-wide adblocker.
 
@@ -21,7 +21,7 @@
 
 - [Cromite](https://github.com/uazo/cromite): A browser with adblocking filters.
 
-### iOS Adblocking
+### iOS Adblocking:
 
 - ↪️ [System-wide adblocking guide](https://rentry.co/system-wide-adblocking-for-ios): A guide made by MediaSavvy that explains how you can block most ads system-wide on iOS & iPadOS.
 
@@ -31,7 +31,7 @@
 
 - [Adguard](https://apps.apple.com/us/app/adguard-adblock-privacy/id1047223162): Adblocking extension for Safari / [Adguard Pro](https://forum.mobilism.org/search.php?keywords=adguard+pro&sr=topics&sf=titleonly)
 
-### Browser Adblocking
+### Browser Adblocking:
 
 :::warning Note:
 Only install one adblocker, using multiple adblockers can reduce their effectiveness and trigger anti-adblock. Using extensions like Sponsorblock is still fine.
@@ -54,7 +54,7 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - [Adguard](https://adguard.com/en/adguard-browser-extension/overview.html)
 
-## Adblocking Filter Lists
+## Adblocking Filter Lists:
 
 - ⭐ [Legitimate URL Shortner](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
  
@@ -62,7 +62,7 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - [FilterLists](https://filterlists.com/): A database with a huge list of filter lists (some good, some bad).
 
-## Test your adblockers
+## Test your adblockers:
 
 - ⭐ [CanYouBlockIt](https://canyoublockit.com/): Manual adblock tester.
 
@@ -70,9 +70,9 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - [ADBlockTester](https://adblock-tester.com/): Automatic adblock tester.
 
-## Bypassers
+## Bypassers:
 
-### Redirect Bypassers
+### Redirect Bypassers:
 
 - ⭐ [Bypass All Short Links](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)
 
@@ -82,7 +82,7 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - [UploadHeaven Bypass](https://greasyfork.org/en/scripts/442019-uploadheaven)
 
-### Article Paywall Bypassers
+### Article Paywall Bypassers:
 
 - ↪️ [Bypass Paywall Guide](https://rentry.co/bypass-article-paywalls-guide): A guide by MediaSavvy which explains how you can bypass basically all paywalled articles without using 3rd party tools.
 
@@ -94,9 +94,9 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - ⭐ [Wallabag](https://wallabag.org/): Save articles and read them later offline.
 
-## Extensions
+## Extensions:
 
-### Extensions: Firefox and Chromium compatible
+### Extensions: Firefox and Chromium compatible:
 
 - ⭐ [Violentmonkey](https://violentmonkey.github.io/): Run userscripts
 
@@ -128,7 +128,7 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - [Allow right click](https://add0n.com/allow-right-click.html): Force allow right clicking on websites that don't allow it.
 
-### Firefox Exclusive
+### Firefox Exclusive:
 
 - ⭐ [Mozilla Addons](https://addons.mozilla.org/en-US/firefox/extensions/): Firefox addons.
 
@@ -140,7 +140,7 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - [Firefox Color](https://color.firefox.com/): Make custom themes for Firefox.
 
-### Chromium Exclusive
+### Chromium Exclusive:
 
 - ⭐ [Foxified](https://foxified.org/): Use Firefox extensions in Chrome.
 
