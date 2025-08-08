@@ -42,6 +42,8 @@
 
 - ⭐ [NewPipe](https://newpipe.net/): Ad-free YouTube Frontend.
 
+- [Virtual Android](https://play.google.com/store/apps/details?id=com.clone.android.dual.space) / [Virtual Master](https://www.virtualmaster.app/): Android Virtual Machine.
+  
 - [Hypatia](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia): Fork of the original discontinued FOSS malware scanner.
   
 - [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium): Grammarly keyboard premium.
@@ -49,8 +51,6 @@
 - [Smart Autoclicker](https://github.com/Nain57/Smart-AutoClicker): Auto clicker.
 
 - [android-call-recorder](https://gitlab.com/axet/android-call-recorder): Call Recorder.
-
-- [VMOS](https://www.vmos.com/): Android Virtual Machine.
 
 - [FixMySpeakers](https://fixmyspeakers.com/): Eject water from speakers.
 
