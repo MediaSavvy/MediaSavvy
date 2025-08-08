@@ -1,8 +1,8 @@
 # 🤖 Artificial Intelligence
 
-## AI Chatbots
+## AI Chatbots:
 
-### Chatbots
+### Chatbots:
 
 - ⭐ [DeepSeek](https://www.deepseek.com/): DeepSeek V3 and R1 / Unlimited / Self-hostable.
 
@@ -43,7 +43,7 @@
 
 -  [Wrtn](https://wrtn.ai/): Free GPT 4o chatbot and search / Ask for English
 
-### Roleplaying & AI Companions
+### Roleplaying & AI Companions:
 
 - ⭐ [FlowGPT](https://flowgpt.com/chat): Roleplaying chatbots.
 
@@ -136,10 +136,3 @@
 - ⭐ [Bark](https://huggingface.co/spaces/suno/bark)
 
 - ⭐ [WhisperSpeech](https://huggingface.co/spaces/collabora/WhisperSpeech)
-
-
-
-## Multifunctional:
-
-- [Jibyte](https://www.jibyte.com/)
-
