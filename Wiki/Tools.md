@@ -127,7 +127,7 @@ You need to install [Violentmonkey](https://violentmonkey.github.io/) to be able
 
 **2. ⭐ [Cloudflare Speed Test](https://speed.cloudflare.com/):** Speed Test.
 
-### Link Shorteners
+### Link Shorteners:
 
 **1. ⭐ [t.ly](https://t.ly/)**
 

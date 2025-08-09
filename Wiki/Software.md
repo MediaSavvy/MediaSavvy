@@ -4,7 +4,7 @@
 ***
 
 
-### Software for Android:
+## Software for Android
 
 - ⭐ [Mobilism](https://forum.mobilism.org/viewforum.php?f=398): Books / Games / Apps / [App](https://forum.mobilism.org/app/)
 
@@ -26,14 +26,14 @@
 
 - [LiteAPKS](https://liteapks.com): [Note](https://pastebin.com/3ebTvx0b) / [App](https://liteapks.com/app.html)
 
-- [4PDA](https://4pda.to/forum/): Use a translator.
+- [4PDA](https://4pda.to/forum/): The captcha answer is an ordinal number in russian, use a translator.
 
 
 
 
 ***
 
-### Software for Windows
+## Software for Windows
 
 - ⭐ [CRACKSurl](https://cracksurl.com/)
 
@@ -71,7 +71,7 @@
 
 ***
 
-### Software for iOS and iPadOS
+## Software for iOS and iPadOS
 
 - ⭐ [CodeVN](https://ios.codevn.net/) or [IPALibrary](https://www.ipalibrary.me)
 
@@ -91,7 +91,7 @@
 
 ***
 
-### Software for Mac:
+## Software for Mac
 
 - ⭐ [Cmacked](https://cmacked.com/)
 

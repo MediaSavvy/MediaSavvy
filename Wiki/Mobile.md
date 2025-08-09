@@ -1,6 +1,6 @@
 # 📱 Mobile (Currently being updated...)
  
-## Android APKS:
+## Android APKS
 - ⭐ [App Manager](https://github.com/MuntashirAkon/AppManager/): Package manager with useful features.
 
 - [APKTool](https://github.com/iBotPeaches/Apktool): APK reverse engenering tool.
@@ -10,14 +10,14 @@
 - [APKAdmin](https://apkadmin.com/): APK hosting site
 
 
-## Untouched APKs:
+## Untouched APKs
 
 - ⭐ [APKMirror](https://www.apkmirror.com/)
 
 - [UpToDown](https://en.uptodown.com/android)
 
 
-## App Stores For Android:
+## App Stores For Android
 
 
 - [Aurora Store](https://auroraoss.com/): Google Play Store alternative.
@@ -29,7 +29,7 @@
 - [APKPure Official Appstore](https://apkpure.net/apkpure/com.apkpure.aegon/download/3.19.78?utm_content=1033&icn=aegon&ici=text_home-m&from=text_home-m): Untouched APKs.
 
 
-## Useful Tools & Guides for Android:
+## Useful Tools & Guides for Android
 
 - ⭐ [Awesome Android Root](https://awesome-android-root.org/): Step-by-step guide to root.
 **Rooting can potentially brick your device and break bank applications. Make sure you understand the risks before trying out.**
@@ -42,6 +42,8 @@
 
 - ⭐ [NewPipe](https://newpipe.net/): Ad-free YouTube Frontend.
 
+- [Virtual Android](https://play.google.com/store/apps/details?id=com.clone.android.dual.space) / [Virtual Master](https://www.virtualmaster.app/): Android Virtual Machine.
+  
 - [Hypatia](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia): Fork of the original discontinued FOSS malware scanner.
   
 - [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium): Grammarly keyboard premium.
@@ -50,13 +52,11 @@
 
 - [android-call-recorder](https://gitlab.com/axet/android-call-recorder): Call Recorder.
 
-- [VMOS](https://www.vmos.com/): Android Virtual Machine.
-
 - [FixMySpeakers](https://fixmyspeakers.com/): Eject water from speakers.
 
 
 
-## Android Privacy:
+## Android Privacy
 
 - ⭐ [TrackerControl](https://trackercontrol.org/): App Permission Manager.
 
@@ -79,7 +79,7 @@
 
 
 
-## Android Torrenting:
+## Android Torrenting
 
 :::warning Note:
 Make sure to get a VPN before torrenting
@@ -100,7 +100,7 @@ Make sure to get a VPN before torrenting
 ### [Music Streaming for Android](https://mediasavvy.pages.dev/Wiki/Music.html#best-music-streaming-app-for-android)
 
 
-## iOS Tools and Apps:
+## iOS Tools and Apps
 
 - ⭐ [Hyperweb](https://apps.apple.com/us/app/hyperweb/id1581824571): iOS Safari Improvement + Adblock Extension.
 
@@ -115,7 +115,7 @@ Make sure to get a VPN before torrenting
 - [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059): Scan & Digitize Documents
 
 
-## iOS Privacy:
+## iOS Privacy
 
 - ⭐ [Onion Browser](https://onionbrowser.com/): Tor Browser for iOS
 
@@ -125,9 +125,7 @@ Make sure to get a VPN before torrenting
 
 - [Proton Mail](https://apps.apple.com/us/app/protonmail-encrypted-email/id979659905): Encrypted Emailing Service
 
-***
-
-### iOS Torrenting Clients:
+## iOS Torrenting Clients
 
 :::warning Note:
 Make sure you use a VPN!

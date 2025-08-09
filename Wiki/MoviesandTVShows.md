@@ -53,7 +53,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - [YoYo Movies](https://yoyomovies.net/): 1080p & lower / Fast loading speeds / Multi Server / Some sources allow you to download movies / User-friendly design.
 
-### TV Shows
+### TV Shows:
 
 - ⭐ [CouchTuner](https://www.couchtuner.show/)
 
@@ -61,7 +61,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - [NOXX](https://noxx.to/)
 
-### Anime
+### Anime:
 
 - ⭐ [Miruro](https://www.miruro.tv/)
 
@@ -75,7 +75,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 
 
-### Live TV / Sport
+### Live TV / Sport:
 
 - ⭐ [Streamed](https://streamed.su): Sports
 
@@ -87,7 +87,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - [ScoreCast](https://sportshub.stream/): Sports
 
-### Cartoons
+### Cartoons:
 
 - ⭐ [WCO](https://www.wco.tv/)
 
@@ -102,7 +102,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 ## Downloading
 
-### Direct Downloading
+### Direct Downloading:
 
 - ⭐ [LightDLMovies](https://lightdl.xyz/): Movies & TV / 1080p & Lower / DDL / One click download
 
@@ -116,7 +116,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - [RgShows](https://www.rgshows.me/)
 
-### Torrent Downloading
+### Torrent Downloading:
 
 :::warning Note:
 Make sure to use a VPN!
@@ -138,7 +138,9 @@ Make sure to use a VPN!
 
 ***
 
-### Android Streaming
+## Mobile Streming
+
+### Android Streaming:
 
 - ⭐ [Stremio](https://stremio.com): Supports downloading / 4K and lower / [Guide](https://guides.viren070.me/stremio)
 
@@ -166,9 +168,7 @@ Supports downloading / Good design / 1080p & lower
 
 Supports downloading / Ok design / 1080p & lower
 
-***
-
-### iOS & iPadOS streaming
+### iOS & iPadOS streaming:
 :::danger There's not many good movie apps for iOS / iPadOS so I recommend you just use a website listed above with an [adblocker](https://mediasavvy.pages.dev/Wiki/Adblocking/#adblocking-for-ios--ipados-system-wide). If you want an app anyways, there is a good one listed below.
 :::
 
@@ -186,7 +186,7 @@ Supports downloading / Ok design / 1080p & lower
 
 - [Best Player](https://best-player.eu/)
 
-## Media Centers:
+## Media Centers
 
 - [Plex](https://www.plex.tv/):  Self-hosted Netflix. Provide your own content and serve them in a Netflix-like interface.
 
@@ -196,7 +196,7 @@ Supports downloading / Ok design / 1080p & lower
 
 - [Stremio](https://stremio.com): [Guide](https://rentry.co/a-guide-to-stremio)
 
-## Subtitles:
+## Subtitles
 
 - ⭐ [Open Subtitles](https://opensubtitles.org/)
  

@@ -1,7 +1,7 @@
 # 🪟 Windows (Update in progress...)
 ### Windows tools, guides and more.
 
-### Windows Activation:
+## Windows Activation
 
 **1. ⭐ [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/)**
 
@@ -9,7 +9,7 @@
 
 ***
 
-### Windows ISOs:
+## Windows ISOs
 
 **1. ⭐ [MAS ISO Index](https://massgrave.dev/genuine-installation-media.html)**
 
@@ -19,7 +19,7 @@
 
 ***
 
-### Windows Tools and Utilities:
+## Windows Tools and Utilities
 
 **1. ⭐ [VirtualBox](https://www.virtualbox.org/) or [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview):** Virtual Machines.
 
@@ -49,7 +49,7 @@
 
 ***
 
-## System tweaks and customization:
+## System tweaks and customization
 
 **1. [Everything Toolbar](https://github.com/srwi/EverythingToolbar):** Improved Taskbar
 

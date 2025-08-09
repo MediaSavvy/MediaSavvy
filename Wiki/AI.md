@@ -2,7 +2,7 @@
 
 ## AI Chatbots
 
-### Chatbots
+### Chatbots:
 
 - ⭐ [DeepSeek](https://www.deepseek.com/): DeepSeek V3 and R1 / Unlimited / Self-hostable.
 
@@ -43,7 +43,7 @@
 
 -  [Wrtn](https://wrtn.ai/): Free GPT 4o chatbot and search / Ask for English
 
-### Roleplaying & AI Companions
+### Roleplaying & AI Companions:
 
 - ⭐ [FlowGPT](https://flowgpt.com/chat): Roleplaying chatbots.
 
@@ -56,7 +56,7 @@
 - [Chub](https://www.chub.ai/): Roleplaying / NSFW.
 
 
-## Learning:
+## Learning
 
 
 - ⭐ [Teach Anything](https://www.teach-anything.com/): Teach Anything teaches you stuff with an easy and professional explanation.
@@ -67,7 +67,7 @@
 
 
 
-## Image generators: 
+## Image generators
 
 - ⭐ [ImageFX](https://labs.google/fx/tools/image-fx): From Google / Unlimited / Available in certain regions
 
@@ -91,7 +91,7 @@
 
 - [Craiyon](https://www.craiyon.com/)
 
-## AI Tools:
+## AI Tools
 
 - ⭐ [ChatPDF](https://www.chatpdf.com/): Turn Books into Chatbots.
 
@@ -103,7 +103,7 @@
 
  - [Pixian AI](https://pixian.ai/): Background remover.
 
-## Video Generation:
+## Video Generation
 
 - ⭐ [Pixverse](https://pixverse.ai/)
 
@@ -114,7 +114,7 @@
 - [Kling AI](https://klingai.com/)
  
 
-## Audio Generation:
+## Audio Generation
 
 
 - ⭐ [Suno](https://suno.com/): Text to music.
@@ -127,7 +127,7 @@
 
 
 
-## Text to Voice:
+## Text to Voice
 
 - ⭐ [Uber Duck](https://uberduck.ai/)
 
@@ -136,10 +136,3 @@
 - ⭐ [Bark](https://huggingface.co/spaces/suno/bark)
 
 - ⭐ [WhisperSpeech](https://huggingface.co/spaces/collabora/WhisperSpeech)
-
-
-
-## Multifunctional:
-
-- [Jibyte](https://www.jibyte.com/)
-

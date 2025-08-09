@@ -4,7 +4,7 @@
 
 ## Downloading Games
 
-### Windows Games
+### Windows Games:
 
 - ⭐ [CS.RIN.RU](https://cs.rin.ru/): Forum / DDLs / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod)
 
@@ -29,7 +29,7 @@
 
 - [Torrminatorr](https://forum.torrminatorr.com/)
 
-### Game Repacks 
+### Game Repacks:
 
 - ⭐ [FitGirl Repacks](https://www.fitgirl-repacks.site)
 
@@ -44,7 +44,7 @@
 - [DODI Repacks](https://dodi-repacks.site/): [Bypass lootlink](https://rentry.co/lootlink)
 
 
-### Android Games
+### Android Games:
 
 - ⭐ [Mobilism](https://forum.mobilism.org/viewforum.php?f=398): Books, Games & Apps / [App](https://forum.mobilism.org/app/)
 
@@ -66,10 +66,10 @@
 
 - [LiteAPKS](https://liteapks.com): [Note](https://pastebin.com/3ebTvx0b) / [App](https://liteapks.com/app.html)
 
-- [4PDA](https://4pda.to/forum/): Use a translator.
+- [4PDA](https://4pda.to/forum/): The captcha answer is an ordinal number in russian, use a translator.
 
 
-### iOS & iPadOS Games
+### iOS & iPadOS Games:
 
 - ⭐ [CodeVN](https://ios.codevn.net/) or [IPALibrary](https://www.ipalibrary.me)
 
@@ -86,11 +86,11 @@
 
 - [AppCake](https://www.iphonecake.com/): Has little games and apps for iPads.
 
-### Mac Games
+### Mac Games:
 
 - ⭐ [Torrminatorr](https://forum.torrminatorr.com/)
 
-### Linux Games
+### Linux Games:
 
 - 🌐 [Linux Gaming Guide](https://linux-gaming.kwindu.eu/index.php?title=Main_Page)
 
@@ -106,12 +106,12 @@
 
 -  [1337x johncena141](https://1337x.to/user/johncena141/): Linux games (torrents).
 
-## Emulation 
+## Emulation
 
 :::warning Since emulator programs and emulation in general has already been covered by many sources online in detail, it is unnecessary for MediaSavvy to cover them, insteaad those sources will be listed here.
 :::
 
-### Emulators & Tools
+### Emulators & Tools:
 
 - 🌐 [Emulation General Wiki](https://emulation.gametechwiki.com/): Emulator index & general emulation guides.
 
@@ -129,11 +129,11 @@
 
 - [MousseInjector](https://github.com/garungorp/MouseInjectorDolphinDuck): Adds mouse support in some emulators.
 
-### Online Emulators
+### Online Emulators:
 
 - ⭐ [Telemelt](https://telemelt.com/): Multiplayer Online Emulator.
 
-### ROM Downloading
+### ROM Downloading:
 
 - 🌐 [ROM Download sites](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_sites): ROM Downloading site index.
 
