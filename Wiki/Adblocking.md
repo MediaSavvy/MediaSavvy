@@ -1,6 +1,6 @@
 # 🧩 Adblocking / Extensions / Bypassers
 
-## Adblocking:
+## Adblocking
 
 ### Android Adblocking:
 
@@ -54,7 +54,7 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - [Adguard](https://adguard.com/en/adguard-browser-extension/overview.html)
 
-## Adblocking Filter Lists:
+## Adblocking Filter Lists
 
 - ⭐ [Legitimate URL Shortner](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
  
@@ -62,7 +62,7 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - [FilterLists](https://filterlists.com/): A database with a huge list of filter lists (some good, some bad).
 
-## Test your adblockers:
+## Test your adblockers
 
 - ⭐ [CanYouBlockIt](https://canyoublockit.com/): Manual adblock tester.
 
@@ -70,7 +70,7 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - [ADBlockTester](https://adblock-tester.com/): Automatic adblock tester.
 
-## Bypassers:
+## Bypassers
 
 ### Redirect Bypassers:
 
@@ -94,7 +94,7 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - ⭐ [Wallabag](https://wallabag.org/): Save articles and read them later offline.
 
-## Extensions:
+## Extensions
 
 ### Extensions: Firefox and Chromium compatible:
 
