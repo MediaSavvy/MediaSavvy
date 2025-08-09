@@ -2,7 +2,7 @@
 
 ***
 
-### Tor Network
+### Tor Network:
 
 - [Tor Browser](https://www.torproject.org/)
 
@@ -12,7 +12,7 @@
 
 ***
 
-### Desktop Browsers
+### Desktop Browsers:
 
 - ⭐ [Firefox](https://firefox.com/)
 
@@ -30,7 +30,7 @@
 
 ***
 
-### Cloud Storage
+### Cloud Storage:
 
 - [Proton Drive](https://proton.me/drive)
 
@@ -38,7 +38,7 @@
 
 ***
 
-### Email
+### Email:
 
 - ⭐ [Proton Mail](https://proton.me/mail)
 
@@ -48,7 +48,7 @@
 
 ***
 
-### Payment Masking Services
+### Payment Masking Services:
 
 - [Privacy.com](https://privacy.com/): US Only
 
@@ -56,7 +56,7 @@
 
 ***
 
-### Search Engines
+### Search Engines:
 
 - [Brave Search](https://search.brave.com/)
 
@@ -68,7 +68,7 @@
 
 ***
 
-### VPN Providers
+### VPN Providers:
 
 - [Proton VPN](https://protonvpn.com/): No logs
 
@@ -76,7 +76,7 @@
 
 ***
 
-### Email Clients
+### Email Clients:
 
 - [Thunderbird](https://www.thunderbird.net/)
 
@@ -84,13 +84,13 @@
 
 ***
 
-### File Sharing
+### File Sharing:
 
 - [OnionShare](https://onionshare.org/)
 
 ***
 
-### Frontends
+### Frontends:
 
 - [Nitter](https://github.com/zedeus/nitter): Twitter
 
@@ -100,13 +100,13 @@
 
 ***
 
-### Password Managers
+### Password Managers:
 
 - [Bitwarden](https://bitwarden.com/)
 
 ***
 
-### Operating Systems
+### Operating Systems:
 
 - ⭐ [Tails](https://tails.net/)
 
@@ -116,7 +116,7 @@
 
 ***
 
-### Privacy Guides
+### Privacy Guides:
 
 - ⭐ [Awesome Privacy](https://awesome-privacy.xyz/)
 
@@ -130,13 +130,13 @@
 
 ***
 
-### Proxy Apps
+### Proxy Apps:
 
 - ⭐ [Psiphon](https://psiphon.ca/): Free Proxy / VPN.
 
 ***
 
-### Other
+### Other:
 
 - ⭐ [EXPERTE Password Generator](https://www.experte.com/password-generator): A password generator with many helpful features, such as: whether your inputed password has been leaked, shows how long it would take for a computer to crack the inputed password etc.
 
