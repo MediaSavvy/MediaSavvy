@@ -4,7 +4,7 @@
 ***
 
 
-### Software for Android:
+## Software for Android
 
 - ⭐ [Mobilism](https://forum.mobilism.org/viewforum.php?f=398): Books / Games / Apps / [App](https://forum.mobilism.org/app/)
 
@@ -33,7 +33,7 @@
 
 ***
 
-### Software for Windows:
+## Software for Windows
 
 - ⭐ [CRACKSurl](https://cracksurl.com/)
 
@@ -71,7 +71,7 @@
 
 ***
 
-### Software for iOS and iPadOS:
+## Software for iOS and iPadOS
 
 - ⭐ [CodeVN](https://ios.codevn.net/) or [IPALibrary](https://www.ipalibrary.me)
 
@@ -91,7 +91,7 @@
 
 ***
 
-### Software for Mac:
+## Software for Mac
 
 - ⭐ [Cmacked](https://cmacked.com/)
 
