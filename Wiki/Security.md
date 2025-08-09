@@ -59,11 +59,10 @@ Download and run the following tools in this order. Run all tools unless otherwi
 
 1) Run [rkill.com](https://www.bleepingcomputer.com/download/rkill/dl/10/). Sometimes it takes a few minutes to finish. Do not reboot when done.
 
-    Kills running malicious processes
-
-    Removes policies in the registry that prevent normal OS operation
-
-    Repairs file extension hijacks
+  !!!note 
+    - It Kills running malicious processes, removes policies in the registry that prevent normal OS operation and repairs file extension hijacks. 
+    - Note that it may not terminate newer malware as it's last update was in 2018, however, other fixes regarding the registry and file extensions still work.
+  !!!
 
  
 
