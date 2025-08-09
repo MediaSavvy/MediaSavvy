@@ -3,7 +3,7 @@
 
 ***
 
-## Streaming Websites:
+## Streaming Websites
 
 :::warning Note:
 If you are streaming movies/tv shows and it buffers, you can try [FastStream](https://FastStream.online). FastStream downloads video fragments in parallel. Up to 6x faster download speeds for videos, ensuring smooth playback with no interruptions, with other awesome features.
@@ -138,7 +138,7 @@ Make sure to use a VPN!
 
 ***
 
-## Mobile Streming:
+## Mobile Streming
 
 ### Android Streaming:
 
@@ -174,7 +174,7 @@ Supports downloading / Ok design / 1080p & lower
 
 - ⭐ [Streamer](https://github.com/StreamerApp/Streamer)
 
-## IPTV:
+## IPTV
 
 - [IPTV Simple Client for Kodi](https://kodi.tv/addons/omega/pvr.iptvsimple/)
 
@@ -186,7 +186,7 @@ Supports downloading / Ok design / 1080p & lower
 
 - [Best Player](https://best-player.eu/)
 
-## Media Centers:
+## Media Centers
 
 - [Plex](https://www.plex.tv/):  Self-hosted Netflix. Provide your own content and serve them in a Netflix-like interface.
 
@@ -196,7 +196,7 @@ Supports downloading / Ok design / 1080p & lower
 
 - [Stremio](https://stremio.com): [Guide](https://rentry.co/a-guide-to-stremio)
 
-## Subtitles:
+## Subtitles
 
 - ⭐ [Open Subtitles](https://opensubtitles.org/)
  
