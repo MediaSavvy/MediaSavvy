@@ -2,7 +2,7 @@
 
 ***
 
-## Downloading Games:
+## Downloading Games
 
 ### Windows Games:
 
@@ -106,7 +106,7 @@
 
 -  [1337x johncena141](https://1337x.to/user/johncena141/): Linux games (torrents).
 
-## Emulation:
+## Emulation
 
 :::warning Since emulator programs and emulation in general has already been covered by many sources online in detail, it is unnecessary for MediaSavvy to cover them, insteaad those sources will be listed here.
 :::
