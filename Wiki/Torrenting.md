@@ -6,7 +6,7 @@
 ### [FMHY VPN Guide](https://fmhy.net/adblockvpnguide#vpn)
 
 
-## Torrent Clients:
+## Torrent Clients
 
 :::danger WARNING:
 Make sure that you [BIND](https://redd.it/ssy8vv) your VPN client to prevent leaks!
@@ -40,7 +40,7 @@ Make sure that you [BIND](https://redd.it/ssy8vv) your VPN client to prevent lea
 
 
 
-## Torrent Sites:
+## Torrent Sites
 
 **1. ⭐ [RuTracker](https://rutracker.org/):**  Video / Audio / Games / Software / Android / Comics / Magazines
 
