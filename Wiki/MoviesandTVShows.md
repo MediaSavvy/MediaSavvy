@@ -180,7 +180,7 @@ Supports downloading / Ok design / 1080p & lower
 
 - [M3U IPTV](https://m3u-ip.tv/browser)
 
-- [Hypnotix](https://github.com/linuxmint/hypnotix
+- [Hypnotix](https://github.com/linuxmint/hypnotix)
 
 - [IPTVnator](https://github.com/4gray/iptvnator)
 
