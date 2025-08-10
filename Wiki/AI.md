@@ -9,19 +9,31 @@
 
 - ⭐ [Microsoft Copilot](https://copilot.microsoft.com/): Free GPT-4o, GPT-5 powered search and chatbot / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 
-- ⭐ [Gemini](https://Gemini.google.com/): Google's chatbot.
+- ⭐ [AI Studio](https://aistudio.google.com/app/prompts/new_chat) or [Gemini](https://Gemini.google.com/): Google's chatbot.
 
 - ⭐ [Qwen](https://chat.qwenlm.ai/): Alibabas chatbots.
 
 - ⭐ [DeepSeek](https://www.deepseek.com/): DeepSeek V3 and R1 / Unlimited / Self-hostable.
 
+- ⭐ [Grok](https://grok.com/): Grok 3 and 4.
+
 - ⭐ [LMSYS](https://chat.lmsys.org/): GPT-4o and other chatbots.
 
-- ⭐ [Mistral](https://chat.mistral.ai/chat): Multiple chatbots / Account required.
+- ⭐ [Z.ai](https://chat.z.ai/): GLM 4.5
 
 - [Claude](https://www.anthropic.com/product): Anthropic's AI chatbot.
 
 - [Meta AI](https://www.meta.ai/): Metas chatbot, Llama 4.
+
+
+- [Kimi](https://kimi.ai/): K2 Chatbot
+
+- [MiniMax AI](https://chat.minimax.io/): Minimax-M1
+
+- [Solar](https://console.upstage.ai/playground/chat): Solar Pro 2 Chatbot.
+
+- [Mistral](https://chat.mistral.ai/chat): Multiple chatbots / Account required.
+
 
 - [HuggingChat](https://huggingface.co/chat/): Multiple chatbots.
 
