@@ -7,6 +7,8 @@
 
 - ⭐ [ChatGPT](https://chat.openai.com): GPT-5 and GPT-5 Mini chatbots.
 
+- ⭐ [Microsoft Copilot](https://copilot.microsoft.com/): Free GPT-4o, GPT-5 powered search and chatbot / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+
 - ⭐ [Gemini](https://Gemini.google.com/): Google's chatbot.
 
 - ⭐ [Qwen](https://chat.qwenlm.ai/): Alibabas chatbots.
@@ -34,7 +36,6 @@
 
 - ⭐ [Perplexity](https://www.perplexity.ai/): GPT 4o powered search and chatbot. Great for research.
 
-- ⭐ [Microsoft Copilot](https://copilot.microsoft.com/): Free GPT-4o powered search and chatbot / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 
 - ⭐ [You](https://you.com/): AI Search engine and chatbot.
 
