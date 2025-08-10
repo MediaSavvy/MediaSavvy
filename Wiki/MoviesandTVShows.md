@@ -63,7 +63,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 ### Anime:
 
-- ⭐ [Miruro](https://www.miruro.tv/)
+- ⭐ [Miruro](https://www.miruro.to/)
 
 - ⭐ [KickAssAnime](https://kickassanime.mx/)
 
