@@ -21,7 +21,7 @@
 
 - [Meta AI](https://www.meta.ai/): Metas chatbot, Llama 3.2.
 
-- [HuggingCHat](https://huggingface.co/chat/): Multiple chatbots.
+- [HuggingChat](https://huggingface.co/chat/): Multiple chatbots.
 
 - [Pi](https://pi.ai/talk): An excellent AI assistant that you can have conversations with, vent with, help you with work etc.
 
