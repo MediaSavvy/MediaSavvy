@@ -36,10 +36,9 @@
 
 - ⭐ [Perplexity](https://www.perplexity.ai/): GPT 4o powered search and chatbot. Great for research.
 
-
-- ⭐ [You](https://you.com/): AI Search engine and chatbot.
-
 - ⭐ [Sicra](https://scira.app/): AI search engine based on Grok.
+
+- [You](https://you.com/): AI Search engine and chatbot.
 
 -  [Phind](https://www.phind.com/)
 
