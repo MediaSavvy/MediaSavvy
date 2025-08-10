@@ -19,13 +19,13 @@
 
 - ⭐ [Mistral](https://chat.mistral.ai/chat): Multiple chatbots / Account required.
 
-- [Claude](https://www.anthropic.com/product): Anthropic's AI chatbot / Phone number required.
+- [Claude](https://www.anthropic.com/product): Anthropic's AI chatbot.
 
-- [Meta AI](https://www.meta.ai/): Metas chatbot, Llama 3.2.
+- [Meta AI](https://www.meta.ai/): Metas chatbot, Llama 4.
 
 - [HuggingChat](https://huggingface.co/chat/): Multiple chatbots.
 
-- [Pi](https://pi.ai/talk): An excellent AI assistant that you can have conversations with, vent with, help you with work etc.
+- [Pi](https://pi.ai/talk): Emotionally intelligent AI.
 
 - [Poe](https://www.poe.com): Multiple chatbots, image generation bots, roleplaying bots.
 
