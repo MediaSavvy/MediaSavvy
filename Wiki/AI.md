@@ -2,6 +2,10 @@
 
 ## AI Chatbots
 
+:::warning Note:
+Don't share any personal information with online AI's.
+:::
+
 ### Chatbots:
 
 
