@@ -120,18 +120,19 @@ Don't share any personal information with online AI's.
 
  - [Pixian AI](https://pixian.ai/): Background remover.
 
-## Video Generation
+## Video
 
 - ⭐ [Pixverse](https://pixverse.ai/)
 
 - ⭐ [VideoFX](https://labs.google/fx/tools/video-fx): From Google / US only.
 
+- ⭐ [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam): Open-source project based on deepfakes.
+ 
 - [Dream Machine](https://lumalabs.ai/dream-machine)
 
 - [Kling AI](https://klingai.com/)
- 
 
-## Audio Generation
+## Audio 
 
 
 - ⭐ [Suno](https://suno.com/): Text to music.
