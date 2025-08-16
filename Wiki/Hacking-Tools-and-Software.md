@@ -2,19 +2,19 @@
 
 ***
 
-### Phone Tools:
+## Phone Tools
 
 - [Phoneinfoga](https://sundowndev.github.io/phoneinfoga) - This is the best tool to find out infomation about phone numbers. This tool is available for Windows, Linux and MacOS.
 
 ***
 
-### Social Media Tools:
+## Social Media Tools
 
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Sherlock is a command line tool that can search over 50 social media services.
 
 ***
 
-### DDoS / DoS Tools:
+## DDoS / DoS Tools:
 
 - ⭐ [MHDDoS](https://github.com/MatrixTM/MHDDoS) - An excellent DDoS / DoS tool. One of the best ones in my opinion.
 
@@ -26,7 +26,7 @@
 
 ***
 
-### Deobfuscators:
+## Deobfuscators
 
 - [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
 
@@ -36,7 +36,7 @@
 
 ***
 
-### Network Hacking Tools:
+## Network Hacking Tools
 
 
 -  [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT).
@@ -79,7 +79,7 @@
 
 ***
 
-### Cryptography / Passwords:
+## Cryptography / Passwords
 
 - [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher.
 
@@ -91,7 +91,7 @@
 
 ***
 
-### Windows Tools:
+## Windows Tools
 
 - [WinPwnage](https://github.com/rootm0s/WinPwnage) - Bypass UAC in some computers.
 
@@ -101,9 +101,9 @@
 
 ***
 
-### Reverse Engineering:
+## Reverse Engineering
 
-- [Awesome Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing?tab=readme-ov-file) - A curated list of awesome reverse engineering resources like **IDA Pro**, **x64dbg**, **Ghidra** and **dnSpy**.
+- [Awesome Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing?tab=readme-ov-file) - A curated list of awesome reverse engineering resources like **IDA Pro**, **x64dbg**, **Ghidra**, **Frida** and **dnSpy**.
   
 - [Crackmes](https://crackmes.one/#close) - A place where you can improve your RE skills.
   
@@ -111,7 +111,7 @@
 
 - [WebScene](https://webscene.ir/login) - Another forum focused both on Scene groups and reverse engineering, WebScene has archived many releases from late groups such as TSRH.
 
-### Hack Testing:
+## Hack Testing
  
 -  [Hack This Site!](https://www.hackthissite.org/) - a free, safe and legal training ground for hackers to test and expand their hacking skills
 
@@ -135,9 +135,7 @@
 
 - [Attackdefense](https://attackdefense.com/) - Pentester academy.
 
-***
-
-### Miscellaneous:
+## Miscellaneous
 
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  Curated list of a bunch of hacking tools and guides.
 
@@ -154,7 +152,9 @@
 - [Hound](https://github.com/techchipnet/hound) - A light tool for information gathering and capture exact GPS coordinates.
 
 - [Emkei's Mailer](https://emkei.cz) - Email spoofing, still works if you change the SMTP Server to Sendgrid.
-  
+
+- [Serveo](https://serveo.net/blog/remote-access-to-ssh-servers-using-serveo) - Minimalist and free alternative to Ngrok, it can send links to be opened without being on local network.
+
 - [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can try ChatGPT with the temporary chat enabled to ask the same type of questions.
 
 - [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
