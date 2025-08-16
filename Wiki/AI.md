@@ -84,7 +84,19 @@ Don't share any personal information with online AI's.
 
 
 
-## Image generators
+## AI Tools
+
+- ⭐ [ChatPDF](https://www.chatpdf.com/): Turn Books into Chatbots.
+
+- ⭐ [Ask your PDF](https://askyourpdf.com/): Turn books into chatbots.
+
+- ⭐ [Wolframe Alpha](https://www.wolframalpha.com/): Searchable knowledge base.
+
+- ⭐ [Remove.bg](https://www.remove.bg/): Backround remover.
+
+ - [Pixian AI](https://pixian.ai/): Background remover.
+
+## Image
 
 - ⭐ [ImageFX](https://labs.google/fx/tools/image-fx): From Google / Unlimited / Available in certain regions
 
@@ -108,30 +120,19 @@ Don't share any personal information with online AI's.
 
 - [Craiyon](https://www.craiyon.com/)
 
-## AI Tools
-
-- ⭐ [ChatPDF](https://www.chatpdf.com/): Turn Books into Chatbots.
-
-- ⭐ [Ask your PDF](https://askyourpdf.com/): Turn books into chatbots.
-
-- ⭐ [Wolframe Alpha](https://www.wolframalpha.com/): Searchable knowledge base.
-
-- ⭐ [Remove.bg](https://www.remove.bg/): Backround remover.
-
- - [Pixian AI](https://pixian.ai/): Background remover.
-
-## Video Generation
+## Video
 
 - ⭐ [Pixverse](https://pixverse.ai/)
 
 - ⭐ [VideoFX](https://labs.google/fx/tools/video-fx): From Google / US only.
 
+- ⭐ [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam): Open-source project based on deepfakes.
+ 
 - [Dream Machine](https://lumalabs.ai/dream-machine)
 
 - [Kling AI](https://klingai.com/)
- 
 
-## Audio Generation
+## Audio 
 
 
 - ⭐ [Suno](https://suno.com/): Text to music.
