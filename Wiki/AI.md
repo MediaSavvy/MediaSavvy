@@ -84,7 +84,19 @@ Don't share any personal information with online AI's.
 
 
 
-## Image generators
+## AI Tools
+
+- ⭐ [ChatPDF](https://www.chatpdf.com/): Turn Books into Chatbots.
+
+- ⭐ [Ask your PDF](https://askyourpdf.com/): Turn books into chatbots.
+
+- ⭐ [Wolframe Alpha](https://www.wolframalpha.com/): Searchable knowledge base.
+
+- ⭐ [Remove.bg](https://www.remove.bg/): Backround remover.
+
+ - [Pixian AI](https://pixian.ai/): Background remover.
+
+## Image
 
 - ⭐ [ImageFX](https://labs.google/fx/tools/image-fx): From Google / Unlimited / Available in certain regions
 
@@ -107,18 +119,6 @@ Don't share any personal information with online AI's.
 - [Playground](https://playground.com/): 15 per 3 hours.
 
 - [Craiyon](https://www.craiyon.com/)
-
-## AI Tools
-
-- ⭐ [ChatPDF](https://www.chatpdf.com/): Turn Books into Chatbots.
-
-- ⭐ [Ask your PDF](https://askyourpdf.com/): Turn books into chatbots.
-
-- ⭐ [Wolframe Alpha](https://www.wolframalpha.com/): Searchable knowledge base.
-
-- ⭐ [Remove.bg](https://www.remove.bg/): Backround remover.
-
- - [Pixian AI](https://pixian.ai/): Background remover.
 
 ## Video
 
