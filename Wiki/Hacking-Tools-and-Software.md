@@ -6,13 +6,9 @@
 
 - [Phoneinfoga](https://sundowndev.github.io/phoneinfoga) - This is the best tool to find out infomation about phone numbers. This tool is available for Windows, Linux and MacOS.
 
-***
-
 ## Social Media Tools
 
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Sherlock is a command line tool that can search over 50 social media services.
-
-***
 
 ## DDoS / DoS Tools:
 
@@ -24,8 +20,6 @@
 
 - [Slowloris](https://github.com/gkbrk/slowloris) - A good DDoS / DoS tool.
 
-***
-
 ## Deobfuscators
 
 - [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
@@ -33,8 +27,6 @@
 - [JS Beautifier](https://github.com/beautify-web/js-beautify)
 
 - [JS Nice](http://jsnice.org/) - a web service guessing JS variables names and types based on the model derived from open source.
-
-***
 
 ## Network Hacking Tools
 
@@ -77,8 +69,6 @@
 
 - [PETEP](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
 
-***
-
 ## Cryptography / Passwords
 
 - [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher.
@@ -89,8 +79,6 @@
 
 - [Ciphey](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
 
-***
-
 ## Windows Tools
 
 - [WinPwnage](https://github.com/rootm0s/WinPwnage) - Bypass UAC in some computers.
@@ -98,8 +86,6 @@
 - [GrabAccess](https://github.com/Push3AX/GrabAccess) - Another great tool to Bypass UAC.
 
 - [Hiren BootCD](https://www.hirensbootcd.org/download/) - HBCD_PE_x64.iso image to be used with Rufus, can clear or change admin password on Windows, only work if the BIOS password hasn't been already set.
-
-***
 
 ## Reverse Engineering
 
