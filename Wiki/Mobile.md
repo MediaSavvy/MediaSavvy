@@ -108,12 +108,13 @@ Make sure to get a VPN before torrenting
 
 - [iSH Shell](https://ish.app/): Terminal Emulator.
 
-- [UTM](https://getutm.app/): Virtual Machines.
+- [UTM](https://github.com/utmapp/UTM/releases): Virtual Machines.
 
 - [RoutineHub](https://routinehub.co/): Shortcuts.
 
 - [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059): Scan & Digitize Documents
 
+- [IPSW](https://ipsw.me/about) - Unofficial IOS firmware.
 
 ## iOS Privacy
 
