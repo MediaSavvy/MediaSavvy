@@ -31,7 +31,7 @@ Antivirus software is usually bloatware. Stick to trusted sources for games and 
 
 How to remove malware from your computer:
 
- **Tip:** Windows 10 and below is no longer supported by Microsoft and **UNSAFE** to use. If you are still running Windows 10 with a **LEGIT** license, you can obtain a free upgrade to Windows 11 by using the [Windows 11 Upgrade Assistant](https://support.microsoft.com/en-us/topic/windows-update-assistant-3550dfb2-a015-7765-12ea-fba2ac36fb3f) from Microsoft. They have been very generous in continuing to allow users to upgrade from Windows 10 at no charge. Do this upgrade AFTER your system has been cleaned of malware. A system image backup is highly recommended before starting this process. This backup can be performed to an external hard drive with the Backup & Restore tool located in the Control Panel on Windows 10 and below.
+ **Tip:** Windows 10 and below is no longer supported by Microsoft and **UNSAFE** to use. If you are still running Windows 10 with a **LEGIT** license, you can obtain a free upgrade to Windows 11 by using the [Windows 11 Upgrade Assistant](https://support.microsoft.com/en-us/topic/windows-update-assistant-3550dfb2-a015-7765-12ea-fba2ac36fb3f) from Microsoft. They have been very generous in continuing to allow users to upgrade from Windows 10 at no charge. Do this upgrade AFTER your system has been cleaned of malware. A system image backup is highly recommended before starting this process. This backup can be performed to an external hard drive with the Backup & Restore tool located in the Control Panel on Windows 10 and below. If it says that your machine doesn't meet the minimum requirements [try this](https://www.tomshardware.com/how-to/bypass-windows-11-tpm-requirement).
 
  
 
