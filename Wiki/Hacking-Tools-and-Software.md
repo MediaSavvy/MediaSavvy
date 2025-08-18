@@ -10,7 +10,7 @@
 
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Sherlock is a command line tool that can search over 50 social media services.
 
-## DDoS / DoS Tools:
+## DDoS / DoS Tools
 
 - ⭐ [MHDDoS](https://github.com/MatrixTM/MHDDoS) - An excellent DDoS / DoS tool. One of the best ones in my opinion.
 
