@@ -10,7 +10,7 @@
 
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Sherlock is a command line tool that can search over 50 social media services.
 
-## DDoS / DoS Tools:
+## DDoS / DoS Tools
 
 - ⭐ [MHDDoS](https://github.com/MatrixTM/MHDDoS) - An excellent DDoS / DoS tool. One of the best ones in my opinion.
 
@@ -125,7 +125,7 @@
 
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  Curated list of a bunch of hacking tools and guides.
 
-- [r/hacking wiki](https://www.reddit.com/r/hacking/wiki/index/) - A selection of links organized by reddit.
+- [r/hacking wiki](https://www.reddit.com/r/hacking/wiki/index/) - A selection of links organized by reddit. [(dread)](https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/hacking/wiki?id=543e1426)
   
 - [Censys](https://search.censys.io/) - Port mapping, service enumeration, operating system identification, geolocation, etc..
   
