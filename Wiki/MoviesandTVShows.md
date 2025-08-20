@@ -112,7 +112,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [Vegas Movies](https://vegamovies.is/): Movies & TV / 4K & Lower / DDL
 
-- ⭐ [Movie Paradise](https://movieparadise.org/): Movies & TV / 1080p / [Code](https://rentry.org/he8fhzku) (Unlocks faster file host, 1fichier)
+- ⭐ [Movie Paradise](https://movieparadise.org/): Movies & TV / 1080p / [Code](https://rentry.org/he8fhzku) or [FMHY's Discord at the "free stuff" channel](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) (Unlocks faster file host, 1fichier)
 
 - [RgShows](https://www.rgshows.me/)
 
