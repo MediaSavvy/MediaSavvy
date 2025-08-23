@@ -141,6 +141,8 @@
 
 - [Serveo](https://serveo.net/blog/remote-access-to-ssh-servers-using-serveo) - Minimalist and free alternative to Ngrok, it can send links to be opened without being on local network.
 
+- [IP-Tracer](https://github.com/rajkumardusad/IP-Tracer) - Retrieve any ip address information with Termux.
+
 - [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can try ChatGPT with the temporary chat enabled to ask the same type of questions.
 
 - [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
