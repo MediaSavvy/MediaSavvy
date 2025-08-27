@@ -20,7 +20,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [MokMobi](https://mokmobi.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading 
 
-- ⭐ [Rive](https://rivestream.live): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Supports downloading
+- ⭐ [Rive](https://rivestream.org): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Supports downloading
 
 - ⭐ [BEECH](https://beech.watch/) or [Mocine](https://mocine.cam/): 1080p & Lower / Fast loading speeds / Multi Server / Good design / Supports downloading / Watch parties
 
