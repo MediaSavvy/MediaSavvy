@@ -10,13 +10,13 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 :::
 
 
-- ⭐ [Cineby](https://www.cineby.ru/): 4K & lower / Extremely fast loading speeds / Good design / Multi server / Auto next / Supports downloading
+- ⭐ [Cineby](https://www.cineby.ru/): 4K & lower / Fast loading speeds / Good design / Multi server / Auto next / Supports downloading
 
-- ⭐ [Fmovies+](https://www.fmovies.gd/): 4K & lower / Extremely fast loading speeds / Good design / Multi server / Auto next / Supports downloading 
+- ⭐ [Fmovies+](https://www.fmovies.gd/): 4K & lower / Fast loading speeds / Good design / Multi server / Auto next / Supports downloading 
 
-- ⭐ [XPrime](https://xprime.tv/): 1080p & lower / Fast streams / Multi server / Auto next / Watch parties 
+- ⭐ [XPrime](https://xprime.tv/): 1080p & lower / Fast loading speeds / Multi server / Auto next / Watch parties / Good design 
 
-- ⭐ [VeloraTV](https://veloratv.ru/): 1080p & lower / Fast streams / Multi server / Auto next / Watch parties / Live TV
+- ⭐ [VeloraTV](https://veloratv.ru/): 1080p & lower / Fast loading speeds / Multi server / Auto next / Watch parties / Live TV / Good design
 
 - ⭐ [456movies](https://456movie.com/): 4K, 1080p & Lower / Good design / Multi server
 
