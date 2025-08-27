@@ -18,7 +18,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [MovieMaze](https://moviemaze.cc): 4K, 1080p & Lower / Multi Server / Fast loading speeds / Great design / Auto next 
 
-- ⭐ [MokMobi](https://mokmobi.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading / [Classic Site](https://mokmobi.site/)
+- ⭐ [MokMobi](https://mokmobi.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading 
 
 - ⭐ [Rive](https://rivestream.live): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Supports downloading
 
