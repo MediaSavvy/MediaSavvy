@@ -41,8 +41,6 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 -  [Streamflix](https://watch.streamflix.one/): Also has live TV / 4K, 1080p & Lower / Ok loading speeds / Good Design / Multi Server
 
 
-- [CinemaUnlocked](https://cinemaunlocked.com/home/): 1080p and lower / Fast loading speeds / Good design.
-
 - [Donkey](https://donkey.to/home): 1080p & lower / Fast loading speeds / Good design.
 
 - [YoYo Movies](https://yoyomovies.net/): 1080p & lower / Fast loading speeds / Multi Server / Some sources allow you to download movies / User-friendly design.
