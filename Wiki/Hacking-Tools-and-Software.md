@@ -141,7 +141,9 @@
 
 - [Serveo](https://serveo.net/blog/remote-access-to-ssh-servers-using-serveo) - Minimalist and free alternative to Ngrok, it can send links to be opened without being on local network.
 
-- [IP-Tracer](https://github.com/rajkumardusad/IP-Tracer) - Retrieve any ip address information with Termux.
+- [Parsec](https://parsec.app/) - Gain control of other computers, very useful for social engineering.
+
+- [Everything-About-Captchas](https://github.com/TheGP/Everything-About-Captchas) - Everything related to captchas, including libraries, solvers and scoring.
 
 - [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can try ChatGPT with the temporary chat enabled to ask the same type of questions.
 
