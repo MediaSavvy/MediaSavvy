@@ -75,6 +75,8 @@
 
 - [John the Ripper](http://www.openwall.com/john/) - A fast password cracker.
 
+- [Hashcat](https://github.com/hashcat/hashcat) - Password Cracking based on statistics and industrial standards.
+
 - [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
 
 - [Ciphey](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
