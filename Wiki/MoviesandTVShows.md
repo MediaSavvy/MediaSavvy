@@ -10,27 +10,25 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 :::
 
 
-- ⭐ [Cineby](https://www.cineby.ru/): 4K & lower / Extremely fast loading speeds / Good design / Multi server / Auto next / Supports downloading
+- ⭐ [Cineby](https://www.cineby.ru/): 4K & lower / Fast loading speeds / Good design / Multi server / Auto next / Supports downloading
 
-- ⭐ [Fmovies+](https://www.fmovies.cat/): 4K & lower / Extremely fast loading speeds / Good design / Multi server / Auto next / Supports downloading 
+- ⭐ [Fmovies+](https://www.fmovies.gd/): 4K & lower / Fast loading speeds / Good design / Multi server / Auto next / Supports downloading 
+
+- ⭐ [XPrime](https://xprime.tv/): 1080p & lower / Fast loading speeds / Multi server / Auto next / Watch parties / Good design 
+
+- ⭐ [VeloraTV](https://veloratv.ru/): 1080p & lower / Fast loading speeds / Multi server / Auto next / Watch parties / Live TV / Good design
 
 - ⭐ [456movies](https://456movie.com/): 4K, 1080p & Lower / Good design / Multi server
 
-- ⭐ [MovieMaze](https://freek.to): 4K, 1080p & Lower / Multi Server / Fast loading speeds / Great design / Auto next 
+- ⭐ [MovieMaze](https://moviemaze.cc): 4K, 1080p & Lower / Multi Server / Fast loading speeds / Great design / Auto next 
 
-- ⭐ [MokMobi](https://mokmobi.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading / [Classic Site](https://mokmobi.site/)
+- ⭐ [MokMobi](https://mokmobi.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading 
 
-- ⭐ [Rive](https://rivestream.live): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Supports downloading
+- ⭐ [Rive](https://rivestream.org): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Supports downloading
 
 - ⭐ [BEECH](https://beech.watch/) or [Mocine](https://mocine.cam/): 1080p & Lower / Fast loading speeds / Multi Server / Good design / Supports downloading / Watch parties
 
 - ⭐ [movie-web](https://erynith.github.io/movie-web-instances/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next / [Add more sources](https://pastebin.com/w8Brq2UA).
-
-
-
-
-- ⭐ [NetPlay](https://netplayz.ru/): 1080p & lower / Fast loading speeds / Multi Server / User-friendly design.
-
 
 
 - [Nunflix](https://nunflix.org/): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Auto next
@@ -46,8 +44,6 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 -  [Streamflix](https://watch.streamflix.one/): Also has live TV / 4K, 1080p & Lower / Ok loading speeds / Good Design / Multi Server
 
-
-- [CinemaUnlocked](https://cinemaunlocked.com/home/): 1080p and lower / Fast loading speeds / Good design.
 
 - [Donkey](https://donkey.to/home): 1080p & lower / Fast loading speeds / Good design.
 
