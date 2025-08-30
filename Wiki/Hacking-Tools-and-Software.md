@@ -69,6 +69,8 @@
 
 - [PETEP](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
 
+- [XSStrike](https://github.com/s0md3v/XSStrike) - Extract session cookies in .json format.
+
 ## Cryptography / Passwords
 
 - [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher.
