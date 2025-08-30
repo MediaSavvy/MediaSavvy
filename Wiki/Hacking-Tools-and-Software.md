@@ -75,6 +75,8 @@
 
 - [John the Ripper](http://www.openwall.com/john/) - A fast password cracker.
 
+- [Hashcat](https://github.com/hashcat/hashcat) - Password Cracking based on statistics and industrial standards.
+
 - [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
 
 - [Ciphey](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
@@ -128,6 +130,8 @@
 - [r/hacking wiki](https://www.reddit.com/r/hacking/wiki/index/) - A selection of links organized by reddit. [(dread)](https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/hacking/wiki?id=543e1426)
   
 - [Censys](https://search.censys.io/) - Port mapping, service enumeration, operating system identification, geolocation, etc..
+
+- [Maltego](https://www.maltego.com/) - Get DNS, IP and Website Information with this tool.
   
 - [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A program that has multiple penetration testing tools and hacking tools.
 
@@ -141,6 +145,12 @@
 
 - [Serveo](https://serveo.net/blog/remote-access-to-ssh-servers-using-serveo) - Minimalist and free alternative to Ngrok, it can send links to be opened without being on local network.
 
-- [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can try ChatGPT with the temporary chat enabled to ask the same type of questions.
+- [Parsec](https://parsec.app/) - Gain control of other computers, very useful for social engineering.
+
+- [Everything-About-Captchas](https://github.com/TheGP/Everything-About-Captchas) - Everything related to captchas, including libraries, solvers and scoring.
+
+- [ZTE_router_unlock_tool](https://github.com/SahilB69/ZTE_router_unlock_tool) - MAC spoofing on ZTE routes only.
 
 - [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
+
+- [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence.
