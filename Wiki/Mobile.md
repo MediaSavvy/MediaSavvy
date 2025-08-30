@@ -85,7 +85,7 @@
 Make sure to get a VPN before torrenting
 :::
 
-- ⭐ [Transmission Web](https://raw.githubusercontent.com/termux/termux-packages/7b63447028/x11-packages/transmission-gtk/build.sh)
+- ⭐ [Transmission Web](https://rentry.co/88ctfr89/)
 
 - [Libre Torrent](https://gitlab.com/proninyaroslav/libretorrent)
 
