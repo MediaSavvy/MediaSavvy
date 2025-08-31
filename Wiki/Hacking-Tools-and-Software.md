@@ -69,7 +69,7 @@
 
 - [PETEP](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
 
-- [XSStrike](https://github.com/s0md3v/XSStrike) - Extract session cookies in .json format.
+- [XSStrike](https://github.com/s0md3v/XSStrike) - Similar to Burp Suite (which is freemium), can extract session cookies in .json format.
 
 ## Cryptography / Passwords
 
