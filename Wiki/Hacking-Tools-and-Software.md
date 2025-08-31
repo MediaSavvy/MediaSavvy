@@ -113,10 +113,6 @@
 
 - [fuzzy.land](https://fuzzy.land/) - Website by an Austrian group. Lots of challenges taken from CTFs they participated in.
 
-- [Gruyere](https://google-gruyere.appspot.com/)
-
-- [Others](https://www.owasp.org/index.php) - OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
-
 - [TryHackMe](https://tryhackme.com/) - Hands-on cyber security training through real-world scenarios.
 
 - [Vulnhub](https://www.vulnhub.com/) - Provide materials that allows anyone to gain practical experience in digital security.
@@ -125,9 +121,13 @@
 
 - [Attackdefense](https://attackdefense.com/) - Pentester academy.
 
+- [Gruyere](https://google-gruyere.appspot.com/)
+
+- [Others](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
+
 ## Miscellaneous
 
-- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  Curated list of a bunch of hacking guides and tools (with a special focus on open sourced ones like metasploit).
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  Curated list of a bunch of hacking guides and tools (with a special focus on OSS like Metasploit).
 
 - [r/hacking wiki](https://www.reddit.com/r/hacking/wiki/index/) - A selection of links organized by reddit. [(dread)](https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/hacking/wiki?id=543e1426)
   
