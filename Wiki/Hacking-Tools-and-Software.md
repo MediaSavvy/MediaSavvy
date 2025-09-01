@@ -133,12 +133,12 @@
 
 - [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software.
 
+- [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A repo that has multiple penetration testing and hacking utilities.
+
 - [Censys](https://search.censys.io/) - Port mapping, service enumeration, operating system identification, geolocation, etc..
 
 - [Maltego](https://www.maltego.com/) - Get DNS, IP and Website Information with this tool.
   
-- [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A program that has multiple penetration testing tools and hacking tools.
-
 - [StormBreaker](https://github.com/ultrasecurity/Storm-Breaker) - Access webcam & microphone & location with Py, JS, PHP.
 
 - [Hound](https://github.com/techchipnet/hound) - A light tool for information gathering and capture exact GPS coordinates.
