@@ -133,7 +133,7 @@
 
 - [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software.
 
-- [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A repo that has multiple penetration testing and hacking utilities.
+- [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A program that has multiple penetration testing and hacking utilities.
 
 - [Censys](https://search.censys.io/) - Port mapping, service enumeration, operating system identification, geolocation, etc..
 
@@ -151,7 +151,7 @@
 
 - [Everything-About-Captchas](https://github.com/TheGP/Everything-About-Captchas) - Everything related to captchas, including libraries, solvers and scoring.
 
-- [ZTE_router_unlock_tool](https://github.com/SahilB69/ZTE_router_unlock_tool) - MAC spoofing on ZTE routes only.
+- [ZTE_router_unlock_tool](https://github.com/SahilB69/ZTE_router_unlock_tool) - MAC spoofing on ZTE chinese routers only.
 
 - [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
 
