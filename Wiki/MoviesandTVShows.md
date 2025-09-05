@@ -185,6 +185,8 @@ Supports downloading / Ok design / 1080p & lower
 
 - [Best Player](https://best-player.eu/)
 
+- [XTREME IPTV Player](https://github.com/Youri666/Xtream-m3u_plus-IPTV-Player) 
+
 ## Media Centers
 
 - [Plex](https://www.plex.tv/):  Self-hosted Netflix. Provide your own content and serve them in a Netflix-like interface.

@@ -69,11 +69,15 @@
 
 - [PETEP](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
 
+- [XSStrike](https://github.com/s0md3v/XSStrike) - Similar to Burp Suite (which is freemium), can extract session cookies in .json format.
+
 ## Cryptography / Passwords
 
 - [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher.
 
 - [John the Ripper](http://www.openwall.com/john/) - A fast password cracker.
+
+- [Hashcat](https://github.com/hashcat/hashcat) - Password Cracking based on statistics and industrial standards.
 
 - [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
 
@@ -109,10 +113,6 @@
 
 - [fuzzy.land](https://fuzzy.land/) - Website by an Austrian group. Lots of challenges taken from CTFs they participated in.
 
-- [Gruyere](https://google-gruyere.appspot.com/)
-
-- [Others](https://www.owasp.org/index.php) - OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
-
 - [TryHackMe](https://tryhackme.com/) - Hands-on cyber security training through real-world scenarios.
 
 - [Vulnhub](https://www.vulnhub.com/) - Provide materials that allows anyone to gain practical experience in digital security.
@@ -121,18 +121,24 @@
 
 - [Attackdefense](https://attackdefense.com/) - Pentester academy.
 
+- [Gruyere](https://google-gruyere.appspot.com/)
+
+- [Others](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
+
 ## Miscellaneous
 
-- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  Curated list of a bunch of hacking tools and guides.
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  Curated list of a bunch of hacking guides and tools (with a special focus on OSS like Metasploit).
 
 - [r/hacking wiki](https://www.reddit.com/r/hacking/wiki/index/) - A selection of links organized by reddit. [(dread)](https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/hacking/wiki?id=543e1426)
-  
-- [Censys](https://search.censys.io/) - Port mapping, service enumeration, operating system identification, geolocation, etc..
-  
-- [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A program that has multiple penetration testing tools and hacking tools.
 
 - [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software.
 
+- [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A program that has multiple penetration testing and hacking utilities.
+
+- [Censys](https://search.censys.io/) - Port mapping, service enumeration, operating system identification, geolocation, etc..
+
+- [Maltego](https://www.maltego.com/) - Get DNS, IP and Website Information with this tool.
+  
 - [StormBreaker](https://github.com/ultrasecurity/Storm-Breaker) - Access webcam & microphone & location with Py, JS, PHP.
 
 - [Hound](https://github.com/techchipnet/hound) - A light tool for information gathering and capture exact GPS coordinates.
@@ -141,6 +147,12 @@
 
 - [Serveo](https://serveo.net/blog/remote-access-to-ssh-servers-using-serveo) - Minimalist and free alternative to Ngrok, it can send links to be opened without being on local network.
 
-- [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence for doubts about hacking and pentesting. Alternatively, you can try ChatGPT with the temporary chat enabled to ask the same type of questions.
+- [Parsec](https://parsec.app/) - Gain control of other computers, very useful for social engineering.
+
+- [Everything-About-Captchas](https://github.com/TheGP/Everything-About-Captchas) - Everything related to captchas, including libraries, solvers and scoring.
+
+- [ZTE_router_unlock_tool](https://github.com/SahilB69/ZTE_router_unlock_tool) - MAC spoofing on ZTE chinese routers only.
 
 - [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
+
+- [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence.

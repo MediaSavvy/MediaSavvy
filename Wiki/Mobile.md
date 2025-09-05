@@ -85,11 +85,11 @@
 Make sure to get a VPN before torrenting
 :::
 
-- ⭐ [Aria2App](https://github.com/devgianlu/Aria2App)
+- ⭐ [Transmission Web](https://rentry.co/88ctfr89/)
 
-- ⭐ [Libre Torrent](https://gitlab.com/proninyaroslav/libretorrent)
+- [Libre Torrent](https://gitlab.com/proninyaroslav/libretorrent)
 
-- ⭐ [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
+- [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
 
 ***
 
