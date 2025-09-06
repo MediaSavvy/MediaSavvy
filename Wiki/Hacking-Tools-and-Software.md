@@ -127,7 +127,7 @@
 
 ## Miscellaneous
 
-- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  Curated list of a bunch of hacking guides and tools (with a special focus on OSS like Metasploit).
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) / [Awesome Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines) -  Curated list of a bunch of hacking guides and tools (with a special focus on OSS like Metasploit).
 
 - [r/hacking wiki](https://www.reddit.com/r/hacking/wiki/index/) - A selection of links organized by reddit. [(dread)](https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/hacking/wiki?id=543e1426)
 
@@ -151,12 +151,14 @@
 
 - [Everything-About-Captchas](https://github.com/TheGP/Everything-About-Captchas) - Everything related to captchas, including libraries, solvers and scoring.
 
-- [Evil Ginx](https://github.com/kgretzky/evilginx2) - Man-in-the-middle attack framework used for the bypass of 2-factor authentication.
+- [Evilginx](https://github.com/kgretzky/evilginx2) - Man-in-the-middle attack framework used for the bypass of 2-factor authentication.
 
-- [WiFi Phisher](https://github.com/wifiphisher/wifiphisher) - Does the same thing Evil Ginx does.
+- [WiFi Phisher](https://github.com/wifiphisher/wifiphisher) - Same concept of evilginx.
 
 - [ZTE_router_unlock_tool](https://github.com/SahilB69/ZTE_router_unlock_tool) - MAC spoofing on ZTE chinese routers only.
 
+- [0day.today.archive](https://github.com/vulncheck-oss/0day.today.archive) - List of exploits that were available on 0day.today (CW and DW).
+  
 - [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
 
 - [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence.
