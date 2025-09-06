@@ -22,6 +22,8 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [MovieMaze](https://moviemaze.cc): 4K, 1080p & Lower / Multi Server / Fast loading speeds / Great design / Auto next 
 
+- ⭐ [CineBolt](https://cinebolt.net/): 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design
+
 - ⭐ [MokMobi](https://mokmobi.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading 
 
 - ⭐ [Rive](https://rivestream.org): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Supports downloading
@@ -29,8 +31,6 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 - ⭐ [BEECH](https://beech.watch/) or [Mocine](https://mocine.cam/): 1080p & Lower / Fast loading speeds / Multi Server / Good design / Supports downloading / Watch parties
 
 - ⭐ [movie-web](https://erynith.github.io/movie-web-instances/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next / [Add more sources](https://pastebin.com/w8Brq2UA).
-
-- ⭐ [CineBolt](https://cinebolt.net/): 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design
 
 - [Nunflix](https://nunflix.org/): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Auto next
 
