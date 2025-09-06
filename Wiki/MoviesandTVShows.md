@@ -30,7 +30,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [movie-web](https://erynith.github.io/movie-web-instances/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next / [Add more sources](https://pastebin.com/w8Brq2UA).
 
-- [CineBolt](https://cinebolt.net/): 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design
+- ⭐ [CineBolt](https://cinebolt.net/): 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design
 
 - [Nunflix](https://nunflix.org/): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Auto next
 
