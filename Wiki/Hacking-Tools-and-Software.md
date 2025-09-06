@@ -151,6 +151,10 @@
 
 - [Everything-About-Captchas](https://github.com/TheGP/Everything-About-Captchas) - Everything related to captchas, including libraries, solvers and scoring.
 
+- [Evil Ginx](https://github.com/kgretzky/evilginx2) - Man-in-the-middle attack framework used for the bypass of 2-factor authentication.
+
+- [WiFi Phisher](https://github.com/wifiphisher/wifiphisher) - Does the same thing Evil Ginx does.
+
 - [ZTE_router_unlock_tool](https://github.com/SahilB69/ZTE_router_unlock_tool) - MAC spoofing on ZTE chinese routers only.
 
 - [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
