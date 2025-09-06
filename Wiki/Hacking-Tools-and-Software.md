@@ -127,7 +127,7 @@
 
 ## Miscellaneous
 
-- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) / [Awesome Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines) -  Curated list of a bunch of hacking guides and tools (with a special focus on OSS like Metasploit).
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - Curated list of a bunch of hacking guides and tools (with a special focus on OSS like Metasploit).
 
 - [r/hacking wiki](https://www.reddit.com/r/hacking/wiki/index/) - A selection of links organized by reddit. [(dread)](https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/hacking/wiki?id=543e1426)
 
