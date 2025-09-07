@@ -153,7 +153,7 @@
 
 - [Evilginx](https://github.com/kgretzky/evilginx2) - Man-in-the-middle attack framework used for the bypass of 2-factor authentication.
 
-- [Wifiphisher](https://github.com/wifiphisher/wifiphisher) - Same concept of evilginx.
+- [Wifiphisher](https://github.com/wifiphisher/wifiphisher) - Same concept of Evil Twin.
 
 - [ZTE_router_unlock_tool](https://github.com/SahilB69/ZTE_router_unlock_tool) - MAC spoofing on ZTE chinese routers only.
 
