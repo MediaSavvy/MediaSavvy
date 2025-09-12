@@ -154,3 +154,7 @@ Don't share any personal information with online AI's.
 - ⭐ [Bark](https://huggingface.co/spaces/suno/bark)
 
 - ⭐ [WhisperSpeech](https://huggingface.co/spaces/collabora/WhisperSpeech)
+
+## OCR tools
+
+- [OCR TOOL](https://ocrtool.net/)

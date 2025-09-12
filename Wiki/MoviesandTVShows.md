@@ -14,6 +14,9 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [Fmovies+](https://www.fmovies.gd/): 4K & lower / Fast loading speeds / Good design / Multi server / Auto next / Supports downloading 
 
+- ⭐ [Tmovie](https://tmovie.tv/): 1080p & lower / Fast loading speeds / Multi server / Skip Intro option / Supports downloading / Good design 
+
+
 - ⭐ [XPrime](https://xprime.tv/): 1080p & lower / Fast loading speeds / Multi server / Auto next / Watch parties / Good design 
 
 - ⭐ [VeloraTV](https://veloratv.ru/): 1080p & lower / Fast loading speeds / Multi server / Auto next / Watch parties / Live TV / Good design
