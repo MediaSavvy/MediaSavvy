@@ -1,5 +1,4 @@
-# 💻Hacking Tools (Major updates in progress..)
-
+3# 💻Hacking Tools (Major updates in progress..)
 ***
 
 ## Phone Tools
@@ -72,6 +71,8 @@
 - [XSStrike](https://github.com/s0md3v/XSStrike) - Similar to Burp Suite (which is freemium), can extract session cookies in .json format.
 
 ## Cryptography / Passwords
+
+- [Evilginx](https://github.com/kgretzky/evilginx2) - Man-in-the-middle attack framework used for the bypass of 2-factor authentication.
 
 - [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher.
 
@@ -150,8 +151,6 @@
 - [Parsec](https://parsec.app/) - Gain control of other computers, very useful for social engineering.
 
 - [Everything-About-Captchas](https://github.com/TheGP/Everything-About-Captchas) - Everything related to captchas, including libraries, solvers and scoring.
-
-- [Evilginx](https://github.com/kgretzky/evilginx2) - Man-in-the-middle attack framework used for the bypass of 2-factor authentication.
 
 - [Wifiphisher](https://github.com/wifiphisher/wifiphisher) - Same concept of Evil Twin.
 
