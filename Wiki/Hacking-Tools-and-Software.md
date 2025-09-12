@@ -30,7 +30,9 @@
 ## Network Hacking Tools
 
 
--  [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT).
+- [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT).
+
+- [XSStrike](https://github.com/s0md3v/XSStrike) - Similar to Burp Suite (which is freemium), can extract session cookies in .json format.
 
 -  [Paros](http://sourceforge.net/projects/paros/) - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability.
 
@@ -67,8 +69,6 @@
 - [RustScan](https://github.com/rustscan/rustscan) - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
 
 - [PETEP](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
-
-- [XSStrike](https://github.com/s0md3v/XSStrike) - Similar to Burp Suite (which is freemium), can extract session cookies in .json format.
 
 ## Cryptography / Passwords
 
