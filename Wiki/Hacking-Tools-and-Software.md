@@ -27,7 +27,7 @@
 
 - [JS Nice](http://jsnice.org/) - a web service guessing JS variables names and types based on the model derived from open source.
 
-## Network Hacking Tools
+## Network Tools
 
 
 - [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT).
@@ -69,6 +69,8 @@
 - [RustScan](https://github.com/rustscan/rustscan) - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
 
 - [PETEP](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
+
+- [ZTE_router_unlock_tool](https://github.com/SahilB69/ZTE_router_unlock_tool) - MAC spoofing on ZTE chinese routers only.
 
 ## Cryptography / Passwords
 
@@ -153,8 +155,6 @@
 - [Everything-About-Captchas](https://github.com/TheGP/Everything-About-Captchas) - Everything related to captchas, including libraries, solvers and scoring.
 
 - [Wifiphisher](https://github.com/wifiphisher/wifiphisher) - Same concept of Evil Twin.
-
-- [ZTE_router_unlock_tool](https://github.com/SahilB69/ZTE_router_unlock_tool) - MAC spoofing on ZTE chinese routers only.
 
 - [0day.today.archive](https://github.com/vulncheck-oss/0day.today.archive) - List of exploits that were available on 0day.today (CW and DW).
   
