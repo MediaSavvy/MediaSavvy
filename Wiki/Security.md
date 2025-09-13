@@ -99,7 +99,7 @@ Please note: If malware has prohibited you from browsing the web or downloading 
 **Workaround on Windows:**
 
 Download and start [System Informer](https://systeminformer.sourceforge.io/), if you notice that an application is using too much processing power, do the full scan with MalwareBytes and RESTART (don't turn off) the machine.
-Then run [MRT](https://www.microsoft.com/en-us/download/details.aspx?id=16) and reboot by holding down shift. Start Windows in troubleshooting mode. If the problem reappears, you'll need to clean install or check if it is a hardware problem.
+Then run [MRT](https://www.microsoft.com/en-us/download/details.aspx?id=16) and reboot by holding down shif, start Windows in safe mode. If the problem reappears, you'll need to clean install or check if it is a hardware problem.
 
 **Think your Mac is infected?**
 
