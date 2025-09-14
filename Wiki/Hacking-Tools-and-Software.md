@@ -1,5 +1,4 @@
-# 💻Hacking Tools (Major updates in progress..)
-
+3# 💻Hacking Tools (Major updates in progress..)
 ***
 
 ## Phone Tools
@@ -28,10 +27,12 @@
 
 - [JS Nice](http://jsnice.org/) - a web service guessing JS variables names and types based on the model derived from open source.
 
-## Network Hacking Tools
+## Network Tools
 
 
--  [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT).
+- [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT).
+
+- [XSStrike](https://github.com/s0md3v/XSStrike) - Similar to Burp Suite (which is freemium), can extract session cookies in .json format.
 
 -  [Paros](http://sourceforge.net/projects/paros/) - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability.
 
@@ -69,9 +70,11 @@
 
 - [PETEP](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
 
-- [XSStrike](https://github.com/s0md3v/XSStrike) - Similar to Burp Suite (which is freemium), can extract session cookies in .json format.
+- [ZTE_router_unlock_tool](https://github.com/SahilB69/ZTE_router_unlock_tool) - MAC spoofing on ZTE chinese routers only.
 
 ## Cryptography / Passwords
+
+- [Evilginx](https://github.com/kgretzky/evilginx2) - Man-in-the-middle attack framework used for the bypass of 2-factor authentication.
 
 - [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher.
 
@@ -127,7 +130,7 @@
 
 ## Miscellaneous
 
-- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -  Curated list of a bunch of hacking guides and tools (with a special focus on OSS like Metasploit).
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - Curated list of a bunch of hacking guides and tools, with a special focus on OSS like **Metasploit** (to scan vulnerabilities) and **Wireshark** (for decoding of phone calls).
 
 - [r/hacking wiki](https://www.reddit.com/r/hacking/wiki/index/) - A selection of links organized by reddit. [(dread)](https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/hacking/wiki?id=543e1426)
 
@@ -151,8 +154,10 @@
 
 - [Everything-About-Captchas](https://github.com/TheGP/Everything-About-Captchas) - Everything related to captchas, including libraries, solvers and scoring.
 
-- [ZTE_router_unlock_tool](https://github.com/SahilB69/ZTE_router_unlock_tool) - MAC spoofing on ZTE chinese routers only.
+- [Wifiphisher](https://github.com/wifiphisher/wifiphisher) - Same concept of Evil Twin.
 
+- [0day.today.archive](https://github.com/vulncheck-oss/0day.today.archive) - List of exploits that were available on 0day.today (CW and DW).
+  
 - [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
 
 - [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence.
