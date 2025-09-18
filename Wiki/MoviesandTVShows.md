@@ -69,6 +69,8 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [HiAnime](https://hianime.to/)
 
+- ⭐ [Tanime](https://tanime.tv/)
+
 - [AnimePahe](https://animepahe.ru/): [Downloader](https://github.com/KevCui/animepahe-dl)
 
 - [123Anime](https://123animes.ru/)
