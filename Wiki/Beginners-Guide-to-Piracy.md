@@ -35,7 +35,7 @@ Check out FMHY's [piracy glossary](https://mediasavvy.pages.dev/Wiki/PiracyGloss
 :::
 
 ::: details How can I download Adobe products?
-You can download pre-cracked Adobe products from [M0nkrus](https://vk.com/monkrus) (make sure to use a VPN when downloading from M0nkrus since they are torrents! Also make sure that you DO NOT download collections as they have been accused of having malware on multiple occasions, stick to individual packages) or crack them yourself using GenP [here](https://reentry.co/mediasavvy-genp) (no need for a VPN).
+You can download pre-cracked Adobe products from [M0nkrus](https://vk.com/monkrus) (make sure to use a VPN when downloading from M0nkrus since they are torrents! Also make sure that you DO NOT download collections as they have been accused of having malware on multiple occasions, stick to individual packages) or crack them yourself using GenP [here](https://rentry.co/mediasavvy-genp) (no need for a VPN).
 :::
 
 ::: details What antivirus should I use?
