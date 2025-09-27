@@ -44,7 +44,7 @@ Make sure that you [BIND](https://redd.it/ssy8vv) your VPN client to prevent lea
 
 **1. ⭐ [RuTracker](https://rutracker.org/):**  Video / Audio / Games / Software / Android / Comics / Magazines
 
-**2. ⭐ [m0nkrus](https://w14.monkrus.ws/):** Adobe Software (Avoid collections as they have been accused of having malware multiple times, stick to individual Adobe programs to be safe.)
+**2. ⭐ [m0nkrus](https://vk.com/monkrus):** Adobe Software (Avoid collections as they have been accused of having malware multiple times, stick to individual Adobe programs to be safe.)
 
 **3. [1337x](https://1337x.to/):** Video / Audio / [Avoid Software and Games](https://pastebin.com/Rc9MYMZ7).
 
