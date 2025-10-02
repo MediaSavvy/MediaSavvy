@@ -92,6 +92,8 @@
 
 ## Windows Tools
 
+- [Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - Free Windows C development self-study course
+
 - [WinPwnage](https://github.com/rootm0s/WinPwnage) - Bypass UAC in some computers.
 
 - [GrabAccess](https://github.com/Push3AX/GrabAccess) - Another great tool to Bypass UAC.
