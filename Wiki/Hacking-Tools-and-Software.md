@@ -9,6 +9,8 @@
 
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Sherlock is a command line tool that can search over 50 social media services.
 
+- [Maigret](https://github.com/soxoj/maigret) - Currently supports more than 3000 sites (full list), search is launched against 500 popular sites in descending order of popularity by default. 
+
 ## DDoS / DoS Tools
 
 - ⭐ [MHDDoS](https://github.com/MatrixTM/MHDDoS) - An excellent DDoS / DoS tool. One of the best ones in my opinion.
@@ -90,6 +92,8 @@
 
 ## Windows Tools
 
+- [Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - Free Windows C development self-study course
+
 - [WinPwnage](https://github.com/rootm0s/WinPwnage) - Bypass UAC in some computers.
 
 - [GrabAccess](https://github.com/Push3AX/GrabAccess) - Another great tool to Bypass UAC.
@@ -140,11 +144,15 @@
 
 - [Hacking Tools](https://github.com/Z4nzu/hackingtool) - A program that has multiple penetration testing and hacking utilities.
 
+- [Ultimate RAT Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 500+ classic/modern trojan builders including screenshots.
+
 - [Censys](https://search.censys.io/) - Port mapping, service enumeration, operating system identification, geolocation, etc..
 
 - [Maltego](https://www.maltego.com/) - Get DNS, IP and Website Information with this tool.
   
 - [StormBreaker](https://github.com/ultrasecurity/Storm-Breaker) - Access webcam & microphone & location with Py, JS, PHP.
+
+- [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - An open-source firmware that turns your device into a multi-protocol hacker's tool, inspired by the legendary Bus Pirate.
 
 - [Hound](https://github.com/techchipnet/hound) - A light tool for information gathering and capture exact GPS coordinates.
 
