@@ -1,4 +1,4 @@
-3# 💻Hacking Tools (Major updates in progress..)
+# 💻Hacking Tools (Major updates in progress..)
 ***
 
 ## Phone Tools
