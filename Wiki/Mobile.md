@@ -42,7 +42,7 @@
 
 - ⭐ [NewPipe](https://newpipe.net/): Ad-free YouTube Frontend.
 
-- [Virtual Android](https://play.google.com/store/apps/details?id=com.clone.android.dual.space) / [Virtual Master](https://www.virtualmaster.app/): Android Virtual Machine.
+- ⭐ [Vectras](https://github.com/xoureldeen/Vectras-VM-Android/): Android Virtual Machine (Download from the beta releases page).
   
 - [Hypatia](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia): Fork of the original discontinued FOSS malware scanner.
   
