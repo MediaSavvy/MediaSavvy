@@ -15,6 +15,8 @@
 
 - ⭐ [MHDDoS](https://github.com/MatrixTM/MHDDoS) - An excellent DDoS / DoS tool. One of the best ones in my opinion.
 
+- [OpenBullet 2](https://github.com/openbullet/OpenBullet2) - Alternative to MHDDoS.
+
 - [LOIC](https://sourceforge.net/projects/loic/) - A decent DoS / DDoS tool that is easy to use and install. Note: This program doesn't have malware, it is just flagged as malware because it's a DDoS / DoS tool.
 
 - [XOIC](https://appnee.com/xoic/) - Similar to LOIC.
