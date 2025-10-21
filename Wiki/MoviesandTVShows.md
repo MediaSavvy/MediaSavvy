@@ -143,7 +143,7 @@ Make sure to use a VPN!
 
 - ⭐ [Stremio](https://stremio.com): Supports downloading / 4K and lower / [Guide](https://guides.viren070.me/stremio)
 
-- ⭐ [Cloudstream](https://cloudstream-on-fleek-co.ipns.dweb.link/): Supports downloading / 4K and lower / [Plugins](https://rentry.org/cs3-repos)
+- ⭐ [Cloudstream](https://github.com/recloudstream/cloudstream): Supports downloading / 4K and lower / [Plugins](https://rentry.org/cs3-repos)
 
 
 - ⭐ [HDO Box](https://hdo.app) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)
