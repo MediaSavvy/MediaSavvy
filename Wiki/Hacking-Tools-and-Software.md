@@ -164,6 +164,8 @@
 
 - [Parsec](https://parsec.app/) - Gain control of other computers, very useful for social engineering.
 
+- [RansomLook](https://www.ransomlook.io/) - Ransomware gang tracker.
+  
 - [Everything-About-Captchas](https://github.com/TheGP/Everything-About-Captchas) - Everything related to captchas, including libraries, solvers and scoring.
 
 - [Wifiphisher](https://github.com/wifiphisher/wifiphisher) - Same concept of Evil Twin.
