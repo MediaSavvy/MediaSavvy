@@ -10,7 +10,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 :::
 
 
-- ⭐ [Cineby](https://www.cineby.ru/): 4K & lower / Fast loading speeds / Good design / Multi server / Auto next / Supports downloading
+- ⭐ [Cineby](https://www.cineby.gd/): 4K & lower / Fast loading speeds / Good design / Multi server / Auto next / Supports downloading
 
 - ⭐ [Fmovies+](https://www.fmovies.gd/): 4K & lower / Fast loading speeds / Good design / Multi server / Auto next / Supports downloading 
 
