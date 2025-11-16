@@ -33,7 +33,7 @@ If you are streaming movies/tv shows and it buffers, you can try [FastStream](ht
 
 - ⭐ [BEECH](https://beech.watch/) or [Mocine](https://mocine.cam/): 1080p & Lower / Fast loading speeds / Multi Server / Good design / Supports downloading / Watch parties
 
-- ⭐ [movie-web](https://erynith.github.io/movie-web-instances/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next / [Add more sources](https://pastebin.com/w8Brq2UA).
+- ⭐ [movie-web](https://erynith.github.io/movie-web-instances/) / [Lordflix](https://lordflix.club/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next / [Add more sources](https://pastebin.com/w8Brq2UA).
 
 
 - [7Xtream](https://movies.7xtream.com/): 1080p & Lower / Fast loading speeds / Multi server / Good Design / Auto next
