@@ -28,7 +28,7 @@ Don't share any personal information with online AI's.
 
 - [Claude](https://www.anthropic.com/product): Anthropic's AI chatbot.
 
-- [Meta AI](https://www.meta.ai/): Metas chatbot, Llama 4.
+- [Meta AI](https://www.meta.ai/): Meta's chatbot, Llama 4.
 
 - [MiniMax AI](https://chat.minimax.io/): Minimax-M1
 
