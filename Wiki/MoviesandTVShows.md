@@ -5,7 +5,7 @@
 
 - ⭐ [Cineby](https://www.cineby.gd/): 4K & lower / Fast loading speeds / Good design / Multi server / Auto next / Supports downloading
 
-- ⭐ [P-Stream](https://pstream.mov/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next / [Add more sources](https://pastebin.com/w8Brq2UA).
+- ⭐ [P-Stream](https://pstream.mov/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next
 
 - ⭐ [Tmovie](https://tmovie.tv/): 1080p & lower / Fast loading speeds / Multi server / Skip Intro option / Supports downloading / Good design 
 
@@ -23,7 +23,7 @@
 
 - [MokMobi](https://mokmobi.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading 
 
-- [Lordflix](https://lordflix.club/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next / [Add more sources](https://pastebin.com/w8Brq2UA).
+- [Lordflix](https://lordflix.club/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto-next
 
 ### Stream Aggregators
 
@@ -181,7 +181,7 @@ Supports downloading / Ok design / 1080p & lower
 
 - [Kodi](https://kodi.tv/): Home theater media center. Host your own content or add online content sources (/r/Addons4Kodi)
 
-- [Stremio](https://stremio.com): [Guide](https://rentry.co/a-guide-to-stremio)
+- [Stremio](https://stremio.com)
 
 ## Subtitles
 
