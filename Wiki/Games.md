@@ -1,4 +1,4 @@
-# 🎮 Games / Repacks / Emulation
+# Games / Repacks / Emulation
 
 ***
 

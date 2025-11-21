@@ -1,4 +1,4 @@
-# 📱 Mobile (Currently being updated...)
+# Mobile (Currently being updated...)
  
 ## Android APKS
 - ⭐ [App Manager](https://github.com/MuntashirAkon/AppManager/): Package manager with useful features.

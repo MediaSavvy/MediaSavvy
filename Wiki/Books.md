@@ -1,4 +1,4 @@
-# 📚 Books / Comics / Audiobooks & More
+# Books / Comics / Audiobooks & More
 
 ## Ebooks:
 

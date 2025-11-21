@@ -1,4 +1,4 @@
-# ⚠️ Unsafe Websites and Programs
+# Unsafe Websites and Programs
 ### Websites and programs you should never use.
  
 ***

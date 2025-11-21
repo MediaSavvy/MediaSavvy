@@ -1,4 +1,4 @@
-# 🧩 Adblocking / Extensions / Bypassers
+# Adblocking / Extensions / Bypassers
 
 ## Adblocking
 

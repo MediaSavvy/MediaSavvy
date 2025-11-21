@@ -1,4 +1,4 @@
-# 🎦 Movies / TV shows / Live TV
+# Movies / TV shows / Live TV
 
 
 ## Streaming Websites

@@ -1,4 +1,4 @@
-# 🛡️ Security (Updates in progress...)
+# Security (Updates in progress...)
 ### Shows the best programs / websites for security. 
 
 

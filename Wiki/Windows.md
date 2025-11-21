@@ -1,4 +1,4 @@
-# 🪟 Windows (Update in progress...)
+# Windows (Update in progress...)
 ### Windows tools, guides and more.
 
 ## Windows Activation

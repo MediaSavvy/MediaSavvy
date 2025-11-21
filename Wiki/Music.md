@@ -1,4 +1,4 @@
-# 🎵 Music / Radio / Podcasts
+# Music / Radio / Podcasts
 
 ***
 

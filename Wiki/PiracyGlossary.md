@@ -1,4 +1,4 @@
-# 🔠 Piracy Glossary
+# Piracy Glossary
 ### Shows you the meaning of words related to piracy, books, movies, music, torrenting etc.
 
 :::warning Credits to FMHY for making this Piracy Glossary

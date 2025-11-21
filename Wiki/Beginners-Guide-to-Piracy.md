@@ -1,4 +1,4 @@
-# 🚀 Beginners guide to piracy (Currently being updated!)
+# Beginners guide to piracy (Currently being updated!)
 
 ## What you need to know:
 

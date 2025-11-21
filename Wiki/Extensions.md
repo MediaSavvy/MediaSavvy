@@ -1,4 +1,4 @@
-# 🧩 Extensions
+# Extensions
 ### Extensions For Your Browser
 
 ***

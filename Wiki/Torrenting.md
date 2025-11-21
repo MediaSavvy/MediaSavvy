@@ -1,4 +1,4 @@
-# 🌀 Torrenting
+# Torrenting
 ### Torrent Clients, Trackers, Sites
 
 ***

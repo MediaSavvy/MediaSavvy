@@ -1,4 +1,4 @@
-# 🔒 Privacy (Update in progress...)
+# Privacy (Update in progress...)
 
 ***
 

@@ -1,4 +1,4 @@
-# 💾 Software
+# Software
 ### This list shows you how to get premium features / paid software for free.
 
 ***

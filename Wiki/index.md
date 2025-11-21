@@ -1,4 +1,4 @@
-# 👋 Welcome 
+# Welcome 
 
 Welcome to MediaSavvy, a trusted source for carefully curated piracy and other informative guides. MediaSavvy is dedicated to providing top-tier resources that we personally use, recommend, and deem reliable, safe, high quality, trustwothy and practical for everyone. 
 
