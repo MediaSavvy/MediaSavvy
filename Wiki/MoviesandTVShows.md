@@ -3,7 +3,7 @@
 
 ## Streaming Websites
 
-- ⭐ [Cineby](https://www.cineby.gd/): 4K & lower / Fast loading speeds / Good design / Multi server / Auto next / Supports downloading
+- ⭐ [Cineby](https://www.cineby.gd/) or [Fmovies+](https://www.fmovies.gd/): 4K & lower / Fast loading speeds / Good design / Multi server / Auto next / Supports downloading
 
 - ⭐ [P-Stream](https://pstream.mov/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next
 
@@ -18,8 +18,6 @@
 - [Rive](https://rivestream.org): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Supports downloading
 
 - [MovieMaze](https://moviemaze.cc): 4K, 1080p & Lower / Multi Server / Fast loading speeds / Great design / Auto next 
-
-
 
 - [MokMobi](https://mokmobi.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading 
 
@@ -98,9 +96,9 @@
 
 - ⭐ [1Shows](https://www.1shows.ru/), [RgShows](https://www.rgshows.ru/)
 
-- ⭐ [LightDLMovies](https://lightdl.xyz/): Movies & TV / 1080p & Lower / DDL / One click download
+- ⭐ [LightDLMovies](https://lightdl.xyz/): Movies & TV / 1080p & Lower / DDL / One-click download
 
-- [Cinepeace](https://cinepeace.in/), [LunaStream](https://lunastream.fun/), [VidBox](https://vidbox.cc/)
+- [Cinepeace](https://cinepeace.in/), [LunaStream](https://lunastream.fun/), [VidBox](https://vidbox.cc/): One-click download
 
 - [PSARips](https://psa.wf/): Movies & TV / 4K & Lower / DDL & Torrents
 
@@ -150,12 +148,14 @@ Open-source / Ad-free / Can't download movies / Ok design / 1080p & lower / Very
 Supports downloading / Ok design / 1080p & lower
 
 ### iOS & iPadOS streaming:
-:::danger There's not many good movie apps for iOS / iPadOS so I recommend you just use a website listed above with an [adblocker](https://mediasavvy.pages.dev/Wiki/Adblocking/#adblocking-for-ios--ipados-system-wide). If you want an app anyways, there is a good one listed below.
-:::
 
-- ⭐ [Sora](https://testflight.apple.com/join/uJPzdTTj)
+- ⭐ [Stremio Lite](https://apps.apple.com/us/app/stremio-lite/id6741710156) / [Stremio web](https://web.stremio.com/): [Guide](https://guides.viren070.me/stremio)
 
-- ⭐ [Streamer](https://github.com/StreamerApp/Streamer)
+- ⭐ [Sora](https://github.com/cranci1/Sora) / [Testflight Download](https://testflight.apple.com/join/uJPzdTTj): [Modules](https://library.cufiy.net/library/)
+
+- [Streamer](https://github.com/StreamerApp/Streamer)
+
+
 
 ## IPTV
 
