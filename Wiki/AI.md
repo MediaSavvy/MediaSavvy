@@ -8,12 +8,13 @@ Don't share any personal information with online AI's.
 
 ### Chatbots:
 
+- ⭐ [AI Studio](https://aistudio.google.com/app/prompts/new_chat) or [Gemini](https://Gemini.google.com/): Gemini 3 Pro
 
-- ⭐ [ChatGPT](https://chat.openai.com): GPT-5 and GPT-5 Mini chatbots.
+- ⭐ [ChatGPT](https://chat.openai.com): GPT-5.1
 
 - ⭐ [Microsoft Copilot](https://copilot.microsoft.com/): Free GPT-4o, GPT-5 powered search and chatbot / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 
-- ⭐ [AI Studio](https://aistudio.google.com/app/prompts/new_chat) or [Gemini](https://Gemini.google.com/): Google's chatbot.
+- ⭐ [Kimi](https://kimi.ai/): K2 Chatbot
 
 - ⭐ [Qwen](https://chat.qwenlm.ai/): Alibabas chatbots.
 
@@ -23,14 +24,11 @@ Don't share any personal information with online AI's.
 
 - ⭐ [LMSYS](https://chat.lmsys.org/): GPT-4o and other chatbots.
 
-- ⭐ [Z.ai](https://chat.z.ai/): GLM 4.5
+- ⭐ [Z.ai](https://chat.z.ai/): GLM 4.6
 
 - [Claude](https://www.anthropic.com/product): Anthropic's AI chatbot.
 
 - [Meta AI](https://www.meta.ai/): Metas chatbot, Llama 4.
-
-
-- [Kimi](https://kimi.ai/): K2 Chatbot
 
 - [MiniMax AI](https://chat.minimax.io/): Minimax-M1
 
