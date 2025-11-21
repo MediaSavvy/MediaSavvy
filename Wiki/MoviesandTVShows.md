@@ -1,8 +1,6 @@
 # 🎦 Movies / TV shows / Live TV
 
 
-***
-
 ## Streaming Websites
 
 - ⭐ [Cineby](https://www.cineby.gd/): 4K & lower / Fast loading speeds / Good design / Multi server / Auto next / Supports downloading
@@ -84,11 +82,6 @@
 
 - [HiCartoons](https://hicartoon.to/): TV / Movies
 
-
-
-
-***
-
 ## Downloading
 
 ### Direct Downloading:
@@ -103,8 +96,8 @@
 
 - ⭐ [Movie Paradise](https://movieparadise.org/): Movies & TV / 1080p / [Code](https://rentry.org/he8fhzku) or [FMHY's Discord at the "free stuff" channel](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) (Unlocks faster file host, 1fichier)
 
-- ⭐ [1Shows](https://www.1shows.ru/), [RgShows](https://www.rgshows.ru/
-)
+- ⭐ [1Shows](https://www.1shows.ru/), [RgShows](https://www.rgshows.ru/)
+
 - ⭐ [LightDLMovies](https://lightdl.xyz/): Movies & TV / 1080p & Lower / DDL / One click download
 
 - [Cinepeace](https://cinepeace.in/), [LunaStream](https://lunastream.fun/), [VidBox](https://vidbox.cc/)
@@ -129,9 +122,6 @@ Make sure to use a VPN!
 
 - [YTS](https://yts.it/): TV & Anime & Movies / [DON'T](https://web.archive.org/web/20230729051829/https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) make an account!
 
-
-
-***
 
 ## Mobile Streming
 
