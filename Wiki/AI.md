@@ -10,9 +10,9 @@ Don't share any personal information with online AI's.
 
 - ⭐ [AI Studio](https://aistudio.google.com/app/prompts/new_chat) or [Gemini](https://Gemini.google.com/): Gemini 3 Pro
 
-- ⭐ [ChatGPT](https://chat.openai.com): GPT-5.1
+- ⭐ [Microsoft Copilot](https://copilot.microsoft.com/): GPT-5 / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 
-- ⭐ [Microsoft Copilot](https://copilot.microsoft.com/): Free GPT-4o, GPT-5 powered search and chatbot / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+- ⭐ [Grok](https://grok.com/): Grok 3 and 4.
 
 - ⭐ [Kimi](https://kimi.ai/): K2 Chatbot
 
@@ -20,55 +20,63 @@ Don't share any personal information with online AI's.
 
 - ⭐ [DeepSeek](https://www.deepseek.com/): DeepSeek V3 and R1 / Unlimited / Self-hostable.
 
-- ⭐ [Grok](https://grok.com/): Grok 3 and 4.
-
-- ⭐ [LMSYS](https://chat.lmsys.org/): GPT-4o and other chatbots.
-
 - ⭐ [Z.ai](https://chat.z.ai/): GLM 4.6
 
 - [Claude](https://www.anthropic.com/product): Anthropic's AI chatbot.
 
+- [ChatGPT](https://chat.openai.com): GPT-5.1
+
 - [Meta AI](https://www.meta.ai/): Meta's chatbot, Llama 4.
 
-- [MiniMax AI](https://chat.minimax.io/): Minimax-M1
+- [MiniMax AI](https://chat.minimax.io/): Minimax-M2
 
 - [Solar](https://console.upstage.ai/playground/chat): Solar Pro 2 Chatbot.
 
 - [Mistral](https://chat.mistral.ai/chat): Multiple chatbots / Account required.
 
-
-- [HuggingChat](https://huggingface.co/chat/): Multiple chatbots.
+- [LongCat](https://longcat.chat/)
 
 - [Pi](https://pi.ai/talk): Emotionally intelligent AI.
 
-- [Poe](https://www.poe.com): Multiple chatbots, image generation bots, roleplaying bots.
 
-- [DuckDuckGo AI](https://duck.ai/): Multiple chatbots.
+
+
+### Multi-Model Sites
+
+- ⭐ [LMSYS](https://chat.lmsys.org/): Gemini 3 Pro and other chatbots / Reset limits with a temporary email / Sign-up
+
+-[Yupp.ai](https://yupp.ai/): Gemini 3 Pro, GPT-5, Qwen 3 Max, and more / Sign-up/
+
+- [ISH](https://ish.chat/): GPT-5, Grok 4.1, Kimi K2, and more / No sign-up
+
+- [DuckDuckGo AI](https://duck.ai/): GPT-5 Mini, and more / No sign-up
+
+- [Poe](https://www.poe.com): Multiple chatbots, image generation bots, roleplaying bots / Sign-up
+
+- [HuggingChat](https://huggingface.co/chat/): Multiple chatbots / Sign-up
+
+
 
 
 ### AI Search Bots:
 
-- ⭐ [Perplexity](https://www.perplexity.ai/): GPT 4o powered search and chatbot. Great for research.
+- ⭐ [Perplexity](https://www.perplexity.ai/): AI search engine.
 
-- ⭐ [Sicra](https://scira.app/): AI search engine based on Grok.
+- [Sicra](https://scira.app/): AI search engine based on Grok.
 
-- [You](https://you.com/): AI Search engine and chatbot.
-
--  [Phind](https://www.phind.com/)
-
--  [Wrtn](https://wrtn.ai/): Free GPT 4o chatbot and search / Ask for English
 
 ### Roleplaying & AI Companions:
 
-- ⭐ [FlowGPT](https://flowgpt.com/chat): Roleplaying chatbots.
-
-- ⭐ [Character.AI](https://character.ai/): Roleplaying chatbots.
-
-- ⭐ [Call Annie](https://callannie.ai/): GPT-3.5 powered chatbot with real-time voice and video calls.
-
-- ⭐ [Replika](https://www.replika.ai): AI Companion.
+- ⭐ [FlowGPT](https://flowgpt.com/chat): Roleplaying chatbots / Some NSFW.
 
 - [Chub](https://www.chub.ai/): Roleplaying / NSFW.
+
+- [Call Annie](https://callannie.ai/): GPT-3.5 powered chatbot with real-time voice and video calls.
+
+- [Replika](https://www.replika.ai): AI Companion.
+
+- [Character.AI](https://character.ai/): Roleplaying chatbots.
+
 
 
 ## Learning
@@ -84,9 +92,7 @@ Don't share any personal information with online AI's.
 
 ## AI Tools
 
-- ⭐ [ChatPDF](https://www.chatpdf.com/): Turn Books into Chatbots.
-
-- ⭐ [Ask your PDF](https://askyourpdf.com/): Turn books into chatbots.
+- ⭐ [NotebookLM](https://notebooklm.google/): Document chatbot.
 
 - ⭐ [Wolframe Alpha](https://www.wolframalpha.com/): Searchable knowledge base.
 
