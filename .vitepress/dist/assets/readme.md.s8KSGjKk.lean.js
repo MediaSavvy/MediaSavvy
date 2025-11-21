@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,R as r}from"./chunks/framework.AUDb36nd.js";const y=JSON.parse('{"title":"MediaSavvy!","description":"","frontmatter":{},"headers":[],"relativePath":"readme.md","filePath":"readme.md"}'),i={name:"readme.md"},o=r("",10),s=[o];function n(l,d,p,h,c,m){return a(),t("div",null,s)}const f=e(i,[["render",n]]);export{y as __pageData,f as default};
