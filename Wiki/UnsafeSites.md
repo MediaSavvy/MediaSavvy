@@ -153,8 +153,6 @@
 
 - **GShade (ReShade mod):**  Dev added code that can trigger unwanted reboots.
 
-- **OnStream:**  Closed source, most likely malicious.
-
 - **TotalAV / PC Protect / Protected:** Antivirus Software Scam.
 
 - **VSTorrent:**  Caught with malware
