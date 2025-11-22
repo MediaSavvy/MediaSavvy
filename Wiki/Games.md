@@ -29,6 +29,8 @@
 - [GOG-Games](https://gog-games.to): [Backup](https://github.com/ezerear/gog-games.to_backup)
 
 - [Torrminatorr](https://forum.torrminatorr.com/)
+  
+- [SteamOra](https://steamora.net/): DDLs / Pre-installed games / Torrents.
 
 ### Game Repacks:
 
