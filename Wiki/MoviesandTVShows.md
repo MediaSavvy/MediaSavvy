@@ -5,21 +5,21 @@
 
 - ⭐ [Cineby](https://www.cineby.gd/) or [Fmovies+](https://www.fmovies.gd/): 4K & lower / Fast loading speeds / Good design / Multi server / Auto next / Supports downloading
 
-- ⭐ [P-Stream](https://pstream.mov/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next
-
-- ⭐ [Tmovie](https://tmovie.tv/): 1080p & lower / Fast loading speeds / Multi server / Skip Intro option / Supports downloading / Good design 
+- ⭐ [P-Stream](https://pstream.mov/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next 
 
 - ⭐ [XPrime](https://xprime.tv/): 1080p & lower / Fast loading speeds / Multi server / Auto next / Watch parties / Good design 
 
 - ⭐ [VeloraTV](https://veloratv.ru/): 1080p & lower / Fast loading speeds / Multi server / Auto next / Watch parties / Live TV / Good design
 
-- ⭐ [CineBolt](https://cinebolt.net/): 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design
+- ⭐ [Tmovie](https://tmovie.tv/): 1080p & lower / Fast loading speeds / Multi server / Skip Intro option / Supports downloading / Good design
 
 - [Rive](https://rivestream.org): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Supports downloading
 
 - [MovieMaze](https://moviemaze.cc): 4K, 1080p & Lower / Multi Server / Fast loading speeds / Great design / Auto next 
 
 - [MokMobi](https://mokmobi.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading 
+
+- [CineBolt](https://cinebolt.net/): 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design
 
 - [Lordflix](https://lordflix.club/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto-next
 
