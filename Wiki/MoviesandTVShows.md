@@ -153,6 +153,8 @@ Supports downloading / Ok design / 1080p & lower
 
 - ⭐ [Sora](https://github.com/cranci1/Sora) / [Testflight Download](https://testflight.apple.com/join/uJPzdTTj): [Modules](https://library.cufiy.net/library/)
 
+- ⭐ [Luna](https://github.com/cranci1/Luna): [Services](https://library.cufiy.net/library/)
+
 
 ## IPTV
 
