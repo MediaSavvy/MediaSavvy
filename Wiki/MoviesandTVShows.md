@@ -15,7 +15,7 @@
 
 - [Rive](https://rivestream.org): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Nice design / Supports downloading
 
-- [CornClick](http://cornclick.com/): 1080p & Lower/ Fast loading speeds / Multi Server / Nice design
+- [CornClick](http://cornclick.com/): 1080p & Lower / Fast loading speeds / Multi Server / Nice design
 
 - [MovieMaze](https://moviemaze.cc): 4K, 1080p & Lower / Multi Server / Fast loading speeds / Great design / Auto next 
 
