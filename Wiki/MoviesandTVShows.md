@@ -47,6 +47,8 @@
 - ⭐ [HiAnime](https://hianime.to/)
 
 - ⭐ [Tanime](https://tanime.tv/)
+ 
+- [AnimLok] (https://animelok.to) 
 
 - [All Manga](https://allmanga.to/)
 
