@@ -13,13 +13,15 @@
 
 - ⭐ [Tmovie](https://tmovie.tv/): 1080p & lower / Fast loading speeds / Multi server / Skip Intro option / Supports downloading / Good design
 
+- [VIBLIX](https://viblix.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading 
+
 - [Rive](https://rivestream.org): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Nice design / Supports downloading
 
 - [CornClick](http://cornclick.com/): 1080p & Lower / Fast loading speeds / Multi Server / Nice design
 
 - [MovieMaze](https://moviemaze.cc): 4K, 1080p & Lower / Multi Server / Fast loading speeds / Great design / Auto next 
 
-- [MokMobi](https://mokmobi.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading 
+
 
 - [CineBolt](https://cinebolt.net/): 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design
 
