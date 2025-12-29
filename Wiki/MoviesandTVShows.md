@@ -9,7 +9,7 @@
 
 - ⭐ [XPrime](https://xprime.tv/): 1080p & lower / Fast loading speeds / Multi server / Auto next / Watch parties / Good design 
 
-- ⭐ [VIBLIX](https://viblix.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading 
+- ⭐ [VIBLIX](https://viblix.ovh/): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Supports downloading 
 
 
 - ⭐ [Tmovie](https://tmovie.tv/): 1080p & lower / Fast loading speeds / Multi server / Skip Intro option / Supports downloading / Good design
