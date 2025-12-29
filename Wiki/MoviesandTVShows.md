@@ -9,11 +9,13 @@
 
 - ⭐ [XPrime](https://xprime.tv/): 1080p & lower / Fast loading speeds / Multi server / Auto next / Watch parties / Good design 
 
-- ⭐ [VeloraTV](https://veloratv.ru/): 1080p & lower / Fast loading speeds / Multi server / Auto next / Watch parties / Live TV / Good design
+- ⭐ [VIBLIX](https://viblix.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading 
+
 
 - ⭐ [Tmovie](https://tmovie.tv/): 1080p & lower / Fast loading speeds / Multi server / Skip Intro option / Supports downloading / Good design
 
-- [VIBLIX](https://viblix.ovh/): 4K, 1080p & Lower/ Fast loading speeds / Multi Server / Nice design / Supports downloading 
+- ⭐ [VeloraTV](https://veloratv.ru/): 1080p & lower / Fast loading speeds / Multi server / Auto next / Watch parties / Live TV / Good design
+
 
 - [Rive](https://rivestream.org): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Nice design / Supports downloading
 
