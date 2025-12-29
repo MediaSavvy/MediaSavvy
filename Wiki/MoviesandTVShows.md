@@ -31,7 +31,7 @@
 
 ### Stream Aggregators
 
-- ⭐ [BEECH](https://beech.watch/) or [Mocine](https://mocine.cam/): 1080p & Lower / Fast loading speeds / Good design / Supports downloading / Watch parties / Auto-next
+- ⭐ [BEECH](https://beech.watch/): 1080p & Lower / Fast loading speeds / Good design / Supports downloading / Watch parties / Auto-next
 
 - ⭐ [CinemaOS](https://cinemaos.live/): 1080p & Lower / Fast loading speeds / Good design / Supports downloading / Watch parties / Auto-next
 
