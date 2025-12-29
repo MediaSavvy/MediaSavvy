@@ -17,7 +17,10 @@
 - ⭐ [VeloraTV](https://veloratv.ru/): 1080p & lower / Fast loading speeds / Multi server / Auto next / Watch parties / Live TV / Good design
 
 
+
 - [Rive](https://rivestream.org): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Nice design / Supports downloading
+
+- [Cinetaro](https://cinetaro.live/): 4K, 1080p & Lower / Multi Server / Fast loading speeds / Nice design / Auto next 
 
 - [CornClick](http://cornclick.com/): 1080p & Lower / Fast loading speeds / Multi Server / Nice design
 
