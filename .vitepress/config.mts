@@ -1,6 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
+import { defineConfig } from 'vitepress'
+
+// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: 'MediaSavvy',
   description: "A piracy and all purpose wiki",
@@ -11,17 +14,20 @@ export default defineConfig({
   lastUpdated: true,
   head: [
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/logo.png' }],
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
+    ['meta', { name: 'google-site-verification', content: 'DCRexKyddux1ICFC-vTdfXUY7H8JbSPpU1DM9I35NgE' }],
+    ['link', { rel: 'canonical', href: 'https://mediasavvy.pages.dev' }],
     ['meta', { property: 'og:title', content: 'MediaSavvy' }],
     ['meta', { property: 'og:description', content: 'A piracy and all-purpose wiki' }],
-    ['meta', { property: 'og:image', content: '/favicon.ico' }],
+    ['meta', { property: 'og:image', content: 'https://mediasavvy.pages.dev/logo.png' }],
     ['meta', { property: 'og:url', content: 'https://mediasavvy.pages.dev' }],
+    ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:title', content: 'MediaSavvy' }],
     ['meta', { name: 'twitter:description', content: 'A piracy and all-purpose wiki' }],
-    ['meta', { name: 'twitter:image', content: '/favicon.ico' }],
-    ['link', { rel: 'canonical', href: 'https://mediasavvy.pages.dev' }],
-    ['meta', { name: 'google-site-verification', content: 'DCRexKyddux1ICFC-vTdfXUY7H8JbSPpU1DM9I35NgE' }],
+    ['meta', { name: 'twitter:image', content: 'https://mediasavvy.pages.dev/logo.png' }],
     ['script', { type: 'application/ld+json' }, JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebSite",
@@ -39,12 +45,12 @@ export default defineConfig({
       provider: "local",
     },
     outline: "deep",
-    logo: "/favicon.ico", // Using absolute path for safety
+    logo: "/logo.png", // Changed this to PNG for a sharper look in the navbar
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Discord Server (link fixed)', link: 'https://discord.com/invite/uEKARuGczF' },
-      { text: 'Guides', link: 'https://rentry.org/mediasavvy-guides' },
-      { text: 'Contact/Need help?', link: '/contact-me' }
+                            { text: 'Guides', link: 'https://rentry.org/mediasavvy-guides' },
+                            { text: 'Contact/Need help?', link: '/contact-me' }
     ],
     sidebar: [
       {
