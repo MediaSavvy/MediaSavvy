@@ -2,7 +2,7 @@
 
 ## Ebooks:
 
-- ⭐ [Anna's Archive](https://annas-archive.org/): Books, Comics, Manga.
+- ⭐ [Anna's Archive](https://annas-archive.li/): Books, Comics, Manga.
 
 - ⭐ [Library Genesis](https://libgen.is/):Books, Comics, Manga.
 
