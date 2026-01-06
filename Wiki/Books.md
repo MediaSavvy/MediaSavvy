@@ -4,8 +4,6 @@
 
 - ⭐ [Anna's Archive](https://annas-archive.li/): Books, Comics, Manga.
 
-- ⭐ [Library Genesis](https://libgen.is/):Books, Comics, Manga.
-
 - ⭐ [Z-Library](https://z-lib.gs/): Books, Comics, Educational.
 
 - ⭐ [Mobilism](https://forum.mobilism.org/): Books, Audiobooks, Magazines, Newspapers & Comics.
