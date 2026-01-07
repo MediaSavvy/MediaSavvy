@@ -8,6 +8,8 @@
 
 - ⭐ [Mobilism](https://forum.mobilism.org/): Books, Audiobooks, Magazines, Newspapers & Comics.
 
+- ⭐ [Library Genesis](https://libgen.li/): Books & Comics.
+
 - ⭐ [Libre3](https://liber3.eth.limo/): Books.
 
 - ⭐ [Calibre](https://calibre-ebook.com/): Ebook Manager / Downloader.
