@@ -122,23 +122,23 @@ Install a better anti-virus. See recommendations above.
 
  
 
-**What is malware?**
+##### **What is malware?**
 
 [Malware](http://en.wikipedia.org/wiki/Malware) is an umbrella term used to refer to a variety of forms of hostile or intrusive software, including computer viruses, pups, worms, trojan horses, ransomware, spyware, adware, scareware, and other malicious programs. It can take the form of executable code, scripts, active content, and other software. 
 
  
 
-**How did I get infected?**
+##### **How did I get infected?**
 
 It is difficult to track down the source of an infection. Most infections are actually given permission to run unknowingly by the user. It is recommended to keep User Account Control turned on and never give access to something you do not trust or did not open. Many other infections come via exploits in your browser or browser plug-ins on websites you visit. Always be very careful what you install. Make sure you trust the source implicitly. When downloading programs, always use the publisher’s website directly.
 
  
 
-**How to prevent future infections:**
+##### **How to prevent future infections:**
 
 Be very careful what you download and install. Keep your software up-to-date. Using Ninite for installing/updating software is very easy & safe and uses official installers without adding extra software to your PC during installation. Make sure Windows is kept up-to-date as well, including Windows 10 feature updates. Many Windows updates patch exploits and vulnerabilities in your operating system. Most infections are active because the user has unknowingly given it Administrative permission to install and run. The first line of defense starts with you.
 
-**How to avoid malware:**
+##### **How to avoid malware:**
 
 If you're going to download software/games, definitely avoid the [piratebay](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/). They have an immense amount of fake torrents and it's just not worth the risk of wading through their crap heap.
 
