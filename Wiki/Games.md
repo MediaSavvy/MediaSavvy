@@ -32,6 +32,8 @@
   
 - [SteamOra](https://steamora.net/): DDLs / Pre-installed games / Torrents.
 
+- [SteamDownload](https://www.steamdownload.cn/?lang=en): Chinese site with English UI / PC, Switch, retro & mobile games / Mirrored on several cloud drives (Quark, Baidu, Xunlei, UC) / No sign-up.
+
 ### Game Repacks:
 
 - ⭐ [FitGirl Repacks](https://www.fitgirl-repacks.site)
